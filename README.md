@@ -74,7 +74,7 @@ cd pariksha-ai
 npm install
 
 # (Optional) Install Python worker dependencies
-pip install -r python_worker/requirements.txt
+pip install -r scripts/python_worker/requirements.txt
 ```
 
 ### 3. Environment Setup
@@ -141,7 +141,7 @@ pariksha-ai/
 │   │   ├── testEngine.ts               # Test session generator & evaluation engine
 │   │   └── i18n.ts                     # Multilingual dictionaries (EN, HI, BN)
 │   └── types/index.ts                  # TypeScript domain models
-├── python_worker/
+├── scripts/python_worker/
 │   ├── extractor.py                    # PDF OCR parser, regex chunker & duplicate detector
 │   └── requirements.txt                # Python worker dependencies
 ├── supabase/
