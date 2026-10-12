@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q1",
+    "subjectCode": "reasoning",
+    "topicCode": "ranking",
+    "questionText": "Forty students of class V are standing in a queue for going to attend school’s morning assembly. Only Eight classmates are standing before Reena and only seven classmates are standing after Sachin. How many students are standing between Reena and Sachin?",
+    "options": [
+      {
+        "label": "A",
+        "text": "27"
+      },
+      {
+        "label": "B",
+        "text": "21"
+      },
+      {
+        "label": "C",
+        "text": "23"
+      },
+      {
+        "label": "D",
+        "text": "25"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Reena is 9th from the front; Sachin is (40−7)=33rd from the front. Between them =33−9−1=23.",
+      "beginner": "This is question #1 from official Patwari (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q2",
+    "subjectCode": "reasoning",
+    "topicCode": "floor_arrangement",
+    "questionText": "Six friends C, D, E, F, G and H, working in the same office, live in the same building but on different floors. Ground floor is numbered as 1st floor, the floor above it as 2nd floor and so on up to 6th floor. G lives between the floors of C and F. E lives between the floors of D and H. F does not live above/below the floor of H. Two friends live above the floor of F. On which floor does D live?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3rd"
+      },
+      {
+        "label": "B",
+        "text": "6th"
+      },
+      {
+        "label": "C",
+        "text": "4th"
+      },
+      {
+        "label": "D",
+        "text": "1st"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The supplied English text says F is neither above nor below H while all six live on different floors. That is contradictory. The item is displayed but excluded from scoring pending source verification.",
+      "beginner": "This is question #2 from official Patwari (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q3",
+    "subjectCode": "reasoning",
+    "topicCode": "syllogism",
+    "questionText": "Given below are 2 statements followed by 3 conclusions. Consider the statements and conclusions to be true even if they vary from commonly known facts and then decide which of the conclusions follow/s from the given statements.<br>Statements:<br>All birds are peacocks.<br>No peacock is a cat.<br>Conclusions:<br>I. Some birds are cats.<br>II. All cats are birds.<br>III. No bird is a cat.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Conclusions I and II follow."
+      },
+      {
+        "label": "B",
+        "text": "Only conclusion III follows."
+      },
+      {
+        "label": "C",
+        "text": "No conclusion follows."
+      },
+      {
+        "label": "D",
+        "text": "All the conclusions follow."
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "All birds are within peacocks; no peacock is a cat, so no bird is a cat. Only III follows.",
+      "beginner": "This is question #3 from official Patwari (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q4",
+    "subjectCode": "reasoning",
+    "topicCode": "inequalities",
+    "questionText": "If P &lt; Q, Z = T, Z &gt; Q, N &gt; M, P &gt; N; then what is definitely true?",
+    "options": [
+      {
+        "label": "A",
+        "text": "P &lt; M"
+      },
+      {
+        "label": "B",
+        "text": "M=Q"
+      },
+      {
+        "label": "C",
+        "text": "M&lt;Z"
+      },
+      {
+        "label": "D",
+        "text": "T&lt;N"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "M&lt;N&lt;P&lt;Q&lt;Z=T, so M&lt;Z.",
+      "beginner": "This is question #4 from official Patwari (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q5",
+    "subjectCode": "reasoning",
+    "topicCode": "letter_series",
+    "questionText": "What will be the missing letter in the given letter series?<br>C, F, L, ?, G, V",
+    "options": [
+      {
+        "label": "A",
+        "text": "O"
+      },
+      {
+        "label": "B",
+        "text": "V"
+      },
+      {
+        "label": "C",
+        "text": "T"
+      },
+      {
+        "label": "D",
+        "text": "U"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The relationship is unclear from the extracted text. The correct answer cannot be verified reliably, so the item is unscored.",
+      "beginner": "This is question #5 from official Patwari (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q6",
+    "subjectCode": "reasoning",
+    "topicCode": "alphanumeric_series",
+    "questionText": "What will be the next term in the given letter number symbol series?<br>L3*, 6*I, *F9, C12*, ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "15Z*"
+      },
+      {
+        "label": "B",
+        "text": "15*Z"
+      },
+      {
+        "label": "C",
+        "text": "Z*15"
+      },
+      {
+        "label": "D",
+        "text": "Z15*"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Letters L,I,F,C,Z decrease by 3; numbers increase 3,6,9,12,15; positions of letter, number and * rotate. The next term is 15*Z.",
+      "beginner": "This is question #6 from official Patwari (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q7",
+    "subjectCode": "reasoning",
+    "topicCode": "coding_decoding",
+    "questionText": "If in a code language ‘UMBRELLA’ is written as ‘YIXNIHHE’, then how will ‘OBJECTIVE’ be written in the same code language?",
+    "options": [
+      {
+        "label": "A",
+        "text": "SXNAGPMRI"
+      },
+      {
+        "label": "B",
+        "text": "SXFIYPMRI"
+      },
+      {
+        "label": "C",
+        "text": "SIXFYMPRI"
+      },
+      {
+        "label": "D",
+        "text": "SFXIYMMRI"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Vowels move four letters forward and consonants move four letters backward: OBJECTIVE → SXFIYPMRI.",
+      "beginner": "This is question #7 from official Patwari (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q8",
+    "subjectCode": "reasoning",
+    "topicCode": "directions",
+    "questionText": "One evening while returning from school, Rakesh met his friend Vimal at a square. They were facing each other. At that time Vimal’s shadow was directly on Rakesh. After talking for some time, Rakesh took right hand turn. To which direction he was moving then?",
+    "options": [
+      {
+        "label": "A",
+        "text": "South"
+      },
+      {
+        "label": "B",
+        "text": "West"
+      },
+      {
+        "label": "C",
+        "text": "North"
+      },
+      {
+        "label": "D",
+        "text": "East"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Evening sun is west, so Vimal’s shadow points east toward Rakesh. Rakesh faces west and turns right to north.",
+      "beginner": "This is question #8 from official Patwari (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q9",
+    "subjectCode": "reasoning",
+    "topicCode": "blood_relation__figure_",
+    "questionText": "Original figure-based blood relation question (Q9). Refer to page 5 of the uploaded paper for the complete relationship diagram before attempting.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Husband"
+      },
+      {
+        "label": "B",
+        "text": "Uncle"
+      },
+      {
+        "label": "C",
+        "text": "Cousin"
+      },
+      {
+        "label": "D",
+        "text": "Son-in-law"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The relationship illustration is not available in the extract; no answer is assigned.",
+      "beginner": "This is question #9 from official Patwari (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q10",
+    "subjectCode": "reasoning",
+    "topicCode": "letter_analogy",
+    "questionText": "Select the option which is related to the third term in the same way as second term is related to the first term.<br>MQL : NJO :: CPT : ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "DID"
+      },
+      {
+        "label": "B",
+        "text": "FJP"
+      },
+      {
+        "label": "C",
+        "text": "XGP"
+      },
+      {
+        "label": "D",
+        "text": "XKG"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Each character is paired with its reverse-alphabet (Atbash) counterpart: M↔N, Q↔J, L↔O; C↔X, P↔K, T↔G.",
+      "beginner": "This is question #10 from official Patwari (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q11",
+    "subjectCode": "reasoning",
+    "topicCode": "odd_one_out",
+    "questionText": "Three out of four letter clusters are similar in some manner and one is different. Select the odd one out.",
+    "options": [
+      {
+        "label": "A",
+        "text": "QUD"
+      },
+      {
+        "label": "B",
+        "text": "AEN"
+      },
+      {
+        "label": "C",
+        "text": "UYH"
+      },
+      {
+        "label": "D",
+        "text": "EIR"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "AEN, UYH and EIR begin with vowels; QUD starts with a consonant.",
+      "beginner": "This is question #11 from official Patwari (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q12",
+    "subjectCode": "reasoning",
+    "topicCode": "statement_and_assumptions",
+    "questionText": "Given below is a statement followed by two assumptions. Decide which of the assumptions is/are implicit in the given statement.<br>Statement: A speaker says, ‘If chess is this much easy game, I don’t want to play it’.<br>Assumptions:<br>I. The speaker doesn’t like chess due to less probability of winning.<br>II. The speaker likes difficult games.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Both the assumptions are implicit."
+      },
+      {
+        "label": "B",
+        "text": "Only assumption II is implicit."
+      },
+      {
+        "label": "C",
+        "text": "None of the assumptions is implicit."
+      },
+      {
+        "label": "D",
+        "text": "Only assumption I is implicit."
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "The speaker rejects a game for being too easy, implying a preference for difficult games. No information supports assumption I.",
+      "beginner": "This is question #12 from official Patwari (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q13",
+    "subjectCode": "reasoning",
+    "topicCode": "figure_classification",
+    "questionText": "Four figures are given; three follow a similar arrangement. Select the odd figure.",
+    "options": [
+      {
+        "label": "A",
+        "text": "<svg class=\"tile-svg\" viewBox=\"0 0 150 106\" aria-hidden=\"true\"><rect x=\"12\" y=\"9\" width=\"126\" height=\"90\" rx=\"2\" fill=\"white\" stroke=\"#728397\"/><g fill=\"#334b64\" font-size=\"17\"><text x=\"22\" y=\"27\">⬡</text><text x=\"114\" y=\"27\">△</text><text x=\"22\" y=\"92\">⬡</text><text x=\"113\" y=\"92\">□</text></g><path d=\"M54 38 L97 38 L75 22 Z\" fill=\"#ebf3fc\" stroke=\"#516981\"/><rect x=\"52\" y=\"38\" width=\"47\" height=\"37\" fill=\"#fafdff\" stroke=\"#516981\"/><line x1=\"76\" y1=\"38\" x2=\"76\" y2=\"75\" stroke=\"#516981\"/><text x=\"63\" y=\"62\" font-size=\"16\">9</text><text x=\"82\" y=\"62\" font-size=\"16\">8</text></svg>"
+      },
+      {
+        "label": "B",
+        "text": "<svg class=\"tile-svg\" viewBox=\"0 0 150 106\" aria-hidden=\"true\"><rect x=\"12\" y=\"9\" width=\"126\" height=\"90\" rx=\"2\" fill=\"white\" stroke=\"#728397\"/><g fill=\"#334b64\" font-size=\"17\"><text x=\"22\" y=\"27\">△</text><text x=\"114\" y=\"27\">⬡</text><text x=\"22\" y=\"92\">□</text><text x=\"113\" y=\"92\">⬡</text></g><path d=\"M54 38 L97 38 L75 22 Z\" fill=\"#ebf3fc\" stroke=\"#516981\"/><rect x=\"52\" y=\"38\" width=\"47\" height=\"37\" fill=\"#fafdff\" stroke=\"#516981\"/><line x1=\"76\" y1=\"38\" x2=\"76\" y2=\"75\" stroke=\"#516981\"/><text x=\"63\" y=\"62\" font-size=\"16\">8</text><text x=\"82\" y=\"62\" font-size=\"16\">9</text></svg>"
+      },
+      {
+        "label": "C",
+        "text": "<svg class=\"tile-svg\" viewBox=\"0 0 150 106\" aria-hidden=\"true\"><rect x=\"12\" y=\"9\" width=\"126\" height=\"90\" rx=\"2\" fill=\"white\" stroke=\"#728397\"/><g fill=\"#334b64\" font-size=\"17\"><text x=\"22\" y=\"27\">□</text><text x=\"114\" y=\"27\">⬡</text><text x=\"22\" y=\"92\">▽</text><text x=\"113\" y=\"92\">⬡</text></g><path d=\"M54 38 L97 38 L75 22 Z\" fill=\"#ebf3fc\" stroke=\"#516981\"/><rect x=\"52\" y=\"38\" width=\"47\" height=\"37\" fill=\"#fafdff\" stroke=\"#516981\"/><line x1=\"76\" y1=\"38\" x2=\"76\" y2=\"75\" stroke=\"#516981\"/><text x=\"63\" y=\"62\" font-size=\"16\">8</text><text x=\"82\" y=\"62\" font-size=\"16\">6</text></svg>"
+      },
+      {
+        "label": "D",
+        "text": "<svg class=\"tile-svg\" viewBox=\"0 0 150 106\" aria-hidden=\"true\"><rect x=\"12\" y=\"9\" width=\"126\" height=\"90\" rx=\"2\" fill=\"white\" stroke=\"#728397\"/><g fill=\"#334b64\" font-size=\"17\"><text x=\"22\" y=\"27\">⬡</text><text x=\"114\" y=\"27\">□</text><text x=\"22\" y=\"92\">⬡</text><text x=\"113\" y=\"92\">▽</text></g><path d=\"M54 38 L97 38 L75 22 Z\" fill=\"#ebf3fc\" stroke=\"#516981\"/><rect x=\"52\" y=\"38\" width=\"47\" height=\"37\" fill=\"#fafdff\" stroke=\"#516981\"/><line x1=\"76\" y1=\"38\" x2=\"76\" y2=\"75\" stroke=\"#516981\"/><text x=\"63\" y=\"62\" font-size=\"16\">6</text><text x=\"82\" y=\"62\" font-size=\"16\">8</text></svg>"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The marked answer shown in the source diagram is option 1. Compare positions and rotations of the polygon and digits.",
+      "beginner": "This is question #13 from official Patwari (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q14",
+    "subjectCode": "reasoning",
+    "topicCode": "mirror_image",
+    "questionText": "Select the correct mirror image of the given figure if the mirror is placed at the right side of the figure.<br>Original figure: a polygon with a heart in its centre and two small corner annotations.",
+    "options": [
+      {
+        "label": "A",
+        "text": "<svg class=\"tile-svg\" viewBox=\"0 0 150 106\" aria-hidden=\"true\"><rect x=\"12\" y=\"10\" width=\"126\" height=\"88\" rx=\"2\" fill=\"white\" stroke=\"#728397\"/><g transform=\"rotate(-30 75 55)\"><path d=\"M44 48 L69 27 L105 48 L86 81 L49 74Z\" fill=\"#fff\" stroke=\"#425d7d\" stroke-width=\"2\"/><text x=\"68\" y=\"64\" font-size=\"27\">♥</text></g></svg>"
+      },
+      {
+        "label": "B",
+        "text": "<svg class=\"tile-svg\" viewBox=\"0 0 150 106\" aria-hidden=\"true\"><rect x=\"12\" y=\"10\" width=\"126\" height=\"88\" rx=\"2\" fill=\"white\" stroke=\"#728397\"/><g transform=\"rotate(90 75 55)\"><path d=\"M44 48 L69 27 L105 48 L86 81 L49 74Z\" fill=\"#fff\" stroke=\"#425d7d\" stroke-width=\"2\"/><text x=\"68\" y=\"64\" font-size=\"27\">◆</text></g></svg>"
+      },
+      {
+        "label": "C",
+        "text": "<svg class=\"tile-svg\" viewBox=\"0 0 150 106\" aria-hidden=\"true\"><rect x=\"12\" y=\"10\" width=\"126\" height=\"88\" rx=\"2\" fill=\"white\" stroke=\"#728397\"/><g transform=\"rotate(30 75 55)\"><path d=\"M44 48 L69 27 L105 48 L86 81 L49 74Z\" fill=\"#fff\" stroke=\"#425d7d\" stroke-width=\"2\"/><text x=\"68\" y=\"64\" font-size=\"27\">♥</text></g></svg>"
+      },
+      {
+        "label": "D",
+        "text": "<svg class=\"tile-svg\" viewBox=\"0 0 150 106\" aria-hidden=\"true\"><rect x=\"12\" y=\"10\" width=\"126\" height=\"88\" rx=\"2\" fill=\"white\" stroke=\"#728397\"/><g transform=\"rotate(-10 75 55)\"><path d=\"M44 48 L69 27 L105 48 L86 81 L49 74Z\" fill=\"#fff\" stroke=\"#425d7d\" stroke-width=\"2\"/><text x=\"68\" y=\"64\" font-size=\"27\">♥</text></g></svg>"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "When the mirror is on the right, the figure reverses left-to-right. The source marks option 3.",
+      "beginner": "This is question #14 from official Patwari (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q15",
+    "subjectCode": "reasoning",
+    "topicCode": "dice_opposite_faces",
+    "questionText": "Two positions of the same dice are given. Which face is opposite the face marked 6?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Both positions share face 3 and show face 5 moving from front to right; the face 6 must be opposite face 2.",
+      "beginner": "This is question #15 from official Patwari (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q16",
+    "subjectCode": "reasoning",
+    "topicCode": "number_matrix",
+    "questionText": "Which number will be in the place of question mark (?) in the given number matrix?",
+    "options": [
+      {
+        "label": "A",
+        "text": "52"
+      },
+      {
+        "label": "B",
+        "text": "54"
+      },
+      {
+        "label": "C",
+        "text": "42"
+      },
+      {
+        "label": "D",
+        "text": "63"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "The original answer marking selects 42. Examine the displayed matrix row and column relationships.",
+      "beginner": "This is question #16 from official Patwari (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q17",
+    "subjectCode": "reasoning",
+    "topicCode": "wrong_number",
+    "questionText": "Which number in the following series is wrong?<br>37, 44, 55, 79, 107",
+    "options": [
+      {
+        "label": "A",
+        "text": "55"
+      },
+      {
+        "label": "B",
+        "text": "107"
+      },
+      {
+        "label": "C",
+        "text": "44"
+      },
+      {
+        "label": "D",
+        "text": "79"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The regular differences are +7,+14,+21,+28; the third term should be 58 rather than 55.",
+      "beginner": "This is question #17 from official Patwari (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q18",
+    "subjectCode": "reasoning",
+    "topicCode": "number_classification",
+    "questionText": "Three out of four given options are alike in some manner and one is different. Choose the odd one out.",
+    "options": [
+      {
+        "label": "A",
+        "text": "157"
+      },
+      {
+        "label": "B",
+        "text": "83"
+      },
+      {
+        "label": "C",
+        "text": "71"
+      },
+      {
+        "label": "D",
+        "text": "267"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "157, 83 and 71 are prime; 267 is divisible by 3, because its digit sum is 15.",
+      "beginner": "This is question #18 from official Patwari (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q19",
+    "subjectCode": "reasoning",
+    "topicCode": "symbol_substitution",
+    "questionText": "A % B means A is multiplied by B.<br>A # B means A is added to B.<br>A @ B means A is divided by B.<br>A $ B means B is subtracted from A.<br>Then what is the value of 15 @ 5 % 7 # 9 $ 4 ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "28"
+      },
+      {
+        "label": "B",
+        "text": "16"
+      },
+      {
+        "label": "C",
+        "text": "26"
+      },
+      {
+        "label": "D",
+        "text": "14"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Replace operators: 15 ÷ 5 × 7 + 9 − 4 = 3×7+9−4=26.",
+      "beginner": "This is question #19 from official Patwari (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q20",
+    "subjectCode": "reasoning",
+    "topicCode": "figure_based_reasoning",
+    "questionText": "Original non-text/figure question Q20. Please consult the supplied PDF page 14 for its full question and answer choices.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Source option 1 not extractable"
+      },
+      {
+        "label": "B",
+        "text": "Source option 2 not extractable"
+      },
+      {
+        "label": "C",
+        "text": "Source option 3 not extractable"
+      },
+      {
+        "label": "D",
+        "text": "Source option 4 not extractable"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The original figure/text could not be extracted without risking a fabricated question.",
+      "beginner": "This is question #20 from official Patwari (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q21",
+    "subjectCode": "quant",
+    "topicCode": "original_mathematics_image",
+    "questionText": "Original Patwari Arithmetic Q41 is entirely an embedded image/expression in the PDF. Consult page 23.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Source option 1 not extractable"
+      },
+      {
+        "label": "B",
+        "text": "Source option 2 not extractable"
+      },
+      {
+        "label": "C",
+        "text": "Source option 3 not extractable"
+      },
+      {
+        "label": "D",
+        "text": "Source option 4 not extractable"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "This mathematical expression was not machine-readable in the supplied source and was not reconstructed by guesswork.",
+      "beginner": "This is question #21 from official Patwari (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q22",
+    "subjectCode": "quant",
+    "topicCode": "original_mathematics_image",
+    "questionText": "Original Patwari Arithmetic Q42 is an image-only mathematical question. Consult page 24.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Source option 1 not extractable"
+      },
+      {
+        "label": "B",
+        "text": "Source option 2 not extractable"
+      },
+      {
+        "label": "C",
+        "text": "Source option 3 not extractable"
+      },
+      {
+        "label": "D",
+        "text": "Source option 4 not extractable"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The original source does not expose the text or choices; this item is excluded from scoring.",
+      "beginner": "This is question #22 from official Patwari (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q23",
+    "subjectCode": "quant",
+    "topicCode": "number_theory",
+    "questionText": "There are two three-digit numbers. When one number is divided by another number, quotient obtained is 5 and remainder is 0. The sum of both the numbers is a multiple of 420. What is the difference between the numbers?",
+    "options": [
+      {
+        "label": "A",
+        "text": "560"
+      },
+      {
+        "label": "B",
+        "text": "555"
+      },
+      {
+        "label": "C",
+        "text": "505"
+      },
+      {
+        "label": "D",
+        "text": "550"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Let smaller number x and larger 5x. Sum=6x is a multiple of 420, thus x a multiple of 70. x=140 gives 700 and 140 (both 3-digit), difference=560.",
+      "beginner": "This is question #23 from official Patwari (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q24",
+    "subjectCode": "quant",
+    "topicCode": "original_mathematics_image",
+    "questionText": "Original Patwari Arithmetic Q44 is a formula/figure not preserved in the parsed text. Consult page 25.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Source option 1 not extractable"
+      },
+      {
+        "label": "B",
+        "text": "Source option 2 not extractable"
+      },
+      {
+        "label": "C",
+        "text": "Source option 3 not extractable"
+      },
+      {
+        "label": "D",
+        "text": "Source option 4 not extractable"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "This original question requires the source image and is excluded from scoring.",
+      "beginner": "This is question #24 from official Patwari (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q25",
+    "subjectCode": "quant",
+    "topicCode": "original_mathematics_image",
+    "questionText": "Original Patwari Arithmetic Q45 is a formula/figure not preserved in the parsed text. Consult page 26.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Source option 1 not extractable"
+      },
+      {
+        "label": "B",
+        "text": "Source option 2 not extractable"
+      },
+      {
+        "label": "C",
+        "text": "Source option 3 not extractable"
+      },
+      {
+        "label": "D",
+        "text": "Source option 4 not extractable"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "This original question requires the source image and is excluded from scoring.",
+      "beginner": "This is question #25 from official Patwari (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q26",
+    "subjectCode": "quant",
+    "topicCode": "profit___loss",
+    "questionText": "ABC company is the number one idea developer company worldwide. One day they sold idea 1 to CL and idea 2 to AMS at a profit of 15% and 20% respectively. If the sum of developing idea 1 &amp; 2 is ₹30,000. What is the developing cost of idea 2?",
+    "options": [
+      {
+        "label": "A",
+        "text": "₹14,365.36"
+      },
+      {
+        "label": "B",
+        "text": "₹15,235.63"
+      },
+      {
+        "label": "C",
+        "text": "₹14,680.85"
+      },
+      {
+        "label": "D",
+        "text": "₹12,345.36"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The sum of the two cost prices alone is insufficient to determine the second idea’s individual cost. The question is underdetermined as printed.",
+      "beginner": "This is question #26 from official Patwari (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q27",
+    "subjectCode": "quant",
+    "topicCode": "profit__discount_and_short_weight",
+    "questionText": "A shopkeeper marks up his goods by 50% and gives a discount of 20%. Apart from this he uses a faulty balance also, which reads 1000 gm for 900 gm. What is his net profit percentage?",
+    "options": [
+      {
+        "label": "A",
+        "text": "34.33"
+      },
+      {
+        "label": "B",
+        "text": "31.33"
+      },
+      {
+        "label": "C",
+        "text": "32.22"
+      },
+      {
+        "label": "D",
+        "text": "33.33"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "With CP for 1000 g=100, marked price=150 and discounted price=120. Actual quantity given costs only 90. Profit=(120−90)/90×100 =33.33%.",
+      "beginner": "This is question #27 from official Patwari (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q28",
+    "subjectCode": "quant",
+    "topicCode": "cost_and_selling_price",
+    "questionText": "The Cost price of 20 articles is equal to the Selling price of 25 articles. What is the profit or loss percentage?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Loss 25%"
+      },
+      {
+        "label": "B",
+        "text": "Loss 20%"
+      },
+      {
+        "label": "C",
+        "text": "Profit 20%"
+      },
+      {
+        "label": "D",
+        "text": "Profit 25%"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "20×CP=25×SP, so SP/CP=20/25=0.8, a 20% loss.",
+      "beginner": "This is question #28 from official Patwari (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q29",
+    "subjectCode": "quant",
+    "topicCode": "compound_interest",
+    "questionText": "Simple interest on a certain sum at 4% per annum for 2 years is ₹80. What is the compound interest on the same sum for the same period of time?",
+    "options": [
+      {
+        "label": "A",
+        "text": "₹78.56"
+      },
+      {
+        "label": "B",
+        "text": "₹82.60"
+      },
+      {
+        "label": "C",
+        "text": "₹79.80"
+      },
+      {
+        "label": "D",
+        "text": "₹81.60"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "P×4×2/100=80 gives P=1000. CI=1000[(1.04)²−1]=₹81.60.",
+      "beginner": "This is question #29 from official Patwari (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q30",
+    "subjectCode": "quant",
+    "topicCode": "work_and_men",
+    "questionText": "Fourteen persons can cut 7 trees in 12 days. In how many days can 10 persons cut 10 trees?",
+    "options": [
+      {
+        "label": "A",
+        "text": "21"
+      },
+      {
+        "label": "B",
+        "text": "23"
+      },
+      {
+        "label": "C",
+        "text": "24"
+      },
+      {
+        "label": "D",
+        "text": "22"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Person-days per tree =14×12÷7=24; for 10 trees need 240 person-days, so 10 persons take 24 days.",
+      "beginner": "This is question #30 from official Patwari (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q31",
+    "subjectCode": "quant",
+    "topicCode": "work_and_men",
+    "questionText": "A certain number of men can finish a piece of work in 80 days. If however there were 8 men less it would take another 14 days to finish the work. How many men were there originally?",
+    "options": [
+      {
+        "label": "A",
+        "text": "51"
+      },
+      {
+        "label": "B",
+        "text": "52"
+      },
+      {
+        "label": "C",
+        "text": "53"
+      },
+      {
+        "label": "D",
+        "text": "54"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Let the original team have m men. 80m=94(m−8) implies m=752/14≈53.714; none of the integer choices fits exactly. The item is unscored.",
+      "beginner": "This is question #31 from official Patwari (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q32",
+    "subjectCode": "quant",
+    "topicCode": "average",
+    "questionText": "The average of n numbers is 36. If half of the numbers are increased by 3 each and the remaining are decreased by 5 each, then what is the new average?",
+    "options": [
+      {
+        "label": "A",
+        "text": "34"
+      },
+      {
+        "label": "B",
+        "text": "35"
+      },
+      {
+        "label": "C",
+        "text": "33"
+      },
+      {
+        "label": "D",
+        "text": "32"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Average change = (+3−5)/2=−1, so the new mean is 35.",
+      "beginner": "This is question #32 from official Patwari (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q33",
+    "subjectCode": "quant",
+    "topicCode": "average_and_ratio",
+    "questionText": "The average of 6 members of a family is 28. If one member whose age is 30 years is excluded, then the others are in the ratio 3 : 4 : 5 : 6 : 7. Find the age of eldest member (to one decimal).",
+    "options": [
+      {
+        "label": "A",
+        "text": "38.6"
+      },
+      {
+        "label": "B",
+        "text": "33.4"
+      },
+      {
+        "label": "C",
+        "text": "37.2"
+      },
+      {
+        "label": "D",
+        "text": "36.5"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Total age=168. Remaining five total=138. Ratio sum=25, one part=5.52. Eldest=7×5.52=38.64≈38.6.",
+      "beginner": "This is question #33 from official Patwari (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q34",
+    "subjectCode": "quant",
+    "topicCode": "mensuration_spheres",
+    "questionText": "The volume of spheres is proportional to the cubes of their radii. Two spheres of the same material weigh 2.4 kg and 2.8 kg, and the radius of the smaller is 3 cm. If melted into one sphere what is the new radius (approx.)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3.32 cm"
+      },
+      {
+        "label": "B",
+        "text": "3.56 cm"
+      },
+      {
+        "label": "C",
+        "text": "3.88 cm"
+      },
+      {
+        "label": "D",
+        "text": "3.72 cm"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Combined volume is 5.2/2.4 times the first sphere. R³=27×(5.2/2.4)=58.5; cube root gives approximately 3.88 cm.",
+      "beginner": "This is question #34 from official Patwari (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q35",
+    "subjectCode": "quant",
+    "topicCode": "similar_triangles",
+    "questionText": "A paper right triangle is cut parallel to its hypotenuse, leaving a smaller triangle. Its hypotenuse is 40% shorter than the original. Original triangle area=25 square inches. What is the area of the smaller triangle?",
+    "options": [
+      {
+        "label": "A",
+        "text": "6 sq unit"
+      },
+      {
+        "label": "B",
+        "text": "7 sq unit"
+      },
+      {
+        "label": "C",
+        "text": "8 sq unit"
+      },
+      {
+        "label": "D",
+        "text": "9 sq unit"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Length scale=60%=0.6, hence area scale=0.6²=0.36; 25×0.36=9.",
+      "beginner": "This is question #35 from official Patwari (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q36",
+    "subjectCode": "quant",
+    "topicCode": "original_mathematics_image",
+    "questionText": "Original Patwari Arithmetic Q56 is a mathematical ratio question, but its full stem and options appear only as images. Refer to PDF pages 30–31.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Source option 1 not extractable"
+      },
+      {
+        "label": "B",
+        "text": "√14 : √15"
+      },
+      {
+        "label": "C",
+        "text": "√14 : √5"
+      },
+      {
+        "label": "D",
+        "text": "√11 : √12"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The figure-only stem and option A cannot be verified; the question is shown for reference but excluded from scoring.",
+      "beginner": "This is question #36 from official Patwari (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q37",
+    "subjectCode": "quant",
+    "topicCode": "data_interpretation__table_",
+    "questionText": "Study the table and answer. Which department had less than 10% of the employees through all the years shown in the table?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Marketing"
+      },
+      {
+        "label": "B",
+        "text": "Research"
+      },
+      {
+        "label": "C",
+        "text": "Production"
+      },
+      {
+        "label": "D",
+        "text": "Accounts"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The paper marks Marketing. However, the supplied table lists 85 Marketing employees out of 818 total in 2019 (approximately 10.39%), so the wording “through all the years” does not hold strictly. Score follows the source marked option.",
+      "beginner": "This is question #37 from official Patwari (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q38",
+    "subjectCode": "quant",
+    "topicCode": "data_interpretation__table_",
+    "questionText": "Study the table and answer. In which department did the number of employees remain the same during 2015 and 2020?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Marketing"
+      },
+      {
+        "label": "B",
+        "text": "Research"
+      },
+      {
+        "label": "C",
+        "text": "Production"
+      },
+      {
+        "label": "D",
+        "text": "Accounts"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Research had 76 employees in both 2015 and 2020.",
+      "beginner": "This is question #38 from official Patwari (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q39",
+    "subjectCode": "quant",
+    "topicCode": "data_interpretation__bar_graph_",
+    "questionText": "The bar chart shows foreign direct investment into India by year. What was the absolute difference between FDI in 2019 and 2020?",
+    "options": [
+      {
+        "label": "A",
+        "text": "7.4"
+      },
+      {
+        "label": "B",
+        "text": "7.3"
+      },
+      {
+        "label": "C",
+        "text": "7.2"
+      },
+      {
+        "label": "D",
+        "text": "7.1"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "The chart labels 25.25 for 2019 and 32.35 for 2020. Difference=32.35−25.25=7.10.",
+      "beginner": "This is question #39 from official Patwari (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_patwari_40_original_reasoning_maths_pyq_professional_cbt_q40",
+    "subjectCode": "quant",
+    "topicCode": "data_interpretation__bar_graph_",
+    "questionText": "The bar chart shows foreign direct investment into India by year. What was the ratio of investment in 2020 to investment in 2015?",
+    "options": [
+      {
+        "label": "A",
+        "text": "32.35 : 11.25"
+      },
+      {
+        "label": "B",
+        "text": "32.35 : 6.2"
+      },
+      {
+        "label": "C",
+        "text": "25.25 : 6.2"
+      },
+      {
+        "label": "D",
+        "text": "32.35 : 10.65"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Read directly from the bars: 2020=32.35 and 2015=6.2, so the ratio is 32.35:6.2.",
+      "beginner": "This is question #40 from official Patwari (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Patwari 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Patwari | Professional CBT · Reasoning & Mathematics"
+    },
+    "status": "approved"
+  }
+]

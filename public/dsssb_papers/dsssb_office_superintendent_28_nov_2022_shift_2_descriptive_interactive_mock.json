@@ -1,0 +1,92 @@
+[
+  {
+    "id": "dsssb_office_superintendent_28_nov_2022_shift_2_descriptive_interactive_mock_q1",
+    "subjectCode": "english",
+    "topicCode": "reasoning_general",
+    "questionText": "Question 1",
+    "options": [
+      {
+        "label": "A",
+        "text": "The changing face of Indian economy"
+      },
+      {
+        "label": "B",
+        "text": "Preserving the Earth’s Eco-system"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Official DSSSB Verified Key Answer.",
+      "beginner": "This is question #1 from official Office Superintendent (2022 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Office Superintendent 2022",
+      "year": 2022,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "28 Nov 2022",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Office Superintendent 2022 — Descriptive PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_office_superintendent_28_nov_2022_shift_2_descriptive_interactive_mock_q2",
+    "subjectCode": "english",
+    "topicCode": "reasoning_general",
+    "questionText": "Question 2",
+    "options": [
+      {
+        "label": "A",
+        "text": "Letter: Your office is going to organize interviews for recruiting research assistants for the Department of Commerce of your Institute. Write a letter inviting the Head of the Commerce Department of the Lucknow University, Lucknow to conduct the interviews."
+      },
+      {
+        "label": "B",
+        "text": "Expansion of ideas: “A ship in the harbour is safe, but that’s not what a ship is for.”"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Official DSSSB Verified Key Answer.",
+      "beginner": "This is question #2 from official Office Superintendent (2022 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Office Superintendent 2022",
+      "year": 2022,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "28 Nov 2022",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Office Superintendent 2022 — Descriptive PYQ Mock"
+    },
+    "status": "approved"
+  }
+]

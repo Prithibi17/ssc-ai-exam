@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q1",
+    "subjectCode": "reasoning",
+    "topicCode": "letter___alphanumeric_series",
+    "questionText": "Find the wrong term in the following series:\nSO, GK, BF, WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "SO"
+      },
+      {
+        "label": "B",
+        "text": "GK"
+      },
+      {
+        "label": "C",
+        "text": "BF"
+      },
+      {
+        "label": "D",
+        "text": "WA"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Check the letter gaps. GK, BF and WA move four places forward (including alphabet wraparound), while S to O moves four places backward. SO is different.",
+      "beginner": "This is question #1 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q2",
+    "subjectCode": "reasoning",
+    "topicCode": "dictionary_and_word_order",
+    "questionText": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. HACKLED\n2. HACKER\n3. HABITAT\n4. HALOGEN\n5. HALFWAY",
+    "options": [
+      {
+        "label": "A",
+        "text": "1, 2, 4, 5, 3"
+      },
+      {
+        "label": "B",
+        "text": "2, 1, 3, 4, 5"
+      },
+      {
+        "label": "C",
+        "text": "3, 2, 1, 5, 4"
+      },
+      {
+        "label": "D",
+        "text": "3, 1, 2, 4, 5"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Alphabetical order is HABITAT (3), HACKER (2), HACKLED (1), HALFWAY (5), HALOGEN (4). Compare letters successively as in a dictionary.",
+      "beginner": "This is question #2 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q3",
+    "subjectCode": "reasoning",
+    "topicCode": "letter___alphanumeric_series",
+    "questionText": "Find the missing term in the following series:\nRPT, _______, ZXB, DBF, HFJ",
+    "options": [
+      {
+        "label": "A",
+        "text": "USY"
+      },
+      {
+        "label": "B",
+        "text": "VTX"
+      },
+      {
+        "label": "C",
+        "text": "VSZ"
+      },
+      {
+        "label": "D",
+        "text": "URP"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "In each position, letters advance four steps cyclically: RPT → VTX → ZXB → DBF → HFJ. The missing term is VTX.",
+      "beginner": "This is question #3 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q4",
+    "subjectCode": "reasoning",
+    "topicCode": "letter___alphanumeric_series",
+    "questionText": "Choose the wrong term in the following series:\nCEZ, DGY, EIX, FKW, GNV",
+    "options": [
+      {
+        "label": "A",
+        "text": "CEZ"
+      },
+      {
+        "label": "B",
+        "text": "DGY"
+      },
+      {
+        "label": "C",
+        "text": "FKW"
+      },
+      {
+        "label": "D",
+        "text": "GNV"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "The second letters should progress E, G, I, K, M. GNV has N instead of M, so GNV is the wrong term.",
+      "beginner": "This is question #4 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q5",
+    "subjectCode": "reasoning",
+    "topicCode": "classification___odd_one_out",
+    "questionText": "Out of the given options, three are similar in a certain manner. However, one option is NOT like the other three. Select the option which is\ndifferent from the rest.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pigeon"
+      },
+      {
+        "label": "B",
+        "text": "Sparrow"
+      },
+      {
+        "label": "C",
+        "text": "Ostrich"
+      },
+      {
+        "label": "D",
+        "text": "Crow"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "An ostrich is a flightless bird, whereas pigeons, sparrows and crows normally fly.",
+      "beginner": "This is question #5 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q6",
+    "subjectCode": "reasoning",
+    "topicCode": "classification___odd_one_out",
+    "questionText": "Out of the given options, three are similar in a certain manner. However, one option is NOT like the other three. Select the option which is\ndifferent from the rest.",
+    "options": [
+      {
+        "label": "A",
+        "text": "ND : RB"
+      },
+      {
+        "label": "B",
+        "text": "FN : JL"
+      },
+      {
+        "label": "C",
+        "text": "PS : TQ"
+      },
+      {
+        "label": "D",
+        "text": "WH : ZE"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "The first three letter pairs follow +4 for the first letter and −2 for the second letter. WH → ZE follows +3 and −3, so it is the exception.",
+      "beginner": "This is question #6 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q7",
+    "subjectCode": "reasoning",
+    "topicCode": "classification___odd_one_out",
+    "questionText": "Out of the given options, three are similar in a certain manner. However, one option is NOT like the other three. Select the option which is\ndifferent from the rest.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Horse : Stallion"
+      },
+      {
+        "label": "B",
+        "text": "Spider : Web"
+      },
+      {
+        "label": "C",
+        "text": "Lunatic : Asylum"
+      },
+      {
+        "label": "D",
+        "text": "Hare : Burrow"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Stallion names a male horse, while Web, Asylum and Burrow represent places or structures associated with the other subjects.",
+      "beginner": "This is question #7 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q8",
+    "subjectCode": "reasoning",
+    "topicCode": "classification___odd_one_out",
+    "questionText": "Out of the given options, three are similar in a certain manner. However, one option is NOT like the other three. Select the option which is\ndifferent from the rest.",
+    "options": [
+      {
+        "label": "A",
+        "text": "PMS"
+      },
+      {
+        "label": "B",
+        "text": "UVE"
+      },
+      {
+        "label": "C",
+        "text": "VSY"
+      },
+      {
+        "label": "D",
+        "text": "KHN"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "PMS, VSY and KHN follow letter-position differences −3 then +6. UVE does not.",
+      "beginner": "This is question #8 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q9",
+    "subjectCode": "reasoning",
+    "topicCode": "analogy___relationships",
+    "questionText": "Select the option that is related to the third term on the same basis as the second term is related to the first term.\nCricket : 11 :: Football : ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "14"
+      },
+      {
+        "label": "B",
+        "text": "10"
+      },
+      {
+        "label": "C",
+        "text": "12"
+      },
+      {
+        "label": "D",
+        "text": "11"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Both cricket and football field 11 players in a team. Thus Football : 11.",
+      "beginner": "This is question #9 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q10",
+    "subjectCode": "reasoning",
+    "topicCode": "analogy___relationships",
+    "questionText": "Select the option that is related to the third term on the same basis as the second term is related to the first term.\nOVY : SZC :: FRW : ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "JVA"
+      },
+      {
+        "label": "B",
+        "text": "HVY"
+      },
+      {
+        "label": "C",
+        "text": "GUZ"
+      },
+      {
+        "label": "D",
+        "text": "KVY"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "OVY becomes SZC by advancing every letter by 4 (wrapping after Z). FRW becomes JVA.",
+      "beginner": "This is question #10 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q11",
+    "subjectCode": "reasoning",
+    "topicCode": "analogy___relationships",
+    "questionText": "Select the pair that is related on the same basis to the pair given in the question.\nPDN : SAQ :: ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "TPA : VNB"
+      },
+      {
+        "label": "B",
+        "text": "KMC : MJE"
+      },
+      {
+        "label": "C",
+        "text": "SHB : VEE"
+      },
+      {
+        "label": "D",
+        "text": "LSR : OQW"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "PDN → SAQ applies +3, −3, +3 to its three letters. SHB → VEE follows exactly the same pattern.",
+      "beginner": "This is question #11 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q12",
+    "subjectCode": "reasoning",
+    "topicCode": "analogy___relationships",
+    "questionText": "Select the pair that is related on the same basis to the pair given in the question.\nSteering : Car :: ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Wall : Clock"
+      },
+      {
+        "label": "B",
+        "text": "Fan : Ceiling"
+      },
+      {
+        "label": "C",
+        "text": "Furniture : Carpenter"
+      },
+      {
+        "label": "D",
+        "text": "Wheel : Cart"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "A steering mechanism is part of a car, just as a wheel is part of a cart.",
+      "beginner": "This is question #12 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q13",
+    "subjectCode": "reasoning",
+    "topicCode": "coding_decoding",
+    "questionText": "If BRAIN is coded as 4-20-3-11-16, then what is the code for CLERK?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3-12-5-18-11"
+      },
+      {
+        "label": "B",
+        "text": "5-14-7-20-13"
+      },
+      {
+        "label": "C",
+        "text": "6-15-8-21-14"
+      },
+      {
+        "label": "D",
+        "text": "4-13-6-19-12"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Each coded number is its letter’s alphabetical position plus 2. CLERK has positions 3,12,5,18,11, giving 5-14-7-20-13.",
+      "beginner": "This is question #13 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q14",
+    "subjectCode": "reasoning",
+    "topicCode": "coding_decoding",
+    "questionText": "If MEAN = 32, FLAKE = 50, ANIMAL = 72, then what is the code for SCENARIO?",
+    "options": [
+      {
+        "label": "A",
+        "text": "128"
+      },
+      {
+        "label": "B",
+        "text": "64"
+      },
+      {
+        "label": "C",
+        "text": "72"
+      },
+      {
+        "label": "D",
+        "text": "112"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The code equals 2 × (number of letters)²: MEAN has 4 letters → 32; SCENARIO has 8 letters → 2 × 8² = 128.",
+      "beginner": "This is question #14 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q15",
+    "subjectCode": "reasoning",
+    "topicCode": "coding_decoding",
+    "questionText": "If DRONE is coded as FUSSK, then what is the code for FLASH?",
+    "options": [
+      {
+        "label": "A",
+        "text": "HODYM"
+      },
+      {
+        "label": "B",
+        "text": "HPDYO"
+      },
+      {
+        "label": "C",
+        "text": "HOEXN"
+      },
+      {
+        "label": "D",
+        "text": "HNCUJ"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "The five letters are shifted by +2, +3, +4, +5 and +6 in sequence. FLASH therefore becomes H O E X N.",
+      "beginner": "This is question #15 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q16",
+    "subjectCode": "reasoning",
+    "topicCode": "coding_decoding",
+    "questionText": "In a certain code language,\nbi zi si mi means let's wait for her,\nfi li zi means come wait here,\nmi di bi ti means let's play with her,\nwhat is the code for 'for'?",
+    "options": [
+      {
+        "label": "A",
+        "text": "bi"
+      },
+      {
+        "label": "B",
+        "text": "zi"
+      },
+      {
+        "label": "C",
+        "text": "si"
+      },
+      {
+        "label": "D",
+        "text": "mi"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Compare “let’s wait for her” with “come wait here” to find zi = wait; compare with “let’s play with her” to isolate the remaining term si = for.",
+      "beginner": "This is question #16 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q17",
+    "subjectCode": "reasoning",
+    "topicCode": "blood_relations",
+    "questionText": "If A @ B means A is the father of B, A + B means A is the wife of B and A - B means A is the mother of B, then what does P + Q @ R - S\nmean?",
+    "options": [
+      {
+        "label": "A",
+        "text": "P is the sister of S"
+      },
+      {
+        "label": "B",
+        "text": "P is the grandmother of S"
+      },
+      {
+        "label": "C",
+        "text": "P is the wife of S"
+      },
+      {
+        "label": "D",
+        "text": "P is the mother of S"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "P is Q’s wife, Q is R’s father, and R is S’s mother. Therefore P is R’s mother and S’s grandmother.",
+      "beginner": "This is question #17 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q18",
+    "subjectCode": "reasoning",
+    "topicCode": "ranking__comparison_and_order",
+    "questionText": "Lalita is shorter than Gagan but taller than Prerna. Binita is taller than Gagan but shorter than Danish. Who is the shortest of all?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Prerna"
+      },
+      {
+        "label": "B",
+        "text": "Danish"
+      },
+      {
+        "label": "C",
+        "text": "Lalita"
+      },
+      {
+        "label": "D",
+        "text": "Gagan"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Order by height: Danish > Binita > Gagan > Lalita > Prerna. Prerna is the shortest.",
+      "beginner": "This is question #18 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q19",
+    "subjectCode": "reasoning",
+    "topicCode": "ranking__comparison_and_order",
+    "questionText": "In a queue, Manish is 5th from the left and Sachin is 7th from the right. Both of them interchange their positions and now Manish becomes 12th\nfrom the left. How many people were there in the queue?",
+    "options": [
+      {
+        "label": "A",
+        "text": "24"
+      },
+      {
+        "label": "B",
+        "text": "18"
+      },
+      {
+        "label": "C",
+        "text": "16"
+      },
+      {
+        "label": "D",
+        "text": "19"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "After swapping, Manish stands where Sachin originally stood: 12th from left and 7th from right. Total = 12 + 7 − 1 = 18.",
+      "beginner": "This is question #19 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q20",
+    "subjectCode": "reasoning",
+    "topicCode": "logical_deduction___arrangement",
+    "questionText": "Manisha and Sanjana are good in Geography and Hindi. Akansha and Manisha are good in Hindi and Chemistry. Akansha, Preksha and Naman\nare good in Chemistry and English. Naman and Akansha are good in Chemistry and Maths. Preksha and Sanjana are good in English and\nGeography. Who among the following is good in Chemistry, English and Maths but not in Hindi?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Manisha"
+      },
+      {
+        "label": "B",
+        "text": "Preksha"
+      },
+      {
+        "label": "C",
+        "text": "Naman"
+      },
+      {
+        "label": "D",
+        "text": "Akansha"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Naman appears in both the Chemistry/English group and the Chemistry/Maths group and is not in the Hindi group.",
+      "beginner": "This is question #20 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q21",
+    "subjectCode": "reasoning",
+    "topicCode": "statement__argument_and_conclusions",
+    "questionText": "In the question a statement is given, followed by two arguments, I and II. You have to consider the statements to be true even if it seems to be at\nvariance from commonly known facts. You have to decide which of the given conclusions, if any, follows from the given statement.\nStatement: Should India support all the decisions and policies made by Pakistan.\nArguments:\nI. Yes, as this is the only way to maintain peace among both the nations.\nII. No, as India should have it's own opinion on the decisions and policies made by Pakistan as some may be correct and some may be incorrect.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only argument I is strong"
+      },
+      {
+        "label": "B",
+        "text": "Only argument II is strong"
+      },
+      {
+        "label": "C",
+        "text": "Either argument I or argument II is strong"
+      },
+      {
+        "label": "D",
+        "text": "Neither argument I nor argument II is strong"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Argument II recognizes that each policy must be evaluated independently; unconditional support is not a sound requirement for peace. Only II is strong.",
+      "beginner": "This is question #21 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q22",
+    "subjectCode": "reasoning",
+    "topicCode": "statement__argument_and_conclusions",
+    "questionText": "In the question two statements are given, followed by two conclusions, I and II. You have to consider the statements to be true even if it seems to\nbe at variance from commonly known facts. You have to decide which of the given conclusions, if any, follows from the given statements.\nStatement 1 : Some schools are colleges.\nStatement 2 : Some colleges are universities.\nConclusion I : Some schools are universities.\nConclusion II : No university is school.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only conclusion I follows"
+      },
+      {
+        "label": "B",
+        "text": "Only conclusion II follows"
+      },
+      {
+        "label": "C",
+        "text": "Both conclusions I and II follows"
+      },
+      {
+        "label": "D",
+        "text": "Either conclusion I or II follows"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Some schools and universities may overlap, or they may not. Conclusions I and II are complementary alternatives, so either I or II follows.",
+      "beginner": "This is question #22 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q23",
+    "subjectCode": "reasoning",
+    "topicCode": "statement__argument_and_conclusions",
+    "questionText": "In the question one statement is given, followed by two conclusions, I and II. You have to consider the statements to be true even if it seems to be\nat variance from commonly known facts. You have to decide which of the given conclusions, if any, follows from the given statement.\nStatement : Aman is shortlisted for the interview process based on his application for the post of Investment Analyst at BCD Firm.\nConclusion I : Aman will be selected as the Investment Analyst at BCD Firm.\nConclusion II : Aman will not be selected as the Investment Analyst at BCD Firm.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only conclusion I follows"
+      },
+      {
+        "label": "B",
+        "text": "Only conclusion II follows"
+      },
+      {
+        "label": "C",
+        "text": "Either conclusion I or II follows"
+      },
+      {
+        "label": "D",
+        "text": "Neither conclusion I nor II follows"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Shortlisting does not establish selection. The final result must be either selected or not selected, so either conclusion I or II follows.",
+      "beginner": "This is question #23 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q24",
+    "subjectCode": "reasoning",
+    "topicCode": "statement__argument_and_conclusions",
+    "questionText": "In the question one statement is given, followed by two reasons, I and II. You have to consider the statements to be true even if it seems to be at\nvariance from commonly known facts. You have to decide which of the given reasons, if any, follows from the given statement.\nStatement : The prices of food grains in the last quarter have increased substantially.\nReason I : There was a shortage of supply because of poor rainfall during the last quarter.\nReason II : Farmers have become greedy and they want more money.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only reason I follows"
+      },
+      {
+        "label": "B",
+        "text": "Only reason II follows"
+      },
+      {
+        "label": "C",
+        "text": "Both conclusions I and II follows"
+      },
+      {
+        "label": "D",
+        "text": "Neither conclusion I nor II follows"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Poor rainfall can restrict grain supply and explain higher prices. Alleging that farmers are greedy is not supported by the statement; only Reason I follows.",
+      "beginner": "This is question #24 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q25",
+    "subjectCode": "reasoning",
+    "topicCode": "mathematical___number_operations",
+    "questionText": "Which two numbers should be interchanged to make the below equation mathematically correct?\n62 + 6 × 105 ÷ 3 - 25 = 247",
+    "options": [
+      {
+        "label": "A",
+        "text": "62, 25"
+      },
+      {
+        "label": "B",
+        "text": "6, 105"
+      },
+      {
+        "label": "C",
+        "text": "6, 25"
+      },
+      {
+        "label": "D",
+        "text": "62, 6"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Swap 6 and 105: 62 + 105 × 6 ÷ 3 − 25 = 62 + 210 − 25 = 247.",
+      "beginner": "This is question #25 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q26",
+    "subjectCode": "reasoning",
+    "topicCode": "mathematical___number_operations",
+    "questionText": "If 16$8 = 36; 17$3 = 30; 22$4 = 39; then find the value of 32$6 = ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "76"
+      },
+      {
+        "label": "B",
+        "text": "38"
+      },
+      {
+        "label": "C",
+        "text": "57"
+      },
+      {
+        "label": "D",
+        "text": "54"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "The rule is (first number + second number) × 3/2: (16+8) × 3/2 = 36; (32+6) × 3/2 = 57.",
+      "beginner": "This is question #26 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q27",
+    "subjectCode": "reasoning",
+    "topicCode": "classification___odd_one_out",
+    "questionText": "Out of the given options, three are similar in a certain manner. However, one option is NOT like the other three. Select the option which is\ndifferent from the rest.",
+    "options": [
+      {
+        "label": "A",
+        "text": "14-182"
+      },
+      {
+        "label": "B",
+        "text": "22-506"
+      },
+      {
+        "label": "C",
+        "text": "18-342"
+      },
+      {
+        "label": "D",
+        "text": "16-272"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "For 22, 18 and 16, the second number equals n² + n. But 14² + 14 = 210, not 182; 14−182 is odd.",
+      "beginner": "This is question #27 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q28",
+    "subjectCode": "reasoning",
+    "topicCode": "mathematical___number_operations",
+    "questionText": "Find the wrong number in the following number series:\n0.0384, 0.192, 0.96, 4.6, 24",
+    "options": [
+      {
+        "label": "A",
+        "text": "0.0384"
+      },
+      {
+        "label": "B",
+        "text": "0.192"
+      },
+      {
+        "label": "C",
+        "text": "0.96"
+      },
+      {
+        "label": "D",
+        "text": "4.6"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Each term should be multiplied by 5: 0.0384, 0.192, 0.96, 4.8, 24. Thus 4.6 is incorrect.",
+      "beginner": "This is question #28 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q29",
+    "subjectCode": "reasoning",
+    "topicCode": "venn_diagrams_and_set_relationships",
+    "questionText": "The given Venn diagram shows the number of children who love Pineapple, Apple and Mango. How many of these children only like any one\nfruit?",
+    "options": [
+      {
+        "label": "A",
+        "text": "37"
+      },
+      {
+        "label": "B",
+        "text": "28"
+      },
+      {
+        "label": "C",
+        "text": "53"
+      },
+      {
+        "label": "D",
+        "text": "25"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Add only the non-overlapping single-fruit regions of the Venn diagram: 20 + 17 + 16 = 53.",
+      "beginner": "This is question #29 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q30",
+    "subjectCode": "reasoning",
+    "topicCode": "venn_diagrams_and_set_relationships",
+    "questionText": "In the following figure, triangle represents animals, rectangle represents four legged, circle represents herbivorous. Which area represents four\nlegged animals who are herbivorous?",
+    "options": [
+      {
+        "label": "A",
+        "text": "D"
+      },
+      {
+        "label": "B",
+        "text": "G"
+      },
+      {
+        "label": "C",
+        "text": "F"
+      },
+      {
+        "label": "D",
+        "text": "E"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "We need the common region of the triangle (animals), rectangle (four-legged) and circle (herbivores). That region is E.",
+      "beginner": "This is question #30 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q31",
+    "subjectCode": "reasoning",
+    "topicCode": "venn_diagrams_and_set_relationships",
+    "questionText": "Which of the following Venn diagrams best represents the relationship between reptile, snake and rat ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "All snakes are reptiles, but rats are not reptiles. The correct diagram places the snake circle inside the reptile circle and the rat circle separately (Option 3).",
+      "beginner": "This is question #31 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q32",
+    "subjectCode": "reasoning",
+    "topicCode": "venn_diagrams_and_set_relationships",
+    "questionText": "The given Venn diagram shows the number of students in a class who likes 5 star, Perk and Munch. There are 100 students in the class. How\nmany of these students do not like any of them?",
+    "options": [
+      {
+        "label": "A",
+        "text": "11"
+      },
+      {
+        "label": "B",
+        "text": "10"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "12"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The diagram’s regions together account for 89 students. Students liking none = 100 − 89 = 11.",
+      "beginner": "This is question #32 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q33",
+    "subjectCode": "reasoning",
+    "topicCode": "non_verbal_figure_reasoning",
+    "questionText": "Find the missing figure in the following matrix.",
+    "options": [
+      {
+        "label": "A",
+        "text": "31"
+      },
+      {
+        "label": "B",
+        "text": "37"
+      },
+      {
+        "label": "C",
+        "text": "55"
+      },
+      {
+        "label": "D",
+        "text": "17"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Complete the number matrix by its row pattern. The final row is 25, 31, 39, with increments +6 and +8, so the missing entry is 31.",
+      "beginner": "This is question #33 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q34",
+    "subjectCode": "reasoning",
+    "topicCode": "non_verbal_figure_reasoning",
+    "questionText": "Select the option that is related to the third image on the same basis as the second image is related to the first image.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Compare how the shaded sector and arrow shift from the first image to the second. Apply the same rotation to the third image; the matching figure is Option 2.",
+      "beginner": "This is question #34 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q35",
+    "subjectCode": "reasoning",
+    "topicCode": "non_verbal_figure_reasoning",
+    "questionText": "Which of the following answer figure completes the series of the question figure?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Follow the same shape/position transformation from one figure to the next; the required continuation is Option 3 as indicated by the source key.",
+      "beginner": "This is question #35 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q36",
+    "subjectCode": "reasoning",
+    "topicCode": "non_verbal_figure_reasoning",
+    "questionText": "Out of the given options, three are similar in a certain manner. However, one option is NOT like the other three. Select the option which is\ndifferent from the rest.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Compare the transformation and arrangement of each pair of visual elements. Only Option 4 differs from the other three.",
+      "beginner": "This is question #36 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q37",
+    "subjectCode": "reasoning",
+    "topicCode": "non_verbal_figure_reasoning",
+    "questionText": "Which of the following cube in the answer figure can be made based on the unfolded cube in the question figure?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Mentally fold the net into a cube, keeping opposite faces on opposite sides. The configuration possible from the unfolded cube is Option 4.",
+      "beginner": "This is question #37 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q38",
+    "subjectCode": "reasoning",
+    "topicCode": "non_verbal_figure_reasoning",
+    "questionText": "Which of the following answer figure patterns can be combined to make the question figure?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Join the given constituent pieces without changing their shapes. The assembled outline corresponds to Option 2.",
+      "beginner": "This is question #38 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q39",
+    "subjectCode": "reasoning",
+    "topicCode": "non_verbal_figure_reasoning",
+    "questionText": "If a mirror is placed on the line MN, then which of the answer figures is the right image of the given figure?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "A mirror along MN reverses left and right (but not top and bottom). The reflected figure is Option 1.",
+      "beginner": "This is question #39 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q40",
+    "subjectCode": "reasoning",
+    "topicCode": "counting_figures",
+    "questionText": "How many circles are there in the given question figure?",
+    "options": [
+      {
+        "label": "A",
+        "text": "11"
+      },
+      {
+        "label": "B",
+        "text": "13"
+      },
+      {
+        "label": "C",
+        "text": "15"
+      },
+      {
+        "label": "D",
+        "text": "19"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Count the small circular loops and the larger complete circles carefully, without counting open arcs. There are 13 circles.",
+      "beginner": "This is question #40 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q41",
+    "subjectCode": "quant",
+    "topicCode": "number_system__lcm_and_hcf",
+    "questionText": "What is the largest 5-digits number divisible by 8, 12 and 22?",
+    "options": [
+      {
+        "label": "A",
+        "text": "99999"
+      },
+      {
+        "label": "B",
+        "text": "99978"
+      },
+      {
+        "label": "C",
+        "text": "99888"
+      },
+      {
+        "label": "D",
+        "text": "99792"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "LCM(8, 12, 22) = 264. The greatest five-digit multiple is ⌊99999/264⌋ × 264 = 378 × 264 = 99792.",
+      "beginner": "This is question #41 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q42",
+    "subjectCode": "quant",
+    "topicCode": "number_system__lcm_and_hcf",
+    "questionText": "The numerator of a rational number is 5 less than its denominator. If the numerator is increased by 5 and denominator is decreased by 8, then it\nbecomes 3. What was the rational number?",
+    "options": [
+      {
+        "label": "A",
+        "text": "7/12"
+      },
+      {
+        "label": "B",
+        "text": "9/14"
+      },
+      {
+        "label": "C",
+        "text": "6/11"
+      },
+      {
+        "label": "D",
+        "text": "8/13"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Let denominator be d, numerator d−5. After changes the fraction is d/(d−8)=3. Thus d=12 and numerator=7, giving 7/12.",
+      "beginner": "This is question #42 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q43",
+    "subjectCode": "quant",
+    "topicCode": "number_system__lcm_and_hcf",
+    "questionText": "In a three digit number, the digit at one's place is thrice the digit at ten's place and double the digit at hundred's place. What is the number, if the\nsum of the digits is 11?",
+    "options": [
+      {
+        "label": "A",
+        "text": "163"
+      },
+      {
+        "label": "B",
+        "text": "231"
+      },
+      {
+        "label": "C",
+        "text": "462"
+      },
+      {
+        "label": "D",
+        "text": "326"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Let tens digit be 2. Then units = 3×2 = 6, and hundreds = 6/2 = 3. Sum 3+2+6=11, so the number is 326.",
+      "beginner": "This is question #43 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q44",
+    "subjectCode": "quant",
+    "topicCode": "number_system__lcm_and_hcf",
+    "questionText": "What is the highest common factor of the fractions (4/3), (14/27) and (16/9)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "4/9"
+      },
+      {
+        "label": "B",
+        "text": "2/27"
+      },
+      {
+        "label": "C",
+        "text": "16/27"
+      },
+      {
+        "label": "D",
+        "text": "2/9"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "HCF of fractions = HCF of numerators / LCM of denominators. HCF(4,14,16)=2 and LCM(3,27,9)=27. Answer 2/27.",
+      "beginner": "This is question #44 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q45",
+    "subjectCode": "quant",
+    "topicCode": "average",
+    "questionText": "The average of 6 terms is 35 and the sixth term is half of the remaining terms. What will be the sixth term?",
+    "options": [
+      {
+        "label": "A",
+        "text": "85"
+      },
+      {
+        "label": "B",
+        "text": "105"
+      },
+      {
+        "label": "C",
+        "text": "70"
+      },
+      {
+        "label": "D",
+        "text": "60"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Total of six terms = 6 × 35 = 210. If the sixth term is half the sum of the other five, then total = 3 × sixth term. Hence sixth term = 70.",
+      "beginner": "This is question #45 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q46",
+    "subjectCode": "quant",
+    "topicCode": "profit__loss_and_discount",
+    "questionText": "The marked price of the washing machine is Rs. 2000 more than the money Arpit has. The shopkeeper offers two successive discounts of 8\npercent and 5 percent respectively. Now Arpit still has Rs. 3040 left after buying the washing machine. What is the marked price of the washing\nmachine?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 38000"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 40000"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 50000"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 48000"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Let marked price be M. Cash available = M−2000. Discounted price = 0.92 × 0.95 M = 0.874M. Thus M−2000−0.874M=3040; M=40000.",
+      "beginner": "This is question #46 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q47",
+    "subjectCode": "quant",
+    "topicCode": "profit__loss_and_discount",
+    "questionText": "A merchant agrees to give a discount of 10 percent on cost price of wheat but gives away only 800 gm for every 1 Kg weight of wheat. What is\nhis profit percent?",
+    "options": [
+      {
+        "label": "A",
+        "text": "12.5 percent"
+      },
+      {
+        "label": "B",
+        "text": "10 percent"
+      },
+      {
+        "label": "C",
+        "text": "11.5 percent"
+      },
+      {
+        "label": "D",
+        "text": "8.5 percent"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "For 1 kg priced at cost ×0.90, only 800 g is delivered, costing 0.80 of the full-kg cost. Profit % = (0.90−0.80)/0.80 ×100 = 12.5%.",
+      "beginner": "This is question #47 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q48",
+    "subjectCode": "quant",
+    "topicCode": "percentage",
+    "questionText": "A student has to secure 45 percent marks to pass. He gets 294 marks and fails by 66 marks. What are the maximum marks?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1000"
+      },
+      {
+        "label": "B",
+        "text": "900"
+      },
+      {
+        "label": "C",
+        "text": "800"
+      },
+      {
+        "label": "D",
+        "text": "600"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Passing marks = 294 + 66 = 360. This is 45% of maximum marks. Maximum = 360/0.45 = 800.",
+      "beginner": "This is question #48 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q49",
+    "subjectCode": "quant",
+    "topicCode": "percentage",
+    "questionText": "180 percent of a number is 972. What will be 240 percent of that number?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1386"
+      },
+      {
+        "label": "B",
+        "text": "1296"
+      },
+      {
+        "label": "C",
+        "text": "540"
+      },
+      {
+        "label": "D",
+        "text": "1080"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Let the number be N. 1.8N=972, so N=540. Then 2.4 × 540 = 1296.",
+      "beginner": "This is question #49 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q50",
+    "subjectCode": "quant",
+    "topicCode": "percentage",
+    "questionText": "The difference between two numbers is 1500. 6 percent of a number is 8 percent of the other number. What is the ratio between the two numbers?",
+    "options": [
+      {
+        "label": "A",
+        "text": "6 : 1"
+      },
+      {
+        "label": "B",
+        "text": "7 : 4"
+      },
+      {
+        "label": "C",
+        "text": "5 : 3"
+      },
+      {
+        "label": "D",
+        "text": "4 : 3"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "If 6% of A equals 8% of B, then 6A=8B; hence A:B = 8:6 = 4:3.",
+      "beginner": "This is question #50 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q51",
+    "subjectCode": "quant",
+    "topicCode": "percentage",
+    "questionText": "The current birth rate per thousand per year is 35, whereas corresponding death rate is 13 per thousand per year. What is the net growth rate in\nterms of population increase per year in percent?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2 percent"
+      },
+      {
+        "label": "B",
+        "text": "2.2 percent"
+      },
+      {
+        "label": "C",
+        "text": "5 percent"
+      },
+      {
+        "label": "D",
+        "text": "4.3 percent"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Natural increase per 1000 = 35 − 13 = 22. Percentage per year = 22/1000 ×100 = 2.2%.",
+      "beginner": "This is question #51 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q52",
+    "subjectCode": "quant",
+    "topicCode": "profit__loss_and_discount",
+    "questionText": "If a pen is sold at 10 percent gain instead of 10 percent loss, then the seller gets Rs. 2 more. What is the cost price of that pen?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 15"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 12"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 5"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 10"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "The change from a 10% loss to a 10% gain equals 20% of cost price. Thus 0.20 × CP = ₹2 and CP = ₹10.",
+      "beginner": "This is question #52 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q53",
+    "subjectCode": "quant",
+    "topicCode": "profit__loss_and_discount",
+    "questionText": "Kabir and Anushka sells some articles for Rs. 12000 each. Kabir calculates his profit percent on his cost price and Anushka calculates her profit\npercent wrongly on selling price. What is the difference in their profits if both claim to have a profit of 50 percent?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 4000"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 6000"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 2000"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 1000"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Kabir’s 50% cost-based profit gives profit = 12000 × 50/150 = ₹4000. Anushka’s 50% selling-price profit = ₹6000. Difference ₹2000.",
+      "beginner": "This is question #53 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q54",
+    "subjectCode": "quant",
+    "topicCode": "profit__loss_and_discount",
+    "questionText": "Ronit sells an article at a discount of 30 percent and gets a profit of 40 percent on that article. What is the mark up over the cost price of the\narticle?",
+    "options": [
+      {
+        "label": "A",
+        "text": "50 percent"
+      },
+      {
+        "label": "B",
+        "text": "100 percent"
+      },
+      {
+        "label": "C",
+        "text": "200 percent"
+      },
+      {
+        "label": "D",
+        "text": "300 percent"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Selling price = 70% of marked price and 140% of cost price. Therefore marked price = (1.4/0.7) × cost = 2 × cost: a 100% markup.",
+      "beginner": "This is question #54 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q55",
+    "subjectCode": "quant",
+    "topicCode": "ratio_and_proportion",
+    "questionText": "An amount is to be divided between Ram, Tanish and Veer in the ratio 3 : 8 : 9 respectively. If Veer gets Rs. 1620 then, what is the share of Ram?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 540"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 1440"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 1280"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 980"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Veer’s 9 parts equal ₹1620, so 1 part is ₹180. Ram receives 3 × ₹180 = ₹540.",
+      "beginner": "This is question #55 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q56",
+    "subjectCode": "quant",
+    "topicCode": "percentage",
+    "questionText": "The ratio between girls and boys in a college is 3:2. If 25 percent of girls and 20 percent of boys are scholarship holders, then what percentage of\nthe total students do not get scholarship?",
+    "options": [
+      {
+        "label": "A",
+        "text": "64 percent"
+      },
+      {
+        "label": "B",
+        "text": "77 percent"
+      },
+      {
+        "label": "C",
+        "text": "75 percent"
+      },
+      {
+        "label": "D",
+        "text": "80 percent"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Take 3 girls and 2 boys. Scholarship holders = 25% ×3 + 20% ×2 = 1.15 out of 5, or 23%. Not on scholarship = 77%.",
+      "beginner": "This is question #56 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q57",
+    "subjectCode": "quant",
+    "topicCode": "ratio_and_proportion",
+    "questionText": "Three cats X, Y and Z move in such a way that when X takes 6 steps, Y takes 7 steps and Z takes 8 steps in the same time. 3 steps of X are equal\nto 4 steps of Y and 5 steps of Z. What is the ratio of their speeds?",
+    "options": [
+      {
+        "label": "A",
+        "text": "6:7:8"
+      },
+      {
+        "label": "B",
+        "text": "3:4:5"
+      },
+      {
+        "label": "C",
+        "text": "40:35:32"
+      },
+      {
+        "label": "D",
+        "text": "31:27:32"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Speed = steps per unit time × step length. Since 3 steps of X = 4 of Y = 5 of Z, step lengths are proportional to 1/3, 1/4, 1/5. Thus 6/3 : 7/4 : 8/5 = 40:35:32.",
+      "beginner": "This is question #57 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q58",
+    "subjectCode": "quant",
+    "topicCode": "ratio_and_proportion",
+    "questionText": "In a horse race, there are four horses P, Q, R and S. The payoff at P is 2:5, at Q is 4:7, at R is 5:9 and at S is 6:11. Amit bets Rs. 3465 on a horse\nwhich would fetch maximum amount. Luckily his horse has won. What is the total amount won by him?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 5445"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 4851"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 5390"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 5355"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Maximum return comes from Q’s payout odds 4:7. Total amount received = stake × (1+4/7) = ₹3465 ×11/7 = ₹5445.",
+      "beginner": "This is question #58 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q59",
+    "subjectCode": "quant",
+    "topicCode": "simple_and_compound_interest",
+    "questionText": "Abhiraj took a loan of Rs. 100000 from a bank at the rate of 9.8 percent p.a. simple interest. He had to pay Rs. 68600 as interest. What is the time\nperiod?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2 years"
+      },
+      {
+        "label": "B",
+        "text": "3 years"
+      },
+      {
+        "label": "C",
+        "text": "5 years"
+      },
+      {
+        "label": "D",
+        "text": "7 years"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Simple interest SI = PRT/100. Therefore T=68600×100/(100000×9.8)=7 years.",
+      "beginner": "This is question #59 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q60",
+    "subjectCode": "quant",
+    "topicCode": "simple_and_compound_interest",
+    "questionText": "The difference between compound interest and simple interest on a certain sum of money at 4 percent per annum for 2 years is Rs. 80. What is\nthe principal if interest is compounded annually?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 45000"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 50000"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 38000"
+      },
+      {
+        "label": "D",
+        "text": "Rs.40000"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "For two years the difference CI−SI = P(r/100)². Hence ₹80=P(0.04)², giving P=₹50000.",
+      "beginner": "This is question #60 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q61",
+    "subjectCode": "quant",
+    "topicCode": "simple_and_compound_interest",
+    "questionText": "A car financier claims to be lending money at simple interest, but he includes the interest every six months for calculating principal. If he is\ncharging an interest of 14 percent then, what is the effective rate of interest?",
+    "options": [
+      {
+        "label": "A",
+        "text": "14 percent"
+      },
+      {
+        "label": "B",
+        "text": "14.25 percent"
+      },
+      {
+        "label": "C",
+        "text": "14.49 percent"
+      },
+      {
+        "label": "D",
+        "text": "15.19 percent"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "The stated 14% is effectively compounded semiannually: each half-year rate is 7%. Effective annual rate = (1.07)²−1 = 14.49%.",
+      "beginner": "This is question #61 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q62",
+    "subjectCode": "quant",
+    "topicCode": "simple_and_compound_interest",
+    "questionText": "Arpit borrows some money at the rate of 4 percent p.a. for the first three years. He borrows the money at the rate of 8 percent p.a. for the next 4\nyears and at the rate of 12 percent p. a. for the next 5 years. If he pays a total simple interest of Rs. 8320 at the end of 12 years then, how much\nmoney did he borrow?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 8000"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 8300"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 7320"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 6000"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Total simple-interest rate over the loan = 3×4% + 4×8% + 5×12% = 104%. Principal = 8320/1.04 = ₹8000.",
+      "beginner": "This is question #62 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q63",
+    "subjectCode": "quant",
+    "topicCode": "speed__distance_and_time",
+    "questionText": "Aditi had to walk a certain distance. She walked one-fourth distance at a speed of 3 Km/hr and the remaining distance at a speed of 6 Km/hr. If\nthe total time taken was 10 hours, then what was the total distance?",
+    "options": [
+      {
+        "label": "A",
+        "text": "50 Kms"
+      },
+      {
+        "label": "B",
+        "text": "48 Kms"
+      },
+      {
+        "label": "C",
+        "text": "40 Kms"
+      },
+      {
+        "label": "D",
+        "text": "36 Kms"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "For distance D, time = (D/4)/3 + (3D/4)/6 = D/12 + D/8 = 5D/24. Since total time is 10 h, D=48 km.",
+      "beginner": "This is question #63 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q64",
+    "subjectCode": "quant",
+    "topicCode": "speed__distance_and_time",
+    "questionText": "Abhishek rides a bicycle around a circular path of radius 100 m. The radius of the wheel of the bicycle is 150 cm. The bicycle comes to the\nstarting point for the first time in 1 hour 40 minutes. What is the number of revolutions of the wheel in 45 minutes?",
+    "options": [
+      {
+        "label": "A",
+        "text": "30"
+      },
+      {
+        "label": "B",
+        "text": "40"
+      },
+      {
+        "label": "C",
+        "text": "45"
+      },
+      {
+        "label": "D",
+        "text": "35"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "One complete track circuit takes 100 minutes. In 45 minutes the bike covers 45/100 of a circle of radius 100 m =90π m. Wheel circumference = 2π ×1.5 =3π m; revolutions =30.",
+      "beginner": "This is question #64 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q65",
+    "subjectCode": "quant",
+    "topicCode": "speed__distance_and_time",
+    "questionText": "A man rides his bike 5 Km at an average speed of 30 Km/hr and travels a further 10 Km at an average speed of 20 Km/hr. What is the average\nspeed for the entire trip?",
+    "options": [
+      {
+        "label": "A",
+        "text": "25.5 kmph"
+      },
+      {
+        "label": "B",
+        "text": "23 kmph"
+      },
+      {
+        "label": "C",
+        "text": "22.5 kmph"
+      },
+      {
+        "label": "D",
+        "text": "28.5 kmph"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Total distance = 15 km. Total time = 5/30 + 10/20 = 2/3 h. Average speed = 15 ÷(2/3) =22.5 km/h.",
+      "beginner": "This is question #65 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q66",
+    "subjectCode": "quant",
+    "topicCode": "time_and_work",
+    "questionText": "Ashita can do a work in 'a' days and Suman can do the same work in '2a' days. To finish the work together they take 10 days. What is the value of\n'a'?",
+    "options": [
+      {
+        "label": "A",
+        "text": "12"
+      },
+      {
+        "label": "B",
+        "text": "10"
+      },
+      {
+        "label": "C",
+        "text": "15"
+      },
+      {
+        "label": "D",
+        "text": "16"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Together their rate is 1/a +1/(2a) =3/(2a). In 10 days they finish one job: 10×3/(2a)=1; a=15 days.",
+      "beginner": "This is question #66 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q67",
+    "subjectCode": "quant",
+    "topicCode": "time_and_work",
+    "questionText": "A and B can do a work in 120 hours, B and C in 150 hours and C and A in 100 hours. If A, B and C worked together then, in how much time\nthey will complete the work?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1 day and 16 hours"
+      },
+      {
+        "label": "B",
+        "text": "3 days and 8 hours"
+      },
+      {
+        "label": "C",
+        "text": "5 days"
+      },
+      {
+        "label": "D",
+        "text": "4 days and 10 hours"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Adding the pair rates: 2(A+B+C)=1/120+1/150+1/100=1/40 per hour. Together A+B+C=1/80 per hour; time=80 h=3 days 8 h.",
+      "beginner": "This is question #67 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q68",
+    "subjectCode": "quant",
+    "topicCode": "time_and_work",
+    "questionText": "P and Q can do a work in 10 and 15 days respectively. They worked together for 2 days and then P left. In how many days Q can finish the\nremaining work?",
+    "options": [
+      {
+        "label": "A",
+        "text": "8 days"
+      },
+      {
+        "label": "B",
+        "text": "10 days"
+      },
+      {
+        "label": "C",
+        "text": "12 days"
+      },
+      {
+        "label": "D",
+        "text": "15 days"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "In two days together they finish 2(1/10+1/15)=1/3 of work. Remaining 2/3 at Q’s rate of 1/15 per day takes 10 days.",
+      "beginner": "This is question #68 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q69",
+    "subjectCode": "quant",
+    "topicCode": "time_and_work",
+    "questionText": "8 men can do a piece of work in 8 days while 16 women can do a piece of work in 5 days. In how many days 4 men and 5 women together can\ndo this work?",
+    "options": [
+      {
+        "label": "A",
+        "text": "10 days"
+      },
+      {
+        "label": "B",
+        "text": "14 days"
+      },
+      {
+        "label": "C",
+        "text": "8 days"
+      },
+      {
+        "label": "D",
+        "text": "6 days"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Four men work at 4/(8×8)=1/16 of a job per day; five women at 5/(16×5)=1/16. Total rate=1/8 job per day, so 8 days.",
+      "beginner": "This is question #69 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q70",
+    "subjectCode": "quant",
+    "topicCode": "mensuration",
+    "questionText": "A cylindrical drainage pipe is 70 cm long. The inside and outside diameters are 20 cm and 32 cm respectively. What is the volume of the pipe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "34320 cu cm"
+      },
+      {
+        "label": "B",
+        "text": "13728 cu cm"
+      },
+      {
+        "label": "C",
+        "text": "24240 cu cm"
+      },
+      {
+        "label": "D",
+        "text": "28630 cu cm"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Pipe material volume = πh(R²−r²). R=16 cm, r=10 cm, h=70 cm, so (22/7)×70×(256−100)=34320 cm³.",
+      "beginner": "This is question #70 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q71",
+    "subjectCode": "quant",
+    "topicCode": "mensuration",
+    "questionText": "If 512 identical small spheres are made out of a big sphere of diameter 32 cm, then what is the surface area of each small sphere?",
+    "options": [
+      {
+        "label": "A",
+        "text": "14π sq cm"
+      },
+      {
+        "label": "B",
+        "text": "16π sq cm"
+      },
+      {
+        "label": "C",
+        "text": "10π sq cm"
+      },
+      {
+        "label": "D",
+        "text": "12π sq cm"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "512=8³. Splitting the sphere into 512 equal-volume spheres divides its radius by 8: r=16/8=2 cm. Each area=4πr²=16π cm².",
+      "beginner": "This is question #71 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q72",
+    "subjectCode": "quant",
+    "topicCode": "mensuration",
+    "questionText": "A right circular cone is 6 cm high and the radius is 12 cm. It is melted and recast into a sphere. What is the diameter of the sphere?",
+    "options": [
+      {
+        "label": "A",
+        "text": "8 cm"
+      },
+      {
+        "label": "B",
+        "text": "10 cm"
+      },
+      {
+        "label": "C",
+        "text": "12 cm"
+      },
+      {
+        "label": "D",
+        "text": "16 cm"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Cone volume=(1/3)π×12²×6=288π. Equal sphere volume (4/3)πr³=288π gives r³=216, r=6 cm; diameter=12 cm.",
+      "beginner": "This is question #72 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q73",
+    "subjectCode": "quant",
+    "topicCode": "data_interpretation",
+    "questionText": "The following pie-chart shows the details of 2000 employees of a company in various scales. How many employees are working on scale III?",
+    "options": [
+      {
+        "label": "A",
+        "text": "240"
+      },
+      {
+        "label": "B",
+        "text": "200"
+      },
+      {
+        "label": "C",
+        "text": "480"
+      },
+      {
+        "label": "D",
+        "text": "500"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Scale III represents 24% of employees in the pie chart. 24% of 2000 = 480 employees.",
+      "beginner": "This is question #73 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q74",
+    "subjectCode": "quant",
+    "topicCode": "data_interpretation",
+    "questionText": "The following pie chart shows the breakup in degrees the cost of construction of a building. The total cost of construction is Rs. 54000000. How\nmuch percentage of total amount is spent on bricks?",
+    "options": [
+      {
+        "label": "A",
+        "text": "90 percent"
+      },
+      {
+        "label": "B",
+        "text": "60 percent"
+      },
+      {
+        "label": "C",
+        "text": "15 percent"
+      },
+      {
+        "label": "D",
+        "text": "25 percent"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Bricks occupy 90° of the 360° construction-cost chart. Share = 90/360×100 = 25%.",
+      "beginner": "This is question #74 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q75",
+    "subjectCode": "quant",
+    "topicCode": "data_interpretation",
+    "questionText": "The following table shows the sales, expenses and capital of a company from 2005 to 2008. In which year was the ratio of expenses and capital is\nhighest?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2005"
+      },
+      {
+        "label": "B",
+        "text": "2006"
+      },
+      {
+        "label": "C",
+        "text": "2007"
+      },
+      {
+        "label": "D",
+        "text": "2008"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Compare expenses ÷ capital for every year in the table. In 2005 the ratio is 200/300=2/3, greater than the later years, so 2005 is highest.",
+      "beginner": "This is question #75 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q76",
+    "subjectCode": "quant",
+    "topicCode": "data_interpretation",
+    "questionText": "The following table shows the population of India in various years. What is the percentage increase in population from 1991 to 2011?",
+    "options": [
+      {
+        "label": "A",
+        "text": "24.69 percent"
+      },
+      {
+        "label": "B",
+        "text": "35.87 percent"
+      },
+      {
+        "label": "C",
+        "text": "37.59 percent"
+      },
+      {
+        "label": "D",
+        "text": "40.12 percent"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "The table shows 81.4 crore in 1991 and 110.6 crore in 2011. Increase% = (110.6−81.4)/81.4 ×100 ≈35.87%.",
+      "beginner": "This is question #76 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q77",
+    "subjectCode": "quant",
+    "topicCode": "data_interpretation",
+    "questionText": "The following bar diagram shows the percentage of two communities- Community X and Community Y in a state during the years from 1991 to\n1997. What was the ratio between community X and community Y in the year 1995?",
+    "options": [
+      {
+        "label": "A",
+        "text": "75:76"
+      },
+      {
+        "label": "B",
+        "text": "25:23"
+      },
+      {
+        "label": "C",
+        "text": "5:17"
+      },
+      {
+        "label": "D",
+        "text": "9:11"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "The 1995 bars give Community X =45 and Community Y =55. Ratio 45:55 reduces to 9:11.",
+      "beginner": "This is question #77 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q78",
+    "subjectCode": "quant",
+    "topicCode": "data_interpretation",
+    "questionText": "The following line graph shows the average temperature of a city in different months of a year. What is the decrease percentage of the\ntemperature from May to June?",
+    "options": [
+      {
+        "label": "A",
+        "text": "(100/7) percent"
+      },
+      {
+        "label": "B",
+        "text": "(500/21) percent"
+      },
+      {
+        "label": "C",
+        "text": "(200/7) percent"
+      },
+      {
+        "label": "D",
+        "text": "(300/17) percent"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Temperature drops from 42°C in May to 36°C in June. Percentage decrease = (42−36)/42×100 =100/7 percent.",
+      "beginner": "This is question #78 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q79",
+    "subjectCode": "quant",
+    "topicCode": "data_interpretation",
+    "questionText": "The following histogram shows the production of wheat from the year 2011-2012 to 2017-2018. By how much percent the production in 2016-\n2017 increased compared to the production in 2011-2012?",
+    "options": [
+      {
+        "label": "A",
+        "text": "200 percent"
+      },
+      {
+        "label": "B",
+        "text": "128 percent"
+      },
+      {
+        "label": "C",
+        "text": "100 percent"
+      },
+      {
+        "label": "D",
+        "text": "80 percent"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Read the 2011–12 and 2016–17 histogram bars: later production is double the earlier production. Percentage increase =100%.",
+      "beginner": "This is question #79 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_21_aug_2021_shift_2_80_original_pyq_interactive_mock_q80",
+    "subjectCode": "quant",
+    "topicCode": "data_interpretation",
+    "questionText": "The following line graph shows the income (in lakh rupees) of two water purifier manufacturing companies P and Q over 5 years. What would be\nthe ratio of total income of these 5 years of Company P to that of Company Q?",
+    "options": [
+      {
+        "label": "A",
+        "text": "76 : 71"
+      },
+      {
+        "label": "B",
+        "text": "24 : 25"
+      },
+      {
+        "label": "C",
+        "text": "2 : 3"
+      },
+      {
+        "label": "D",
+        "text": "1 : 1"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Add the five plotted annual incomes for Company P and for Company Q separately, then simplify their totals. The resulting ratio is 76:71.",
+      "beginner": "This is question #80 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "21 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant — 21 Aug 2021 Shift 2 | Original PYQ Mock"
+    },
+    "status": "approved"
+  }
+]

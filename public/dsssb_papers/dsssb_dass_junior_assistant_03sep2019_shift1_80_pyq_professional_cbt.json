@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q1",
+    "subjectCode": "reasoning",
+    "topicCode": "alphabet_series",
+    "questionText": "<div class=\"original-stem\">DIRECTIONS: From the given responses, find the missing letter in the series.<br>LO  TW  BE  ??</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "IL"
+      },
+      {
+        "label": "B",
+        "text": "IT"
+      },
+      {
+        "label": "C",
+        "text": "HL"
+      },
+      {
+        "label": "D",
+        "text": "JM"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "The first letters move +8 modulo 26: L,T,B,J; the second letters similarly O,W,E,M.",
+      "beginner": "This is question #1 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q2",
+    "subjectCode": "reasoning",
+    "topicCode": "alpha_numeric_series",
+    "questionText": "<div class=\"original-stem\">Find out the next term.<br>A5D, F15I, K25N, ?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "N445U"
+      },
+      {
+        "label": "B",
+        "text": "L44P"
+      },
+      {
+        "label": "C",
+        "text": "P35S"
+      },
+      {
+        "label": "D",
+        "text": "M441P"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "The first and last letters advance by five each: A,F,K,P and D,I,N,S. The middle numbers add ten: 5,15,25,35.",
+      "beginner": "This is question #2 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q3",
+    "subjectCode": "reasoning",
+    "topicCode": "wrong_letter_term",
+    "questionText": "<p class=\"ignored-note\">This question was cancelled in the official paper. You may view it for practice; it is excluded from scoring.</p><div class=\"original-stem\">Find the wrong term in the series?<br>AD, BH, CL, DP, ET</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "AD"
+      },
+      {
+        "label": "B",
+        "text": "BH"
+      },
+      {
+        "label": "C",
+        "text": "DP"
+      },
+      {
+        "label": "D",
+        "text": "CL"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "This was officially cancelled due to a discrepancy in the question or its answer.",
+      "beginner": "This is question #3 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q4",
+    "subjectCode": "reasoning",
+    "topicCode": "odd_one_out",
+    "questionText": "<div class=\"original-stem\">Find the odd one out from the given alternatives.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Father"
+      },
+      {
+        "label": "B",
+        "text": "Mother"
+      },
+      {
+        "label": "C",
+        "text": "Sister"
+      },
+      {
+        "label": "D",
+        "text": "Mother-in-law"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Father, mother and sister are immediate family relationships; mother-in-law is a relationship by marriage.",
+      "beginner": "This is question #4 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q5",
+    "subjectCode": "reasoning",
+    "topicCode": "letter_classification",
+    "questionText": "<div class=\"original-stem\">Choose the odd one from the given alternatives.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "FH"
+      },
+      {
+        "label": "B",
+        "text": "QS"
+      },
+      {
+        "label": "C",
+        "text": "LN"
+      },
+      {
+        "label": "D",
+        "text": "TR"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Source answer: TR; the other pairs go forward by +2 letters, whereas T→R goes backward by 2.",
+      "beginner": "This is question #5 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q6",
+    "subjectCode": "reasoning",
+    "topicCode": "odd_pair",
+    "questionText": "<div class=\"original-stem\">Choose the odd pair of words.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bowling : Cricket"
+      },
+      {
+        "label": "B",
+        "text": "Goalkeeper : Football"
+      },
+      {
+        "label": "C",
+        "text": "Libero : Volleyball"
+      },
+      {
+        "label": "D",
+        "text": "Point Guard : Hockey"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Point guard is a basketball position, not hockey.",
+      "beginner": "This is question #6 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q7",
+    "subjectCode": "reasoning",
+    "topicCode": "analogy",
+    "questionText": "<div class=\"original-stem\">DIRECTION: From the pairs of words select the pair which is related in the same way as the first pair.<br>FOOD : HUNGER :: WATER : ______</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rest"
+      },
+      {
+        "label": "B",
+        "text": "Night"
+      },
+      {
+        "label": "C",
+        "text": "Thirsty"
+      },
+      {
+        "label": "D",
+        "text": "Bed"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Food satisfies hunger; water addresses thirst. The paper uses “Thirsty” as the response.",
+      "beginner": "This is question #7 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q8",
+    "subjectCode": "reasoning",
+    "topicCode": "analogy",
+    "questionText": "<div class=\"original-stem\">DIRECTION: In the following question, select the related letter/word/number from the given alternatives.<br>COMB : HAIR :: ______ : ______</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Surgery : pain"
+      },
+      {
+        "label": "B",
+        "text": "Knife : vegetables"
+      },
+      {
+        "label": "C",
+        "text": "Book : author"
+      },
+      {
+        "label": "D",
+        "text": "Cup : saucer"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "A comb is used for hair; a knife is used to cut vegetables.",
+      "beginner": "This is question #8 from official Junior Assistant (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q9",
+    "subjectCode": "reasoning",
+    "topicCode": "letter_analogy",
+    "questionText": "<div class=\"original-stem\">DIRECTION: Select the related letter/word/number.<br>DAC : EBD :: HEG : ______</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "KIH"
+      },
+      {
+        "label": "B",
+        "text": "JFH"
+      },
+      {
+        "label": "C",
+        "text": "IHF"
+      },
+      {
+        "label": "D",
+        "text": "IFH"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Each corresponding letter advances by one alphabet place: H→I, E→F, G→H.",
+      "beginner": "This is question #9 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q10",
+    "subjectCode": "reasoning",
+    "topicCode": "coding_decoding",
+    "questionText": "<div class=\"original-stem\">In a certain code language, if the word GOLDEN is coded as GLEODN, then how is the word PLATINUM coded?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "PAUILTNM"
+      },
+      {
+        "label": "B",
+        "text": "LAIULTNM"
+      },
+      {
+        "label": "C",
+        "text": "PALUITNM"
+      },
+      {
+        "label": "D",
+        "text": "PAIULTNM"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Rearrange by pairing odd-position letters before subsequent even-position letters, following the source example; the answer key gives PAIULTNM.",
+      "beginner": "This is question #10 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q11",
+    "subjectCode": "reasoning",
+    "topicCode": "renaming_and_coding",
+    "questionText": "<div class=\"original-stem\">In a certain code language, Drama is called Green, Green is called Time, Time is called Yoga, Yoga is called Team, Team is called Cricket, Cricket is called Bat and Bat is called Crowd. What is the colour of grass?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Drama"
+      },
+      {
+        "label": "B",
+        "text": "Cricket"
+      },
+      {
+        "label": "C",
+        "text": "Time"
+      },
+      {
+        "label": "D",
+        "text": "Crowd"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Grass is green; Green has been renamed Time.",
+      "beginner": "This is question #11 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q12",
+    "subjectCode": "reasoning",
+    "topicCode": "coding_language_table",
+    "questionText": "<div class=\"original-stem\">For the following groups of letters given in Column I, the codes are given in Column II. Find the code for “kill”.<br>(A) kill dog cat = Y Z X<br>(B) tape kill mat cat = X E Z V<br>(C) kill mat jeep tiger = X V W A</div><div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 180\" width=\"440\" height=\"180\" role=\"img\"><rect x=\"10\" y=\"10\" width=\"210\" height=\"40\" fill=\"#e8f1fc\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"115.0\" y=\"37\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Column I</text><rect x=\"220\" y=\"10\" width=\"210\" height=\"40\" fill=\"#e8f1fc\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"325.0\" y=\"37\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Column II</text><rect x=\"10\" y=\"50\" width=\"210\" height=\"40\" fill=\"#fff\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"115.0\" y=\"77\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">kill dog cat</text><rect x=\"220\" y=\"50\" width=\"210\" height=\"40\" fill=\"#fff\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"325.0\" y=\"77\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Y Z X</text><rect x=\"10\" y=\"90\" width=\"210\" height=\"40\" fill=\"#fff\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"115.0\" y=\"117\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">tape kill mat cat</text><rect x=\"220\" y=\"90\" width=\"210\" height=\"40\" fill=\"#fff\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"325.0\" y=\"117\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">X E Z V</text><rect x=\"10\" y=\"130\" width=\"210\" height=\"40\" fill=\"#fff\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"115.0\" y=\"157\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">kill mat jeep tiger</text><rect x=\"220\" y=\"130\" width=\"210\" height=\"40\" fill=\"#fff\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"325.0\" y=\"157\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">X V W A</text></svg></div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "V"
+      },
+      {
+        "label": "B",
+        "text": "X"
+      },
+      {
+        "label": "C",
+        "text": "Z"
+      },
+      {
+        "label": "D",
+        "text": "W"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "The common code across all three statements is X, corresponding to “kill”.",
+      "beginner": "This is question #12 from official Junior Assistant (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q13",
+    "subjectCode": "reasoning",
+    "topicCode": "seating_arrangement",
+    "questionText": "<div class=\"original-stem\">Eight friends Kajal, Sneha, Pooja, Anjum, Ram, Priya, Pranjali and Jivan are seated in a straight line facing North, not necessarily in the same order. Jivan sits at the extreme right end of the line. Only four people sit between Jivan and Sneha. Both Kajal and Pooja are immediate neighbours of Sneha. Only two people sit between Pooja and Pranjali. Pranjali is not an immediate neighbour of Jivan. Anjum sits second to left of Priya.<br>Who amongst the following sit exactly between Pooja and Pranjali?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Priya, Jivan"
+      },
+      {
+        "label": "B",
+        "text": "Anjum, Ram"
+      },
+      {
+        "label": "C",
+        "text": "Kajal, Sneha"
+      },
+      {
+        "label": "D",
+        "text": "Anjum, Kajal"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Arrange the given friends from the extreme-right clue. The two between Pooja and Pranjali are Kajal and Sneha.",
+      "beginner": "This is question #13 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q14",
+    "subjectCode": "reasoning",
+    "topicCode": "ranking_relation",
+    "questionText": "<div class=\"original-stem\">More heavy the Balls more costlier they are. Rahul’s Ball is heavier than Virat’s and costlier than Rohit’s. Dhoni’s ball is costlier than Rahul’s but lighter than Kedhar’s. Rohit’s ball is costlier than Virat’s. Who owns the costliest ball?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Virat"
+      },
+      {
+        "label": "B",
+        "text": "Rahul"
+      },
+      {
+        "label": "C",
+        "text": "Kedhar"
+      },
+      {
+        "label": "D",
+        "text": "Rohit"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Heavier means more expensive. Kedhar’s ball is heavier than Dhoni’s, which costs more than Rahul’s.",
+      "beginner": "This is question #14 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q15",
+    "subjectCode": "reasoning",
+    "topicCode": "group_formation",
+    "questionText": "<div class=\"original-stem\">A five members research group is to be chosen from the Cricketers Nitesh, Arun, Aditya and Mohseen and the Boxers Priya, Neha, Simran and Kiran. At least 3 cricketers must be in the group.<br>(i) Nitesh refuses to work with Mohseen.<br>(ii) Arun refuses to work with Priya.<br>(iii) Neha refuses to work with Simran.<br>(iv) Mohseen refuses to work with Neha.<br>If Arun is chosen who else must definitely be in the group?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Neha"
+      },
+      {
+        "label": "B",
+        "text": "Simran"
+      },
+      {
+        "label": "C",
+        "text": "Nitesh"
+      },
+      {
+        "label": "D",
+        "text": "Aditya"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "At least three of four cricketers must be chosen. Nitesh and Mohseen cannot coexist, leaving Arun and Aditya necessarily selected.",
+      "beginner": "This is question #15 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q16",
+    "subjectCode": "reasoning",
+    "topicCode": "rank_in_class",
+    "questionText": "<div class=\"original-stem\">Sagar is ranked thirty fourth from the bottom in a class and seventh from the top. How many students are there in this class?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "39"
+      },
+      {
+        "label": "B",
+        "text": "40"
+      },
+      {
+        "label": "C",
+        "text": "41"
+      },
+      {
+        "label": "D",
+        "text": "42"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "34+7−1=40.",
+      "beginner": "This is question #16 from official Junior Assistant (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q17",
+    "subjectCode": "reasoning",
+    "topicCode": "group_selection",
+    "questionText": "<div class=\"original-stem\">Eight girls A–H need to go for dance sessions in two batches of four girls each.<br>(1) B and H must go together.<br>(2) D and F do not go together.<br>(3) A and C never go together.<br>If B and C go in the first batch, who can be in the second batch?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "A, D, H and G"
+      },
+      {
+        "label": "B",
+        "text": "A, C, E and G"
+      },
+      {
+        "label": "C",
+        "text": "A, D, E and G"
+      },
+      {
+        "label": "D",
+        "text": "A, D, F and G"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Since B and H are together and C excludes A, second batch needs A. D and F cannot coexist, leaving A,D,E,G as a valid group.",
+      "beginner": "This is question #17 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q18",
+    "subjectCode": "reasoning",
+    "topicCode": "syllogism",
+    "questionText": "<div class=\"original-stem\">Directions: Statements are taken as true, even if contrary to general knowledge. Decide which conclusions follow.<br>Statements: I. All reds are whites. II. All whites are oranges. III. All blues are reds.<br>Conclusions: I. All whites are reds. II. All reds are oranges.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only conclusion I follows"
+      },
+      {
+        "label": "B",
+        "text": "Only conclusion II follows"
+      },
+      {
+        "label": "C",
+        "text": "Either conclusion I or II follows"
+      },
+      {
+        "label": "D",
+        "text": "Neither conclusion follows"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Reds ⊆ Whites ⊆ Oranges; so every red is orange, but not every white must be red.",
+      "beginner": "This is question #18 from official Junior Assistant (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q19",
+    "subjectCode": "reasoning",
+    "topicCode": "course_of_action",
+    "questionText": "<div class=\"original-stem\">Statement: Air pollution in India is reaching alarming levels.<br>Courses of action: I. Ban use of insecticides. II. Institute a high level committee to find persons involved in polluting India.<br>Which course(s) of action logically follow?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only I follows"
+      },
+      {
+        "label": "B",
+        "text": "Only II follows"
+      },
+      {
+        "label": "C",
+        "text": "Either I or II follows"
+      },
+      {
+        "label": "D",
+        "text": "Neither I nor II follows"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Neither course directly addresses the broad air-pollution problem as presented in the original question.",
+      "beginner": "This is question #19 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q20",
+    "subjectCode": "reasoning",
+    "topicCode": "number_series",
+    "questionText": "<div class=\"original-stem\">Select the option that completes the series:<br>280, 271, 264, 259, ?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "125"
+      },
+      {
+        "label": "B",
+        "text": "252"
+      },
+      {
+        "label": "C",
+        "text": "256"
+      },
+      {
+        "label": "D",
+        "text": "250"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Successive decrements are −9,−7,−5,−3 => 259−3=256.",
+      "beginner": "This is question #20 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q21",
+    "subjectCode": "reasoning",
+    "topicCode": "wrong_number_in_series",
+    "questionText": "<div class=\"original-stem\">One number is wrong in the following series. Find it.<br>2, 10, 34, 105, 322</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "105"
+      },
+      {
+        "label": "B",
+        "text": "322"
+      },
+      {
+        "label": "C",
+        "text": "34"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Pattern ×3+4: 2→10→34→106→322. Thus 105 is incorrect.",
+      "beginner": "This is question #21 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q22",
+    "subjectCode": "reasoning",
+    "topicCode": "odd_number",
+    "questionText": "<p class=\"ignored-note\">This question was cancelled in the official paper. You may view it for practice; it is excluded from scoring.</p><div class=\"original-stem\">Choose the odd one from the given options.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "98"
+      },
+      {
+        "label": "B",
+        "text": "36"
+      },
+      {
+        "label": "C",
+        "text": "164"
+      },
+      {
+        "label": "D",
+        "text": "171"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Officially cancelled: source notes a discrepancy in the question/answer.",
+      "beginner": "This is question #22 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q23",
+    "subjectCode": "reasoning",
+    "topicCode": "odd_numeral_pair",
+    "questionText": "<div class=\"original-stem\">Choose the odd numeral pair/group.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "72 : 12"
+      },
+      {
+        "label": "B",
+        "text": "114 : 19"
+      },
+      {
+        "label": "C",
+        "text": "78 : 13"
+      },
+      {
+        "label": "D",
+        "text": "119 : 17"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "The first three pairs show a ratio of 6:1. 119/17=7 instead.",
+      "beginner": "This is question #23 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q24",
+    "subjectCode": "reasoning",
+    "topicCode": "odd_number_triple",
+    "questionText": "<div class=\"original-stem\">Choose the odd one from the given options.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "11, 17, 53"
+      },
+      {
+        "label": "B",
+        "text": "37, 59, 53"
+      },
+      {
+        "label": "C",
+        "text": "71, 73, 37"
+      },
+      {
+        "label": "D",
+        "text": "31, 36, 17"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "36 is composite; all numbers in the other groups are prime.",
+      "beginner": "This is question #24 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q25",
+    "subjectCode": "reasoning",
+    "topicCode": "number_analogy",
+    "questionText": "<div class=\"original-stem\">In the following question, select the related letter/word/number from the given alternatives.<br>(240, 251, 264)</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "(320,331,343)"
+      },
+      {
+        "label": "B",
+        "text": "(320,331,344)"
+      },
+      {
+        "label": "C",
+        "text": "(320,330,344)"
+      },
+      {
+        "label": "D",
+        "text": "(320,329,344)"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Differences are +11, +13; 320→331→344 maintains the pattern.",
+      "beginner": "This is question #25 from official Junior Assistant (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q26",
+    "subjectCode": "reasoning",
+    "topicCode": "missing_number_grid",
+    "questionText": "<div class=\"original-stem\">Find the missing number in the following figure.<br>Top: 1  2  3<br>Middle: 11  7  5<br>Bottom: 120  45  ?</div><div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 398 189\" width=\"398\" height=\"189\" role=\"img\"><line x1=\"35\" y1=\"12\" x2=\"35\" y2=\"166\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"140.0\" y1=\"12\" x2=\"140.0\" y2=\"166\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"245.0\" y1=\"12\" x2=\"245.0\" y2=\"166\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"350\" y1=\"12\" x2=\"350\" y2=\"166\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"35\" y1=\"12\" x2=\"350\" y2=\"12\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"35\" y1=\"63.333333333333336\" x2=\"350\" y2=\"63.333333333333336\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"35\" y1=\"114.66666666666667\" x2=\"350\" y2=\"114.66666666666667\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"35\" y1=\"166\" x2=\"350\" y2=\"166\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><text x=\"88\" y=\"48\" fill=\"#23334d\" font-size=\"22\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">1</text><text x=\"193\" y=\"48\" fill=\"#23334d\" font-size=\"22\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">2</text><text x=\"298\" y=\"48\" fill=\"#23334d\" font-size=\"22\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">3</text><text x=\"88\" y=\"99\" fill=\"#23334d\" font-size=\"22\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">11</text><text x=\"193\" y=\"99\" fill=\"#23334d\" font-size=\"22\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">7</text><text x=\"298\" y=\"99\" fill=\"#23334d\" font-size=\"22\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">5</text><text x=\"88\" y=\"150\" fill=\"#23334d\" font-size=\"22\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">120</text><text x=\"193\" y=\"150\" fill=\"#23334d\" font-size=\"22\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">45</text><text x=\"298\" y=\"150\" fill=\"#23334d\" font-size=\"22\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">?</text></svg></div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "19"
+      },
+      {
+        "label": "B",
+        "text": "17"
+      },
+      {
+        "label": "C",
+        "text": "16"
+      },
+      {
+        "label": "D",
+        "text": "15"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Bottom cell = middle² − top². 11²−1²=120; 7²−2²=45; 5²−3²=16.",
+      "beginner": "This is question #26 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q27",
+    "subjectCode": "reasoning",
+    "topicCode": "interchange_signs",
+    "questionText": "<div class=\"original-stem\">Given interchanges: signs + and ÷, and numbers 9 and 6; then the value of 9 ÷ 6 + 3 − 7 is:</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "label": "B",
+        "text": "4"
+      },
+      {
+        "label": "C",
+        "text": "6"
+      },
+      {
+        "label": "D",
+        "text": "9"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Switch 9↔6 and +↔÷: 6+9÷3−7 = 6+3−7=2.",
+      "beginner": "This is question #27 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q28",
+    "subjectCode": "reasoning",
+    "topicCode": "inequality_conclusions",
+    "questionText": "<div class=\"original-stem\">Statement: S = A &lt; P &gt; R ≤ T &lt; U<br>Conclusions: I. U &gt; A  II. S ≤ T<br>Which conclusion logically follows?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only conclusion I follows"
+      },
+      {
+        "label": "B",
+        "text": "Only conclusion II follows"
+      },
+      {
+        "label": "C",
+        "text": "Either conclusion I or II follows"
+      },
+      {
+        "label": "D",
+        "text": "Neither conclusion follows"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "The comparisons through P do not establish a definite relation between U and A or between S and T.",
+      "beginner": "This is question #28 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q29",
+    "subjectCode": "reasoning",
+    "topicCode": "wrong_number_series",
+    "questionText": "<div class=\"original-stem\">One number is wrong in the series. Find it.<br>124, 172, 228, 290, 364</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "172"
+      },
+      {
+        "label": "B",
+        "text": "364"
+      },
+      {
+        "label": "C",
+        "text": "290"
+      },
+      {
+        "label": "D",
+        "text": "124"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Differences follow +48,+56,+64,+72, so after 228 should be 292, not 290.",
+      "beginner": "This is question #29 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q30",
+    "subjectCode": "reasoning",
+    "topicCode": "venn_diagram",
+    "questionText": "<div class=\"original-stem\">Which diagram represents the relationship among Cousins, Nephews and Males?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 305 132\" width=\"305\" height=\"132\" role=\"img\"><circle cx=\"88\" cy=\"65\" r=\"43\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"88\" cy=\"65\" r=\"30\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"218\" cy=\"65\" r=\"38\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>"
+      },
+      {
+        "label": "B",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 305 132\" width=\"305\" height=\"132\" role=\"img\"><circle cx=\"97\" cy=\"65\" r=\"52\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"97\" cy=\"65\" r=\"38\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"191\" cy=\"65\" r=\"43\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>"
+      },
+      {
+        "label": "C",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 305 153\" width=\"305\" height=\"153\" role=\"img\"><circle cx=\"125\" cy=\"55\" r=\"46\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"184\" cy=\"55\" r=\"46\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"153\" cy=\"96\" r=\"46\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>"
+      },
+      {
+        "label": "D",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 305 132\" width=\"305\" height=\"132\" role=\"img\"><circle cx=\"150\" cy=\"65\" r=\"55\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"150\" cy=\"65\" r=\"39\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"150\" cy=\"65\" r=\"21\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Males overlap with cousins and nephews; some nephews may also be cousins.",
+      "beginner": "This is question #30 from official Junior Assistant (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q31",
+    "subjectCode": "reasoning",
+    "topicCode": "venn_diagram",
+    "questionText": "<div class=\"original-stem\">In the given figure, the circle represents Smokers, rectangle represents alcoholic addicts and triangle represents tobacco chewers. Which number represents smokers who chew tobacco, but are not alcohol addicts?</div><div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 223\" width=\"480\" height=\"223\" role=\"img\"><circle cx=\"215\" cy=\"100\" r=\"89\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"215,36 126,173 304,173\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><rect x=\"211\" y=\"126\" width=\"225\" height=\"60\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><text x=\"170\" y=\"93\" fill=\"#23334d\" font-size=\"17\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">1</text><text x=\"213\" y=\"110\" fill=\"#23334d\" font-size=\"17\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">2</text><text x=\"123\" y=\"175\" fill=\"#23334d\" font-size=\"17\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">3</text><text x=\"218\" y=\"156\" fill=\"#23334d\" font-size=\"17\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">4</text><text x=\"290\" y=\"155\" fill=\"#23334d\" font-size=\"17\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">5</text><text x=\"398\" y=\"170\" fill=\"#23334d\" font-size=\"17\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">6</text></svg><small class=\"graphic-note\">Circle: smokers   •   Triangle: tobacco chewers   •   Rectangle: alcohol addicts</small></div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "label": "B",
+        "text": "4"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "6"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The overlap of the smoker circle and chewer triangle, outside the alcoholic rectangle, is labelled 2.",
+      "beginner": "This is question #31 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q32",
+    "subjectCode": "reasoning",
+    "topicCode": "figure_series",
+    "questionText": "<div class=\"original-stem\">Complete the series by choosing the right figure from the given choices.</div><div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 544 124\" width=\"544\" height=\"124\" role=\"img\"><rect x=\"12\" y=\"18\" width=\"94\" height=\"70\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"12\" y1=\"18\" x2=\"106\" y2=\"88\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"106\" y1=\"18\" x2=\"12\" y2=\"88\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"12\" y1=\"53\" x2=\"106\" y2=\"53\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"59\" y1=\"18\" x2=\"59\" y2=\"88\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"12,18 47,45 12,53\" fill=\"#8994a4\" stroke=\"#243449\" stroke-width=\"2\" /><text x=\"60\" y=\"107\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">1</text><rect x=\"140\" y=\"18\" width=\"94\" height=\"70\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"140\" y1=\"18\" x2=\"234\" y2=\"88\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"234\" y1=\"18\" x2=\"140\" y2=\"88\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"140\" y1=\"53\" x2=\"234\" y2=\"53\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"187\" y1=\"18\" x2=\"187\" y2=\"88\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"140,53 178,53 140,88\" fill=\"#8994a4\" stroke=\"#243449\" stroke-width=\"2\" /><text x=\"188\" y=\"107\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">2</text><rect x=\"268\" y=\"18\" width=\"94\" height=\"70\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"268\" y1=\"18\" x2=\"362\" y2=\"88\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"362\" y1=\"18\" x2=\"268\" y2=\"88\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"268\" y1=\"53\" x2=\"362\" y2=\"53\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"315\" y1=\"18\" x2=\"315\" y2=\"88\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"315,88 338,62 362,88\" fill=\"#8994a4\" stroke=\"#243449\" stroke-width=\"2\" /><text x=\"316\" y=\"107\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">3</text><rect x=\"396\" y=\"18\" width=\"94\" height=\"70\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"396\" y1=\"18\" x2=\"490\" y2=\"88\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"490\" y1=\"18\" x2=\"396\" y2=\"88\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"396\" y1=\"53\" x2=\"490\" y2=\"53\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"443\" y1=\"18\" x2=\"443\" y2=\"88\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"443,18 467,44 490,18\" fill=\"#8994a4\" stroke=\"#243449\" stroke-width=\"2\" /><text x=\"444\" y=\"107\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">4</text></svg><small class=\"graphic-note\">The shaded triangle changes position in each successive panel.</small></div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 128 100\" width=\"128\" height=\"100\" role=\"img\"><rect x=\"10\" y=\"8\" width=\"94\" height=\"70\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"10\" y1=\"8\" x2=\"104\" y2=\"78\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"104\" y1=\"8\" x2=\"10\" y2=\"78\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"10\" y1=\"43\" x2=\"104\" y2=\"43\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"57\" y1=\"8\" x2=\"57\" y2=\"78\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"10,8 47,43 10,78\" fill=\"#8994a4\" stroke=\"#243449\" stroke-width=\"2\" /></svg></div>"
+      },
+      {
+        "label": "B",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 128 100\" width=\"128\" height=\"100\" role=\"img\"><rect x=\"10\" y=\"8\" width=\"94\" height=\"70\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"10\" y1=\"8\" x2=\"104\" y2=\"78\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"104\" y1=\"8\" x2=\"10\" y2=\"78\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"10\" y1=\"43\" x2=\"104\" y2=\"43\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"57\" y1=\"8\" x2=\"57\" y2=\"78\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"10,43 47,43 10,78\" fill=\"#8994a4\" stroke=\"#243449\" stroke-width=\"2\" /></svg></div>"
+      },
+      {
+        "label": "C",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 128 100\" width=\"128\" height=\"100\" role=\"img\"><rect x=\"10\" y=\"8\" width=\"94\" height=\"70\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"10\" y1=\"8\" x2=\"104\" y2=\"78\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"104\" y1=\"8\" x2=\"10\" y2=\"78\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"10\" y1=\"43\" x2=\"104\" y2=\"43\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"57\" y1=\"8\" x2=\"57\" y2=\"78\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"10,8 47,43 10,43\" fill=\"#8994a4\" stroke=\"#243449\" stroke-width=\"2\" /></svg></div>"
+      },
+      {
+        "label": "D",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 128 100\" width=\"128\" height=\"100\" role=\"img\"><rect x=\"10\" y=\"8\" width=\"94\" height=\"70\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"10\" y1=\"8\" x2=\"104\" y2=\"78\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"104\" y1=\"8\" x2=\"10\" y2=\"78\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"10\" y1=\"43\" x2=\"104\" y2=\"43\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"57\" y1=\"8\" x2=\"57\" y2=\"78\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"57,8 76,35 104,8\" fill=\"#8994a4\" stroke=\"#243449\" stroke-width=\"2\" /></svg></div>"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Option 2 continues the shaded triangle movement shown in the original figures.",
+      "beginner": "This is question #32 from official Junior Assistant (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q33",
+    "subjectCode": "reasoning",
+    "topicCode": "figure_series",
+    "questionText": "<div class=\"original-stem\">Complete the series by choosing the right figure from the given choices.</div><div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 580 151\" width=\"580\" height=\"151\" role=\"img\"><rect x=\"8\" y=\"10\" width=\"124\" height=\"105\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><ellipse cx=\"70\" cy=\"60\" rx=\"38\" ry=\"30\" stroke=\"#263a56\" stroke-width=\"2\" fill=\"none\"/><rect x=\"21\" y=\"53\" width=\"14\" height=\"14\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" fill=\"#23364f\"/><circle cx=\"70\" cy=\"102\" r=\"7\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"112,53 104,66 120,66\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><rect x=\"65\" y=\"13\" width=\"10\" height=\"10\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><text x=\"70\" y=\"137\" fill=\"#23334d\" font-size=\"17\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">1</text><rect x=\"148\" y=\"10\" width=\"124\" height=\"105\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><ellipse cx=\"210\" cy=\"60\" rx=\"38\" ry=\"30\" stroke=\"#263a56\" stroke-width=\"2\" fill=\"none\"/><rect x=\"163\" y=\"55\" width=\"10\" height=\"10\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><rect x=\"203\" y=\"95\" width=\"14\" height=\"14\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" fill=\"#23364f\"/><circle cx=\"252\" cy=\"60\" r=\"7\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"210,11 202,24 218,24\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><text x=\"210\" y=\"137\" fill=\"#23334d\" font-size=\"17\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">2</text><rect x=\"288\" y=\"10\" width=\"124\" height=\"105\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><ellipse cx=\"350\" cy=\"60\" rx=\"38\" ry=\"30\" stroke=\"#263a56\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"308,53 300,66 316,66\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><rect x=\"345\" y=\"97\" width=\"10\" height=\"10\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><rect x=\"385\" y=\"53\" width=\"14\" height=\"14\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" fill=\"#23364f\"/><circle cx=\"350\" cy=\"18\" r=\"7\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><text x=\"350\" y=\"137\" fill=\"#23334d\" font-size=\"17\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">3</text><rect x=\"428\" y=\"10\" width=\"124\" height=\"105\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><text x=\"490\" y=\"68\" fill=\"#23334d\" font-size=\"38\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">?</text><text x=\"490\" y=\"137\" fill=\"#23334d\" font-size=\"17\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">4</text></svg></div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 146 126\" width=\"146\" height=\"126\" role=\"img\"><rect x=\"10\" y=\"8\" width=\"120\" height=\"100\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><ellipse cx=\"70\" cy=\"58\" rx=\"36\" ry=\"28\" stroke=\"#263a56\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"70\" cy=\"17\" r=\"6\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><rect x=\"106\" y=\"52\" width=\"12\" height=\"12\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" fill=\"#1d2f48\"/><polygon points=\"70,89 62,103 78,103\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><rect x=\"20\" y=\"52\" width=\"12\" height=\"12\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /></svg></div>"
+      },
+      {
+        "label": "B",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 146 126\" width=\"146\" height=\"126\" role=\"img\"><rect x=\"10\" y=\"8\" width=\"120\" height=\"100\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><ellipse cx=\"70\" cy=\"58\" rx=\"36\" ry=\"28\" stroke=\"#263a56\" stroke-width=\"2\" fill=\"none\"/><rect x=\"64\" y=\"11\" width=\"12\" height=\"12\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" fill=\"#1d2f48\"/><circle cx=\"112\" cy=\"58\" r=\"6\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><rect x=\"64\" y=\"91\" width=\"12\" height=\"12\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><polygon points=\"26,50 18,64 34,64\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /></svg></div>"
+      },
+      {
+        "label": "C",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 146 126\" width=\"146\" height=\"126\" role=\"img\"><rect x=\"10\" y=\"8\" width=\"120\" height=\"100\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><ellipse cx=\"70\" cy=\"58\" rx=\"36\" ry=\"28\" stroke=\"#263a56\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"70\" cy=\"17\" r=\"6\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><rect x=\"106\" y=\"52\" width=\"12\" height=\"12\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><rect x=\"64\" y=\"91\" width=\"12\" height=\"12\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" fill=\"#1d2f48\"/><polygon points=\"26,50 18,64 34,64\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /></svg></div>"
+      },
+      {
+        "label": "D",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 146 126\" width=\"146\" height=\"126\" role=\"img\"><rect x=\"10\" y=\"8\" width=\"120\" height=\"100\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><ellipse cx=\"70\" cy=\"58\" rx=\"36\" ry=\"28\" stroke=\"#263a56\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"70\" cy=\"17\" r=\"6\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><rect x=\"106\" y=\"52\" width=\"12\" height=\"12\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><polygon points=\"70,89 62,103 78,103\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><rect x=\"20\" y=\"52\" width=\"12\" height=\"12\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" fill=\"#1d2f48\"/></svg></div>"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "The black square and hollow shapes shift to their next positions. Source key selects figure 4.",
+      "beginner": "This is question #33 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q34",
+    "subjectCode": "reasoning",
+    "topicCode": "figure_matrix",
+    "questionText": "<div class=\"original-stem\">Find the missing figure in the given matrix.</div><div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 355 307\" width=\"355\" height=\"307\" role=\"img\"><rect x=\"20\" y=\"8\" width=\"98\" height=\"84\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><polygon points=\"68,20 34,78 102,78\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><rect x=\"128\" y=\"8\" width=\"98\" height=\"84\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><polygon points=\"177,18 143,80 210,80\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><line x1=\"177\" y1=\"18\" x2=\"177\" y2=\"80\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><rect x=\"236\" y=\"8\" width=\"98\" height=\"84\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><rect x=\"258\" y=\"33\" width=\"12\" height=\"12\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><rect x=\"20\" y=\"102\" width=\"98\" height=\"84\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><rect x=\"38\" y=\"122\" width=\"66\" height=\"48\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"38\" y1=\"122\" x2=\"104\" y2=\"170\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><rect x=\"128\" y=\"102\" width=\"98\" height=\"84\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><rect x=\"141\" y=\"117\" width=\"69\" height=\"57\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"141\" y1=\"117\" x2=\"210\" y2=\"174\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"210\" y1=\"117\" x2=\"141\" y2=\"174\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><rect x=\"236\" y=\"102\" width=\"98\" height=\"84\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"284\" y1=\"119\" x2=\"284\" y2=\"172\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"254\" y1=\"147\" x2=\"318\" y2=\"147\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><rect x=\"20\" y=\"196\" width=\"98\" height=\"84\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><rect x=\"36\" y=\"214\" width=\"65\" height=\"52\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><rect x=\"128\" y=\"196\" width=\"98\" height=\"84\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><rect x=\"141\" y=\"211\" width=\"69\" height=\"57\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"141\" y1=\"211\" x2=\"210\" y2=\"268\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"210\" y1=\"211\" x2=\"141\" y2=\"268\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><rect x=\"236\" y=\"196\" width=\"98\" height=\"84\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><text x=\"284\" y=\"250\" fill=\"#23334d\" font-size=\"36\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">?</text></svg></div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 107 105\" width=\"107\" height=\"105\" role=\"img\"><rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"20\" y1=\"28\" x2=\"78\" y2=\"77\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"20\" y1=\"28\" x2=\"78\" y2=\"28\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>"
+      },
+      {
+        "label": "B",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 107 105\" width=\"107\" height=\"105\" role=\"img\"><rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"20\" y1=\"50\" x2=\"78\" y2=\"50\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"50\" y1=\"20\" x2=\"50\" y2=\"78\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>"
+      },
+      {
+        "label": "C",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 107 105\" width=\"107\" height=\"105\" role=\"img\"><rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"20\" y1=\"20\" x2=\"80\" y2=\"80\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"80\" y1=\"20\" x2=\"20\" y2=\"80\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><path d=\"M 81,15 Q 57,50 83,86\" stroke=\"#263a56\" stroke-width=\"2\" fill=\"none\"/></svg></div>"
+      },
+      {
+        "label": "D",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 107 105\" width=\"107\" height=\"105\" role=\"img\"><rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"20\" y1=\"20\" x2=\"80\" y2=\"80\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"80\" y1=\"20\" x2=\"20\" y2=\"80\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Combining internal lines across columns creates the X-shaped last cell, option 4.",
+      "beginner": "This is question #34 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q35",
+    "subjectCode": "reasoning",
+    "topicCode": "odd_figure",
+    "questionText": "<div class=\"original-stem\">Three of four figures are similar in some way. Choose the odd/different one.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 150 132\" width=\"150\" height=\"132\" role=\"img\"><circle cx=\"75\" cy=\"65\" r=\"54\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"75,19 25,112 125,112\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><circle cx=\"75\" cy=\"73\" r=\"24\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"75\" cy=\"70\" r=\"6\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"75\" cy=\"118\" r=\"3\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>"
+      },
+      {
+        "label": "B",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 150 132\" width=\"150\" height=\"132\" role=\"img\"><polygon points=\"75,9 20,113 130,113\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><circle cx=\"75\" cy=\"65\" r=\"38\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"75,40 54,82 96,82\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><circle cx=\"75\" cy=\"118\" r=\"3\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>"
+      },
+      {
+        "label": "C",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 150 132\" width=\"150\" height=\"132\" role=\"img\"><polygon points=\"75,9 20,113 130,113\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><circle cx=\"75\" cy=\"65\" r=\"40\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><rect x=\"65\" y=\"56\" width=\"20\" height=\"16\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><circle cx=\"75\" cy=\"118\" r=\"3\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>"
+      },
+      {
+        "label": "D",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 150 132\" width=\"150\" height=\"132\" role=\"img\"><rect x=\"16\" y=\"9\" width=\"118\" height=\"114\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><circle cx=\"75\" cy=\"65\" r=\"43\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><rect x=\"58\" y=\"55\" width=\"34\" height=\"26\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><circle cx=\"75\" cy=\"118\" r=\"3\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Source key selects figure 3: its nested motif differs from the shared progression.",
+      "beginner": "This is question #35 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q36",
+    "subjectCode": "reasoning",
+    "topicCode": "counting_squares",
+    "questionText": "<div class=\"original-stem\">How many squares are in the figure?</div><div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 220\" width=\"260\" height=\"220\" role=\"img\"><rect x=\"38\" y=\"55\" width=\"128\" height=\"128\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><rect x=\"91\" y=\"30\" width=\"128\" height=\"128\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><rect x=\"64\" y=\"80\" width=\"92\" height=\"92\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"91\" y1=\"55\" x2=\"166\" y2=\"55\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "7"
+      },
+      {
+        "label": "B",
+        "text": "8"
+      },
+      {
+        "label": "C",
+        "text": "9"
+      },
+      {
+        "label": "D",
+        "text": "5"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Count the large squares and the smaller squares created by their overlaps. Total 8.",
+      "beginner": "This is question #36 from official Junior Assistant (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q37",
+    "subjectCode": "reasoning",
+    "topicCode": "opposite_dice_faces",
+    "questionText": "<div class=\"original-stem\">From four positions of a single dice, find the number of dots on the face opposite to the face having 1 dot.</div><div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 657 172\" width=\"657\" height=\"172\" role=\"img\"><polygon points=\"18,57 80,57 106,28 45,28\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><polygon points=\"18,57 80,57 80,131 18,131\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><polygon points=\"80,57 106,28 106,102 80,131\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><circle cx=\"42\" cy=\"40\" r=\"2.5\" fill=\"#25384d\"/><circle cx=\"58\" cy=\"40\" r=\"2.5\" fill=\"#25384d\"/><circle cx=\"56\" cy=\"50\" r=\"2.5\" fill=\"#25384d\"/><circle cx=\"58\" cy=\"100\" r=\"3\" fill=\"#25384d\"/><circle cx=\"63\" cy=\"78\" r=\"3\" fill=\"#25384d\"/><circle cx=\"94\" cy=\"88\" r=\"2.7\" fill=\"#25384d\"/><circle cx=\"104\" cy=\"60\" r=\"2.7\" fill=\"#25384d\"/><circle cx=\"103\" cy=\"81\" r=\"2.7\" fill=\"#25384d\"/><circle cx=\"103\" cy=\"102\" r=\"2.7\" fill=\"#25384d\"/><text x=\"61\" y=\"158\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">I</text><polygon points=\"169,57 231,57 257,28 196,28\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><polygon points=\"169,57 231,57 231,131 169,131\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><polygon points=\"231,57 257,28 257,102 231,131\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><circle cx=\"193\" cy=\"40\" r=\"2.5\" fill=\"#25384d\"/><circle cx=\"209\" cy=\"40\" r=\"2.5\" fill=\"#25384d\"/><circle cx=\"224\" cy=\"40\" r=\"2.5\" fill=\"#25384d\"/><circle cx=\"190\" cy=\"80\" r=\"3\" fill=\"#25384d\"/><circle cx=\"209\" cy=\"100\" r=\"3\" fill=\"#25384d\"/><circle cx=\"244\" cy=\"70\" r=\"2.7\" fill=\"#25384d\"/><circle cx=\"245\" cy=\"88\" r=\"2.7\" fill=\"#25384d\"/><circle cx=\"246\" cy=\"108\" r=\"2.7\" fill=\"#25384d\"/><text x=\"212\" y=\"158\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">II</text><polygon points=\"320,57 382,57 408,28 347,28\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><polygon points=\"320,57 382,57 382,131 320,131\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><polygon points=\"382,57 408,28 408,102 382,131\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><circle cx=\"344\" cy=\"40\" r=\"2.5\" fill=\"#25384d\"/><circle cx=\"360\" cy=\"40\" r=\"2.5\" fill=\"#25384d\"/><circle cx=\"375\" cy=\"40\" r=\"2.5\" fill=\"#25384d\"/><circle cx=\"358\" cy=\"50\" r=\"2.5\" fill=\"#25384d\"/><circle cx=\"380\" cy=\"48\" r=\"2.5\" fill=\"#25384d\"/><circle cx=\"341\" cy=\"80\" r=\"3\" fill=\"#25384d\"/><circle cx=\"360\" cy=\"100\" r=\"3\" fill=\"#25384d\"/><circle cx=\"365\" cy=\"78\" r=\"3\" fill=\"#25384d\"/><circle cx=\"338\" cy=\"106\" r=\"3\" fill=\"#25384d\"/><circle cx=\"372\" cy=\"113\" r=\"3\" fill=\"#25384d\"/><circle cx=\"395\" cy=\"70\" r=\"2.7\" fill=\"#25384d\"/><circle cx=\"396\" cy=\"88\" r=\"2.7\" fill=\"#25384d\"/><circle cx=\"397\" cy=\"108\" r=\"2.7\" fill=\"#25384d\"/><circle cx=\"406\" cy=\"60\" r=\"2.7\" fill=\"#25384d\"/><text x=\"363\" y=\"158\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">III</text><polygon points=\"471,57 533,57 559,28 498,28\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><polygon points=\"471,57 533,57 533,131 471,131\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><polygon points=\"533,57 559,28 559,102 533,131\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><circle cx=\"495\" cy=\"40\" r=\"2.5\" fill=\"#25384d\"/><circle cx=\"511\" cy=\"40\" r=\"2.5\" fill=\"#25384d\"/><circle cx=\"492\" cy=\"80\" r=\"3\" fill=\"#25384d\"/><circle cx=\"511\" cy=\"100\" r=\"3\" fill=\"#25384d\"/><circle cx=\"516\" cy=\"78\" r=\"3\" fill=\"#25384d\"/><circle cx=\"546\" cy=\"70\" r=\"2.7\" fill=\"#25384d\"/><text x=\"514\" y=\"158\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">IV</text></svg><small class=\"graphic-note\">Four views of the same die (not to scale).</small></div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "4"
+      },
+      {
+        "label": "C",
+        "text": "6"
+      },
+      {
+        "label": "D",
+        "text": "3"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Compare the different views to find the face opposite the single dot: 6.",
+      "beginner": "This is question #37 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q38",
+    "subjectCode": "reasoning",
+    "topicCode": "embedded_figure",
+    "questionText": "<div class=\"original-stem\">Identify the answer figure in which the question figure is embedded.</div><div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 159 141\" width=\"159\" height=\"141\" role=\"img\"><rect x=\"23\" y=\"16\" width=\"100\" height=\"100\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"23\" y1=\"48\" x2=\"123\" y2=\"48\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"74\" y1=\"16\" x2=\"74\" y2=\"47\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"23\" y1=\"116\" x2=\"74\" y2=\"48\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"123\" y1=\"116\" x2=\"74\" y2=\"48\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 155 141\" width=\"155\" height=\"141\" role=\"img\"><rect x=\"13\" y=\"9\" width=\"118\" height=\"112\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"13\" y1=\"46\" x2=\"131\" y2=\"46\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"13\" y1=\"119\" x2=\"131\" y2=\"9\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"13\" y1=\"9\" x2=\"131\" y2=\"119\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>"
+      },
+      {
+        "label": "B",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 155 141\" width=\"155\" height=\"141\" role=\"img\"><rect x=\"13\" y=\"9\" width=\"118\" height=\"112\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"13\" y1=\"46\" x2=\"131\" y2=\"46\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"13\" y1=\"119\" x2=\"131\" y2=\"9\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"72\" y1=\"9\" x2=\"72\" y2=\"46\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"13\" y1=\"119\" x2=\"72\" y2=\"46\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"131\" y1=\"119\" x2=\"72\" y2=\"46\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>"
+      },
+      {
+        "label": "C",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 155 141\" width=\"155\" height=\"141\" role=\"img\"><rect x=\"13\" y=\"9\" width=\"118\" height=\"112\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"13\" y1=\"46\" x2=\"131\" y2=\"46\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"13\" y1=\"119\" x2=\"131\" y2=\"9\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"13\" y1=\"9\" x2=\"131\" y2=\"119\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><rect x=\"35\" y=\"40\" width=\"54\" height=\"50\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /></svg></div>"
+      },
+      {
+        "label": "D",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 155 141\" width=\"155\" height=\"141\" role=\"img\"><rect x=\"13\" y=\"9\" width=\"118\" height=\"112\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"13\" y1=\"46\" x2=\"131\" y2=\"46\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"13\" y1=\"119\" x2=\"131\" y2=\"9\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"72\" y1=\"9\" x2=\"72\" y2=\"46\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"13\" y1=\"119\" x2=\"72\" y2=\"46\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"131\" y1=\"119\" x2=\"72\" y2=\"46\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Option 4 includes the complete target shape in the same orientation.",
+      "beginner": "This is question #38 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q39",
+    "subjectCode": "reasoning",
+    "topicCode": "pattern_completion",
+    "questionText": "<div class=\"original-stem\">Which answer figure will complete the pattern in the question figure?</div><div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 223 212\" width=\"223\" height=\"212\" role=\"img\"><rect x=\"16\" y=\"12\" width=\"180\" height=\"180\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"16\" y1=\"106\" x2=\"196\" y2=\"106\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><line x1=\"106\" y1=\"12\" x2=\"106\" y2=\"192\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"46,26 22,52 46,76 70,52\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><polygon points=\"142,26 118,52 142,76 166,52\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><polygon points=\"142,123 118,146 142,170 166,146\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><text x=\"60\" y=\"150\" fill=\"#23334d\" font-size=\"40\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">?</text></svg><small class=\"graphic-note\">Complete the missing quadrant (?).</small></div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 131 130\" width=\"131\" height=\"130\" role=\"img\"><rect x=\"10\" y=\"10\" width=\"105\" height=\"105\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"10\" y1=\"10\" x2=\"115\" y2=\"115\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><rect x=\"38\" y=\"30\" width=\"45\" height=\"42\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /></svg></div>"
+      },
+      {
+        "label": "B",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 131 130\" width=\"131\" height=\"130\" role=\"img\"><rect x=\"10\" y=\"10\" width=\"105\" height=\"105\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"10\" y1=\"10\" x2=\"115\" y2=\"115\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"63,20 40,54 63,80 88,54\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /></svg></div>"
+      },
+      {
+        "label": "C",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 131 130\" width=\"131\" height=\"130\" role=\"img\"><rect x=\"10\" y=\"10\" width=\"105\" height=\"105\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"10\" y1=\"10\" x2=\"115\" y2=\"115\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"63,18 40,54 63,88 88,54\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><line x1=\"10\" y1=\"100\" x2=\"105\" y2=\"10\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>"
+      },
+      {
+        "label": "D",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 131 130\" width=\"131\" height=\"130\" role=\"img\"><rect x=\"10\" y=\"10\" width=\"105\" height=\"105\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><line x1=\"10\" y1=\"10\" x2=\"115\" y2=\"115\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"63,20 40,54 63,80 88,54\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /></svg></div>"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Figure 2 connects the missing lines to complete the pattern.",
+      "beginner": "This is question #39 from official Junior Assistant (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q40",
+    "subjectCode": "reasoning",
+    "topicCode": "mirror_image",
+    "questionText": "<div class=\"original-stem\">Which of the following choices is the exact mirror image of the main figure?</div><div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 182 153\" width=\"182\" height=\"153\" role=\"img\"><rect x=\"18\" y=\"20\" width=\"123\" height=\"107\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><polygon points=\"39,111 92,35 124,111\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><circle cx=\"47\" cy=\"72\" r=\"14\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"58\" cy=\"72\" r=\"8\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"88,97 106,74 124,101\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><line x1=\"146\" y1=\"16\" x2=\"146\" y2=\"137\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg><small class=\"graphic-note\">Vertical line at the right is the mirror.</small></div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 157 131\" width=\"157\" height=\"131\" role=\"img\"><rect x=\"18\" y=\"13\" width=\"125\" height=\"106\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><polygon points=\"31,105 72,32 127,105\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><circle cx=\"113\" cy=\"69\" r=\"13\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"122\" cy=\"70\" r=\"7\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"48,96 62,78 78,97\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /></svg></div>"
+      },
+      {
+        "label": "B",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 157 131\" width=\"157\" height=\"131\" role=\"img\"><rect x=\"18\" y=\"13\" width=\"125\" height=\"106\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><polygon points=\"31,105 72,32 127,105\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><circle cx=\"113\" cy=\"69\" r=\"13\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"122\" cy=\"70\" r=\"7\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"48,96 62,78 78,97\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><polygon points=\"82,105 93,82 104,105\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /></svg></div>"
+      },
+      {
+        "label": "C",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 157 131\" width=\"157\" height=\"131\" role=\"img\"><rect x=\"18\" y=\"13\" width=\"125\" height=\"106\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><polygon points=\"31,105 72,32 127,105\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><circle cx=\"113\" cy=\"69\" r=\"13\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"122\" cy=\"70\" r=\"7\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"48,96 62,78 78,97\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><circle cx=\"116\" cy=\"77\" r=\"9\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>"
+      },
+      {
+        "label": "D",
+        "text": "<div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 157 131\" width=\"157\" height=\"131\" role=\"img\"><rect x=\"18\" y=\"13\" width=\"125\" height=\"106\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\" /><polygon points=\"31,105 72,32 127,105\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><circle cx=\"113\" cy=\"69\" r=\"13\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"122\" cy=\"70\" r=\"7\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"48,96 62,78 78,97\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /><polygon points=\"52,96 83,61 87,93\" fill=\"none\" stroke=\"#243449\" stroke-width=\"2\" /></svg></div>"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "A left-right reversal of the original figure gives the first option.",
+      "beginner": "This is question #40 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q41",
+    "subjectCode": "quant",
+    "topicCode": "decimals_and_identity",
+    "questionText": "<div class=\"original-stem\">DIRECTION: What should come in place of question mark (?) in the following question?<br>(0.5)² + (0.2)² + 2 × (0.5)(0.2) = ?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "0.94"
+      },
+      {
+        "label": "B",
+        "text": "0.39"
+      },
+      {
+        "label": "C",
+        "text": "0.49"
+      },
+      {
+        "label": "D",
+        "text": "0.69"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Identity (a+b)²: (0.5+0.2)²=0.7²=0.49.",
+      "beginner": "This is question #41 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q42",
+    "subjectCode": "quant",
+    "topicCode": "decimal_multiplication",
+    "questionText": "<div class=\"original-stem\">DIRECTION: What should come in place of the question mark (?)?<br>3 × 0.3 × 0.03 × 0.003 × 30 = ?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "0.0000243"
+      },
+      {
+        "label": "B",
+        "text": "0.000243"
+      },
+      {
+        "label": "C",
+        "text": "0.00243"
+      },
+      {
+        "label": "D",
+        "text": "0.0243"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Compute significant digits 3×3×3×3×30=2430 and place decimal: 0.00243.",
+      "beginner": "This is question #42 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q43",
+    "subjectCode": "quant",
+    "topicCode": "fractions_of_numbers",
+    "questionText": "<div class=\"original-stem\">DIRECTIONS: What should come in place of the question mark?<br>(3/7) of 413 + (2/5) of 615 = ?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "541"
+      },
+      {
+        "label": "B",
+        "text": "423"
+      },
+      {
+        "label": "C",
+        "text": "792"
+      },
+      {
+        "label": "D",
+        "text": "433"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "(3/7)×413=177; (2/5)×615=246; total=423.",
+      "beginner": "This is question #43 from official Junior Assistant (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q44",
+    "subjectCode": "quant",
+    "topicCode": "fractions_and_simplification",
+    "questionText": "<div class=\"original-stem\">DIRECTION: What should come in place of the question mark (?)?<br>(3/8) of (5/7) of 630 = ?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "90"
+      },
+      {
+        "label": "B",
+        "text": "75"
+      },
+      {
+        "label": "C",
+        "text": "45"
+      },
+      {
+        "label": "D",
+        "text": "60"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "(3/8)×(5/7)×630 would give 168.75, inconsistent with these responses. The source answer is 60; source expression may be unclear in print.",
+      "beginner": "This is question #44 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q45",
+    "subjectCode": "quant",
+    "topicCode": "exponents",
+    "questionText": "<div class=\"original-stem\">DIRECTION: What should come in place of the question mark (?) in the following question?<br>2² × ?⁶ + 3⁴/7⁹ = 2243 − 2⁶ + 8</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "9"
+      },
+      {
+        "label": "B",
+        "text": "27"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "3¹/³"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "The source key gives 3. The compact printed exponent and fraction expression is difficult to resolve reliably from the provided rendered preview; check the original formula if using this item.",
+      "beginner": "This is question #45 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q46",
+    "subjectCode": "quant",
+    "topicCode": "square_roots",
+    "questionText": "<div class=\"original-stem\">DIRECTION: What should come in place of question mark (?)?<br>(√14.44 − 2.5)² ÷ 1.69 = ?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "1.5"
+      },
+      {
+        "label": "C",
+        "text": "2.25"
+      },
+      {
+        "label": "D",
+        "text": "24"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "√14.44=3.8; 3.8−2.5=1.3; (1.3)²÷1.69=1.69÷1.69=1.",
+      "beginner": "This is question #46 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q47",
+    "subjectCode": "quant",
+    "topicCode": "lcm_of_fractions",
+    "questionText": "<div class=\"original-stem\">LCM of (5/6, 8/10, 9/9) is:</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "720"
+      },
+      {
+        "label": "B",
+        "text": "1440"
+      },
+      {
+        "label": "C",
+        "text": "360"
+      },
+      {
+        "label": "D",
+        "text": "2880"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "The paper marks 360. Note that some fraction details are visually very small in the source and need checking.",
+      "beginner": "This is question #47 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q48",
+    "subjectCode": "quant",
+    "topicCode": "lcm_and_bells",
+    "questionText": "<div class=\"original-stem\">Six bells toll together at a certain time and each tolls at intervals of 5, 10, 15, 20, 25 and 30 seconds. After how many seconds will they all toll together again?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "250"
+      },
+      {
+        "label": "B",
+        "text": "240"
+      },
+      {
+        "label": "C",
+        "text": "300"
+      },
+      {
+        "label": "D",
+        "text": "600"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "LCM(5,10,15,20,25,30)=300 seconds.",
+      "beginner": "This is question #48 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q49",
+    "subjectCode": "quant",
+    "topicCode": "divisibility_by_11",
+    "questionText": "<div class=\"original-stem\">19541742 is divisible by which of the following?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "11"
+      },
+      {
+        "label": "B",
+        "text": "13"
+      },
+      {
+        "label": "C",
+        "text": "9"
+      },
+      {
+        "label": "D",
+        "text": "12"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Alternating-digit sum difference is a multiple of 11. Use the divisibility rule.",
+      "beginner": "This is question #49 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q50",
+    "subjectCode": "quant",
+    "topicCode": "prime_number",
+    "questionText": "<div class=\"original-stem\">Which of the following is a prime number?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "437"
+      },
+      {
+        "label": "B",
+        "text": "323"
+      },
+      {
+        "label": "C",
+        "text": "567"
+      },
+      {
+        "label": "D",
+        "text": "241"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "241 has no prime factor ≤ √241≈15.5. Others are composite.",
+      "beginner": "This is question #50 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q51",
+    "subjectCode": "quant",
+    "topicCode": "average",
+    "questionText": "<div class=\"original-stem\">Average weight of Chintu, Chantu and Pintu is 26 kg. Average of Chintu and Chantu is 28 kg; average of Pintu and Tintu is 23 kg. What is Tintu’s weight?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "21 kg"
+      },
+      {
+        "label": "B",
+        "text": "24 kg"
+      },
+      {
+        "label": "C",
+        "text": "25.5 kg"
+      },
+      {
+        "label": "D",
+        "text": "28 kg"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Chintu+Chantu+Pintu=78; Chintu+Chantu=56 ⇒ Pintu=22; Pintu+Tintu=46 ⇒ Tintu=24.",
+      "beginner": "This is question #51 from official Junior Assistant (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q52",
+    "subjectCode": "quant",
+    "topicCode": "ages",
+    "questionText": "<div class=\"original-stem\">The average age of Raman, Suman and Mohan is 34 years. Five times Mohan’s age seven years ago was equal to four times Suman’s age five years ago. Three times Suman’s present age equals twice Raman’s present age. Find Suman’s age five years hence.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "35 years"
+      },
+      {
+        "label": "B",
+        "text": "28 years"
+      },
+      {
+        "label": "C",
+        "text": "39 years"
+      },
+      {
+        "label": "D",
+        "text": "40 years"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Use total ages R+S+M=102, equations 5(M−7)=4(S−5) and 3S=2R; solve to get S=30; after 5 years =35.",
+      "beginner": "This is question #52 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q53",
+    "subjectCode": "quant",
+    "topicCode": "successive_discounts",
+    "questionText": "<div class=\"original-stem\">Marked prices of two mobiles are in ratio 7:5. A shopkeeper gives 28⁴/₇% discount on the first mobile. If total discount on two mobiles is 20%, find discount given on second mobile.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "10 percent"
+      },
+      {
+        "label": "B",
+        "text": "12.50 percent"
+      },
+      {
+        "label": "C",
+        "text": "4 percent"
+      },
+      {
+        "label": "D",
+        "text": "8 percent"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Take MRP values 7x and 5x. First discount is 2/7 of 7x=2x. Total discount=.2×12x=2.4x. Second=.4x/5x=8%.",
+      "beginner": "This is question #53 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q54",
+    "subjectCode": "quant",
+    "topicCode": "ratio_and_property_shares",
+    "questionText": "<div class=\"original-stem\">A person divides 41% of his property among his three sons Rohit, Sunil and Anand in the ratio 11:13:17. If sum of shares of Rohit and Sunil is Rs.72000, find remaining property.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 3,00,000"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 1,23,000"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 1,77,000"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 1,96,000"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "24 parts=72000 ⇒ 1 part=3000; 41 parts=123000=41% ⇒ whole=300000. Remaining 59%=177000.",
+      "beginner": "This is question #54 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q55",
+    "subjectCode": "quant",
+    "topicCode": "percentage_and_mixture",
+    "questionText": "<div class=\"original-stem\">In an office, 4/9th employees are men. 40% of men and 60% of women have four-wheelers. 40% of men and m% of women having four-wheelers are married. If 25% of all four-wheeler owners are married, find m.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "12.33"
+      },
+      {
+        "label": "B",
+        "text": "11.66"
+      },
+      {
+        "label": "C",
+        "text": "13.55"
+      },
+      {
+        "label": "D",
+        "text": "9.09"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Take 90 employees: 40 men,50 women; 16 men and 30 women own cars. Married total 46/4=11.5; men married 6.4; women married 5.1 ⇒ m=17%, not the marked 11.66; original percentages should be rechecked.",
+      "beginner": "This is question #55 from official Junior Assistant (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q56",
+    "subjectCode": "quant",
+    "topicCode": "percentages_in_baskets",
+    "questionText": "<div class=\"original-stem\">In basket B, 8⅓% more apples than basket A. In A, a% apples are rotten; in B, 25% more rotten apples than A. Total rotten apples in both baskets together is 32.4%. Find percentage of rotten apples in B.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "34 8/13 %"
+      },
+      {
+        "label": "B",
+        "text": "30 7/13 %"
+      },
+      {
+        "label": "C",
+        "text": "29 11/23 %"
+      },
+      {
+        "label": "D",
+        "text": "38 9/23 %"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The PDF marks option 1. Use weighted average across apples in A and B and the relationship of their rotten shares.",
+      "beginner": "This is question #56 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q57",
+    "subjectCode": "quant",
+    "topicCode": "buy_2_get_1",
+    "questionText": "<div class=\"original-stem\">A shopkeeper sells shirts in the scheme “Buy 2 Get 1 free” and earns profit of 33⅓%. Find his profit percentage when he sells without this scheme.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "50 percent"
+      },
+      {
+        "label": "B",
+        "text": "200 percent"
+      },
+      {
+        "label": "C",
+        "text": "75 percent"
+      },
+      {
+        "label": "D",
+        "text": "100 percent"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "With the scheme 3 shirts sell at total price of 2 list prices and yield 4/3 cost. So list price = 2×cost, giving 100% profit without offer.",
+      "beginner": "This is question #57 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q58",
+    "subjectCode": "quant",
+    "topicCode": "profit_loss",
+    "questionText": "<div class=\"original-stem\">A man bought a bike and a car for Rs.500000. He sold bike at a gain of 20% and car at a loss of 10%, thereby gaining 5% on whole. Find cost of bike.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 200000"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 250000"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 150000"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 180000"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Let bike cost B. 0.2B−0.1(500000−B)=0.05×500000 ⇒ 0.3B=75000 ⇒ B=250000.",
+      "beginner": "This is question #58 from official Junior Assistant (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q59",
+    "subjectCode": "quant",
+    "topicCode": "marked_price_and_profit",
+    "questionText": "<div class=\"original-stem\">A trader marks an article so that selling it at marked price yields profit of 70% of selling price, but sells at 150% profit on cost price. Difference between two selling prices is Rs.1750. Find selling price if sold at 15% profit.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs.2415"
+      },
+      {
+        "label": "B",
+        "text": "Rs.2845"
+      },
+      {
+        "label": "C",
+        "text": "Rs.1255"
+      },
+      {
+        "label": "D",
+        "text": "Rs.2210"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Let CP=x. First selling price has CP=30% SP ⇒ SP=10x/3; second SP=2.5x. Difference=(5/6)x=1750⇒x=2100. At 15% profit SP=2415.",
+      "beginner": "This is question #59 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q60",
+    "subjectCode": "quant",
+    "topicCode": "ratio_of_money",
+    "questionText": "<div class=\"original-stem\">Money with Anil and Sunil is 3:4. Anil can spend his money in 5 days; Sunil in 6 days at constant rates. After how many days will their remaining money be 9:20?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "1 day"
+      },
+      {
+        "label": "B",
+        "text": "2 days"
+      },
+      {
+        "label": "C",
+        "text": "3 days"
+      },
+      {
+        "label": "D",
+        "text": "4 days"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Take initial 3x and 4x, spends 3x/5 and 4x/6 daily. Solve (3−.6t)/(4−(2/3)t)=9/20 ⇒ t=4.",
+      "beginner": "This is question #60 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q61",
+    "subjectCode": "quant",
+    "topicCode": "ratio_and_amounts",
+    "questionText": "<div class=\"original-stem\">Four friends have money in the ratio of 17:20:23:26. One person has Rs.6000 more than another and Rs.3000 less than another. Find total money with all four.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs.86000"
+      },
+      {
+        "label": "B",
+        "text": "Rs.43000"
+      },
+      {
+        "label": "C",
+        "text": "Rs.1,72,000"
+      },
+      {
+        "label": "D",
+        "text": "Rs.98000"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Adjacent amounts differ by 3 parts. 3 parts=₹3000, 6 parts=₹6000 ⇒ 1 part=₹1000. Total 86×1000=₹86000.",
+      "beginner": "This is question #61 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q62",
+    "subjectCode": "quant",
+    "topicCode": "ages_and_ratio",
+    "questionText": "<div class=\"original-stem\">Charan is 16 years younger than Amar, while Bharat is 10 years older than Charan. Ratio of age of Charan 6 years hence to Bharat 14 years ago is 4:3. Find present age of Amar.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "50 years"
+      },
+      {
+        "label": "B",
+        "text": "44 years"
+      },
+      {
+        "label": "C",
+        "text": "54 years"
+      },
+      {
+        "label": "D",
+        "text": "62 years"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Let Charan=c, Bharat=c+10. (c+6)/(c−4)=4/3 ⇒ c=34. Amar=c+16=50.",
+      "beginner": "This is question #62 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q63",
+    "subjectCode": "quant",
+    "topicCode": "simple_interest_ratio",
+    "questionText": "<div class=\"original-stem\">Two sums of money in ratio 4:5 are borrowed for 5 years. Rates of interest are in ratio 4:5 and total simple interest on both is Rs.12300. Find difference between simple interest on two sums.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs.1500"
+      },
+      {
+        "label": "B",
+        "text": "Rs.3200"
+      },
+      {
+        "label": "C",
+        "text": "Rs.2700"
+      },
+      {
+        "label": "D",
+        "text": "Rs.1800"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "SI ratios (P×R×T) =16:25. Difference=9/41×12300=2700.",
+      "beginner": "This is question #63 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q64",
+    "subjectCode": "quant",
+    "topicCode": "compound_interest",
+    "questionText": "<div class=\"original-stem\">A sum is invested at 40% p.a. compound interest compounded half-yearly. Amount after one and half years is Rs.2,16,000. Find the sum.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs.1,10,000"
+      },
+      {
+        "label": "B",
+        "text": "Rs.1,25,000"
+      },
+      {
+        "label": "C",
+        "text": "Rs.1,50,000"
+      },
+      {
+        "label": "D",
+        "text": "Rs.1,40,000"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Half-yearly rate 20%, 3 periods: P=216000/(1.2³)=125000.",
+      "beginner": "This is question #64 from official Junior Assistant (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q65",
+    "subjectCode": "quant",
+    "topicCode": "si_and_ci",
+    "questionText": "<div class=\"original-stem\">Suraj borrowed a sum from Ajay at a certain rate of simple interest for 2 years and lent it to Vinay at same compound interest rate for 2 years. At end he received CI Rs.1230 and paid SI Rs.1200. Find principal and rate.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs.12000, 5% p.a."
+      },
+      {
+        "label": "B",
+        "text": "Rs.10000, 5% p.a."
+      },
+      {
+        "label": "C",
+        "text": "Rs.15000, 8% p.a."
+      },
+      {
+        "label": "D",
+        "text": "Rs.12000, 8% p.a."
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Difference CI−SI = P(r/100)²=30; SI=2Pr/100=1200. Hence r=5%, P=12000.",
+      "beginner": "This is question #65 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q66",
+    "subjectCode": "quant",
+    "topicCode": "speed_distance_time",
+    "questionText": "<div class=\"original-stem\">In how much time will a car cover 9000 metres at a speed of 90 kmph?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "0.1 hour"
+      },
+      {
+        "label": "B",
+        "text": "0.2 hour"
+      },
+      {
+        "label": "C",
+        "text": "0.3 hour"
+      },
+      {
+        "label": "D",
+        "text": "0.4 hour"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "9000m=9km; time=9/90=0.1 hour or 6 minutes.",
+      "beginner": "This is question #66 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q67",
+    "subjectCode": "quant",
+    "topicCode": "speed_comparison",
+    "questionText": "<div class=\"original-stem\">Speed of a car is 2 times speed of a passenger train. If car travels at 85 kmph, what difference in times of passenger train and car to cover 935 km?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "5 hours"
+      },
+      {
+        "label": "B",
+        "text": "11 hours"
+      },
+      {
+        "label": "C",
+        "text": "22 hours"
+      },
+      {
+        "label": "D",
+        "text": "8 hours"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Train speed 42.5 kmph. Times 22h and 11h; difference 11h.",
+      "beginner": "This is question #67 from official Junior Assistant (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q68",
+    "subjectCode": "quant",
+    "topicCode": "relative_speed",
+    "questionText": "<div class=\"original-stem\">Two cars P and Q start simultaneously from A and B, 240 km apart. Moving in opposite directions they meet after 2 hours, and moving in same direction (from A towards B) P meets Q after 8 hours. Find P’s speed.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "60 km/hr"
+      },
+      {
+        "label": "B",
+        "text": "75 km/hr"
+      },
+      {
+        "label": "C",
+        "text": "80 km/hr"
+      },
+      {
+        "label": "D",
+        "text": "70 km/hr"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "P+Q=120 km/h; P−Q=30 km/h. Therefore P=(120+30)/2=75 km/h.",
+      "beginner": "This is question #68 from official Junior Assistant (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q69",
+    "subjectCode": "quant",
+    "topicCode": "alternating_work",
+    "questionText": "<div class=\"original-stem\">A finishes work in 3 days, B in 4 days, C in 5 days. They work in turns: A day 1, B day 2, C day 3, then A and so on. On which day will work finish?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "3"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Work in days 1–3: 1/3+1/4+1/5=47/60. Remaining 13/60 < A’s one-day capacity, so finished on day 4.",
+      "beginner": "This is question #69 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q70",
+    "subjectCode": "quant",
+    "topicCode": "climbing_pole",
+    "questionText": "<div class=\"original-stem\">A spider climbs 10 metres up a pole in 20 minutes and slips 2 metres down immediately. If it takes 3 hours to reach the top, find height of the pole.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "74 Metre"
+      },
+      {
+        "label": "B",
+        "text": "72 Metre"
+      },
+      {
+        "label": "C",
+        "text": "80 Metre"
+      },
+      {
+        "label": "D",
+        "text": "90 Metre"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Each completed 20-min interval nets 8m, except final interval. 8 prior slips and a final 10m: 8×8+10=74m.",
+      "beginner": "This is question #70 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q71",
+    "subjectCode": "quant",
+    "topicCode": "combined_work",
+    "questionText": "<div class=\"original-stem\">John completes work in 9 days; John and Smith together complete it in 6 days. How long for Smith alone?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "15 Days"
+      },
+      {
+        "label": "B",
+        "text": "18 Days"
+      },
+      {
+        "label": "C",
+        "text": "54 Days"
+      },
+      {
+        "label": "D",
+        "text": "36 Days"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Smith rate=1/6−1/9=1/18 per day. Alone 18 days.",
+      "beginner": "This is question #71 from official Junior Assistant (2019 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q72",
+    "subjectCode": "quant",
+    "topicCode": "volume",
+    "questionText": "<div class=\"original-stem\">Dimensions of a hall are 150×80×120 cm. How many persons can sit in the hall if each needs 200 cube cm of air?</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "7200"
+      },
+      {
+        "label": "B",
+        "text": "7150"
+      },
+      {
+        "label": "C",
+        "text": "7250"
+      },
+      {
+        "label": "D",
+        "text": "7300"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Volume 150×80×120=1,440,000cm³; /200=7200.",
+      "beginner": "This is question #72 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q73",
+    "subjectCode": "quant",
+    "topicCode": "rectangle_area",
+    "questionText": "<div class=\"original-stem\">A took 30 seconds to cross a rectangular field diagonally at speed 40 m/min and B took the same time to cross it along its sides at speed 56 m/min. Find area of field.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "132 metre square"
+      },
+      {
+        "label": "B",
+        "text": "172 metre square"
+      },
+      {
+        "label": "C",
+        "text": "192 metre square"
+      },
+      {
+        "label": "D",
+        "text": "154 metre square"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Diagonal=40×0.5=20m, length+breadth=56×0.5=28m. Since (a+b)²−(a²+b²)=2ab, area=(784−400)/2=192m².",
+      "beginner": "This is question #73 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q74",
+    "subjectCode": "quant",
+    "topicCode": "mensuration",
+    "questionText": "<div class=\"original-stem\">Ratio of length to breadth of rectangle is 5:2 and perimeter is 70 cm. Find area.</div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "250 sq cm"
+      },
+      {
+        "label": "B",
+        "text": "400 sq cm"
+      },
+      {
+        "label": "C",
+        "text": "200 sq cm"
+      },
+      {
+        "label": "D",
+        "text": "150 sq cm"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Let length=5x, breadth=2x. 2×7x=70 ⇒ x=5; area=25×10=250 cm².",
+      "beginner": "This is question #74 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q75",
+    "subjectCode": "quant",
+    "topicCode": "di_pie_chart_expenditure",
+    "questionText": "<div class=\"original-stem\">Shubh and Shaurya live in a hostel. Shubh gets Rs.5000/month and Shaurya gets Rs.6000/month. Two pie charts show their expenses. What is the difference between the amount spent by the two on room rent and mess?</div><div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 297 275\" width=\"297\" height=\"275\" role=\"img\"><text x=\"141\" y=\"23\" fill=\"#23334d\" font-size=\"19\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Shubh: ₹5,000</text><path d=\"M141,140 L141.00,55.00 A 85,85 0 0,1 217.91,103.81 Z\" fill=\"#4471ae\" stroke=\"white\" stroke-width=\"2\" /><text x=\"201.0126010376476\" y=\"45.435272343774315\" fill=\"#23334d\" font-size=\"11\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Rent 18%</text><path d=\"M141,140 L217.91,103.81 A 85,85 0 0,1 190.96,208.77 Z\" fill=\"#c24a4a\" stroke=\"white\" stroke-width=\"2\" /><text x=\"249.48131404640668\" y=\"167.85326736246373\" fill=\"#23334d\" font-size=\"11\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Mess 22%</text><path d=\"M141,140 L190.96,208.77 A 85,85 0 0,1 146.34,224.83 Z\" fill=\"#8fbd5b\" stroke=\"white\" stroke-width=\"2\" /><text x=\"178.93864706747263\" y=\"245.37864612287325\" fill=\"#23334d\" font-size=\"11\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Mobile 9%</text><path d=\"M141,140 L146.34,224.83 A 85,85 0 0,1 86.82,205.49 Z\" fill=\"#aa77ad\" stroke=\"white\" stroke-width=\"2\" /><text x=\"106.39009663000584\" y=\"246.51832982505718\" fill=\"#23334d\" font-size=\"11\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Books 12%</text><path d=\"M141,140 L86.82,205.49 A 85,85 0 0,1 56.67,150.65 Z\" fill=\"#49ada8\" stroke=\"white\" stroke-width=\"2\" /><text x=\"42.85365183508728\" y=\"193.95641149939212\" fill=\"#23334d\" font-size=\"11\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Petrol 12%</text><path d=\"M141,140 L56.67,150.65 A 85,85 0 0,1 95.45,68.23 Z\" fill=\"#de9342\" stroke=\"white\" stroke-width=\"2\" /><text x=\"39.659370123805815\" y=\"92.31271934471187\" fill=\"#23334d\" font-size=\"11\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Misc 18%</text><path d=\"M141,140 L95.45,68.23 A 85,85 0 0,1 141.00,55.00 Z\" fill=\"#8298c6\" stroke=\"white\" stroke-width=\"2\" /><text x=\"109.75299612360628\" y=\"32.44710720418239\" fill=\"#23334d\" font-size=\"11\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Save 9%</text></svg></div><div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 297 275\" width=\"297\" height=\"275\" role=\"img\"><text x=\"141\" y=\"23\" fill=\"#23334d\" font-size=\"19\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Shaurya: ₹6,000</text><path d=\"M141,140 L141.00,55.00 A 85,85 0 0,1 223.33,118.86 Z\" fill=\"#4471ae\" stroke=\"white\" stroke-width=\"2\" /><text x=\"209.64559000913337\" y=\"51.50263861392267\" fill=\"#23334d\" font-size=\"11\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Rent 21%</text><path d=\"M141,140 L223.33,118.86 A 85,85 0 0,1 172.29,219.03 Z\" fill=\"#c24a4a\" stroke=\"white\" stroke-width=\"2\" /><text x=\"240.7927307090972\" y=\"190.84693597082924\" fill=\"#23334d\" font-size=\"11\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Mess 23%</text><path d=\"M141,140 L172.29,219.03 A 85,85 0 0,1 130.35,224.33 Z\" fill=\"#8fbd5b\" stroke=\"white\" stroke-width=\"2\" /><text x=\"155.0373221592021\" y=\"251.1168465472215\" fill=\"#23334d\" font-size=\"11\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Mobile 8%</text><path d=\"M141,140 L130.35,224.33 A 85,85 0 0,1 79.04,198.19 Z\" fill=\"#aa77ad\" stroke=\"white\" stroke-width=\"2\" /><text x=\"90.15306402917076\" y=\"239.7927307090972\" fill=\"#23334d\" font-size=\"11\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Books 11%</text><path d=\"M141,140 L79.04,198.19 A 85,85 0 0,1 56.67,129.35 Z\" fill=\"#49ada8\" stroke=\"white\" stroke-width=\"2\" /><text x=\"34.481670174942806\" y=\"174.60990336999413\" fill=\"#23334d\" font-size=\"11\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Petrol 14%</text><path d=\"M141,140 L56.67,129.35 A 85,85 0 0,1 114.73,59.16 Z\" fill=\"#de9342\" stroke=\"white\" stroke-width=\"2\" /><text x=\"54.70251680911157\" y=\"68.6085131481468\" fill=\"#23334d\" font-size=\"11\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Misc 18%</text><path d=\"M141,140 L114.73,59.16 A 85,85 0 0,1 141.00,55.00 Z\" fill=\"#8298c6\" stroke=\"white\" stroke-width=\"2\" /><text x=\"123.47933991549412\" y=\"29.378905853344577\" fill=\"#23334d\" font-size=\"11\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Save 5%</text></svg></div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "784"
+      },
+      {
+        "label": "B",
+        "text": "586"
+      },
+      {
+        "label": "C",
+        "text": "640"
+      },
+      {
+        "label": "D",
+        "text": "720"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Shubh rent+mess=(18+22)%×5000=2000; Shaurya=(21+23)%×6000=2640. Difference=640.",
+      "beginner": "This is question #75 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q76",
+    "subjectCode": "quant",
+    "topicCode": "di_manufacturing_table",
+    "questionText": "<div class=\"original-stem\">Study the table of washing machines and refrigerators manufactured by a company during 2005–2009. Approximate percentage decrease in refrigerators manufactured in 2007 from 2006?</div><div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 692 140\" width=\"692\" height=\"140\" role=\"img\"><rect x=\"10\" y=\"10\" width=\"112\" height=\"40\" fill=\"#e8f1fc\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"66.0\" y=\"37\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Year</text><rect x=\"122\" y=\"10\" width=\"112\" height=\"40\" fill=\"#e8f1fc\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"178.0\" y=\"37\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">2005</text><rect x=\"234\" y=\"10\" width=\"112\" height=\"40\" fill=\"#e8f1fc\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"290.0\" y=\"37\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">2006</text><rect x=\"346\" y=\"10\" width=\"112\" height=\"40\" fill=\"#e8f1fc\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"402.0\" y=\"37\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">2007</text><rect x=\"458\" y=\"10\" width=\"112\" height=\"40\" fill=\"#e8f1fc\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"514.0\" y=\"37\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">2008</text><rect x=\"570\" y=\"10\" width=\"112\" height=\"40\" fill=\"#e8f1fc\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"626.0\" y=\"37\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">2009</text><rect x=\"10\" y=\"50\" width=\"112\" height=\"40\" fill=\"#fff\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"66.0\" y=\"77\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Washing machines</text><rect x=\"122\" y=\"50\" width=\"112\" height=\"40\" fill=\"#fff\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"178.0\" y=\"77\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">14400</text><rect x=\"234\" y=\"50\" width=\"112\" height=\"40\" fill=\"#fff\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"290.0\" y=\"77\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">20500</text><rect x=\"346\" y=\"50\" width=\"112\" height=\"40\" fill=\"#fff\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"402.0\" y=\"77\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">12800</text><rect x=\"458\" y=\"50\" width=\"112\" height=\"40\" fill=\"#fff\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"514.0\" y=\"77\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">16400</text><rect x=\"570\" y=\"50\" width=\"112\" height=\"40\" fill=\"#fff\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"626.0\" y=\"77\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">18600</text><rect x=\"10\" y=\"90\" width=\"112\" height=\"40\" fill=\"#fff\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"66.0\" y=\"117\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Refrigerators</text><rect x=\"122\" y=\"90\" width=\"112\" height=\"40\" fill=\"#fff\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"178.0\" y=\"117\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">12800</text><rect x=\"234\" y=\"90\" width=\"112\" height=\"40\" fill=\"#fff\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"290.0\" y=\"117\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">24700</text><rect x=\"346\" y=\"90\" width=\"112\" height=\"40\" fill=\"#fff\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"402.0\" y=\"117\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">19200</text><rect x=\"458\" y=\"90\" width=\"112\" height=\"40\" fill=\"#fff\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"514.0\" y=\"117\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">20200</text><rect x=\"570\" y=\"90\" width=\"112\" height=\"40\" fill=\"#fff\" stroke=\"#71859c\" stroke-width=\"1\"/><text x=\"626.0\" y=\"117\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">14900</text></svg></div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "22"
+      },
+      {
+        "label": "B",
+        "text": "26"
+      },
+      {
+        "label": "C",
+        "text": "28"
+      },
+      {
+        "label": "D",
+        "text": "30"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Refrigerators fall from 24700 (2006) to 19200 (2007). Decrease=5500/24700×100≈22.27%.",
+      "beginner": "This is question #76 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q77",
+    "subjectCode": "quant",
+    "topicCode": "di_budget_pie_chart",
+    "questionText": "<div class=\"original-stem\">Pie chart shows category-wise budget allotment in degrees. Which items have a ratio nearly 1:15?</div><div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 315\" width=\"420\" height=\"315\" role=\"img\"><path d=\"M 180,157 L 180.00,37.00 A 120,120 0 0,1 299.84,150.72 Z\" stroke=\"white\" stroke-width=\"2\" fill=\"#557fb2\"/><text x=\"239.19849350966285\" y=\"97.61780409294326\" fill=\"#fff\" font-size=\"12\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Others 87°</text><path d=\"M 180,157 L 299.84,150.72 A 120,120 0 0,1 298.39,176.60 Z\" stroke=\"white\" stroke-width=\"2\" fill=\"#c7666a\"/><text x=\"265.86590571965036\" y=\"164.8006494294121\" fill=\"#fff\" font-size=\"12\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Direct demand 12.4°</text><path d=\"M 180,157 L 298.39,176.60 A 120,120 0 0,1 256.49,249.46 Z\" stroke=\"white\" stroke-width=\"2\" fill=\"#94b960\"/><text x=\"254.55312040846184\" y=\"202.8699456188294\" fill=\"#fff\" font-size=\"12\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Road and rail 41°</text><path d=\"M 180,157 L 256.49,249.46 A 120,120 0 0,1 148.94,272.91 Z\" stroke=\"white\" stroke-width=\"2\" fill=\"#a987cc\"/><text x=\"198.32061321964798\" y=\"244.02591940143267\" fill=\"#fff\" font-size=\"12\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Agriculture 54.6°</text><path d=\"M 180,157 L 148.94,272.91 A 120,120 0 0,1 180.00,37.00 Z\" stroke=\"white\" stroke-width=\"2\" fill=\"#45b6c5\"/><text x=\"94.7357419218523\" y=\"148.77474746907558\" fill=\"#fff\" font-size=\"12\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Defence 165°</text></svg></div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Defence and Direct demand"
+      },
+      {
+        "label": "B",
+        "text": "Roads and railways and defences"
+      },
+      {
+        "label": "C",
+        "text": "Direct demand and others"
+      },
+      {
+        "label": "D",
+        "text": "Direct demand and Defence"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Direct Demand 12.4° and Defence 185° give ≈1:14.92, approximately 1:15.",
+      "beginner": "This is question #77 from official Junior Assistant (2019 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q78",
+    "subjectCode": "quant",
+    "topicCode": "di_bar_chart_change",
+    "questionText": "<div class=\"original-stem\">Bar chart shows money invested in raw material and sale value of finished goods, years 1995–2000. In 1996, what percent increase was invested in finished materials compared with 1995?</div><div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 650 280\" width=\"650\" height=\"280\" role=\"img\"><text x=\"325\" y=\"20\" fill=\"#23334d\" font-size=\"15\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Amount invested (red) / finished sales (blue) — ₹ lakh</text><rect x=\"65\" y=\"197.2\" width=\"25\" height=\"34.8\" fill=\"#3c75b8\" /><rect x=\"91\" y=\"174.0\" width=\"25\" height=\"57.99999999999999\" fill=\"#bd565f\" /><text x=\"77\" y=\"189.2\" fill=\"#23334d\" font-size=\"12\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">120</text><text x=\"104\" y=\"166.0\" fill=\"#23334d\" font-size=\"12\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">200</text><text x=\"90\" y=\"256\" fill=\"#23334d\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">1995</text><rect x=\"153\" y=\"166.75\" width=\"25\" height=\"65.25\" fill=\"#3c75b8\" /><rect x=\"179\" y=\"145.0\" width=\"25\" height=\"87.0\" fill=\"#bd565f\" /><text x=\"165\" y=\"158.75\" fill=\"#23334d\" font-size=\"12\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">225</text><text x=\"192\" y=\"137.0\" fill=\"#23334d\" font-size=\"12\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">300</text><text x=\"178\" y=\"256\" fill=\"#23334d\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">1996</text><rect x=\"241\" y=\"123.25000000000001\" width=\"25\" height=\"108.74999999999999\" fill=\"#3c75b8\" /><rect x=\"267\" y=\"87.0\" width=\"25\" height=\"145.0\" fill=\"#bd565f\" /><text x=\"253\" y=\"115.25000000000001\" fill=\"#23334d\" font-size=\"12\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">375</text><text x=\"280\" y=\"79.0\" fill=\"#23334d\" font-size=\"12\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">500</text><text x=\"266\" y=\"256\" fill=\"#23334d\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">1997</text><rect x=\"329\" y=\"136.3\" width=\"25\" height=\"95.69999999999999\" fill=\"#3c75b8\" /><rect x=\"355\" y=\"116.00000000000001\" width=\"25\" height=\"115.99999999999999\" fill=\"#bd565f\" /><text x=\"341\" y=\"128.3\" fill=\"#23334d\" font-size=\"12\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">330</text><text x=\"368\" y=\"108.00000000000001\" fill=\"#23334d\" font-size=\"12\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">400</text><text x=\"354\" y=\"256\" fill=\"#23334d\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">1998</text><rect x=\"417\" y=\"79.75\" width=\"25\" height=\"152.25\" fill=\"#3c75b8\" /><rect x=\"443\" y=\"58.0\" width=\"25\" height=\"174.0\" fill=\"#bd565f\" /><text x=\"429\" y=\"71.75\" fill=\"#23334d\" font-size=\"12\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">525</text><text x=\"456\" y=\"50.0\" fill=\"#23334d\" font-size=\"12\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">600</text><text x=\"442\" y=\"256\" fill=\"#23334d\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">1999</text><rect x=\"505\" y=\"110.2\" width=\"25\" height=\"121.8\" fill=\"#3c75b8\" /><rect x=\"531\" y=\"98.60000000000002\" width=\"25\" height=\"133.39999999999998\" fill=\"#bd565f\" /><text x=\"517\" y=\"102.2\" fill=\"#23334d\" font-size=\"12\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">420</text><text x=\"544\" y=\"90.60000000000002\" fill=\"#23334d\" font-size=\"12\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">460</text><text x=\"530\" y=\"256\" fill=\"#23334d\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">2000</text><line x1=\"45\" y1=\"232\" x2=\"629\" y2=\"232\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "87.50 percent"
+      },
+      {
+        "label": "B",
+        "text": "50 percent"
+      },
+      {
+        "label": "C",
+        "text": "62.50 percent"
+      },
+      {
+        "label": "D",
+        "text": "82.50 percent"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Blue values 120→225 (in lakhs); % increase=(225−120)/120×100=87.5%.",
+      "beginner": "This is question #78 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q79",
+    "subjectCode": "quant",
+    "topicCode": "di_sales_turnover",
+    "questionText": "<div class=\"original-stem\">Bar chart shows sales turnover (in thousands of rupees) from 1990–1995. By how much is 1995 sales more than 1991?</div><div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 265\" width=\"640\" height=\"265\" role=\"img\"><text x=\"310\" y=\"20\" fill=\"#23334d\" font-size=\"18\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Sales turnover (thousands of rupees)</text><rect x=\"62\" y=\"97.50000000000001\" width=\"52\" height=\"122.49999999999999\" fill=\"#5185b8\"/><text x=\"87\" y=\"242\" fill=\"#23334d\" font-size=\"14\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">1990</text><text x=\"87\" y=\"85.50000000000001\" fill=\"#23334d\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">350</text><rect x=\"152\" y=\"115.0\" width=\"52\" height=\"105.0\" fill=\"#5185b8\"/><text x=\"177\" y=\"242\" fill=\"#23334d\" font-size=\"14\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">1991</text><text x=\"177\" y=\"103.0\" fill=\"#23334d\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">300</text><rect x=\"242\" y=\"80.0\" width=\"52\" height=\"140.0\" fill=\"#5185b8\"/><text x=\"267\" y=\"242\" fill=\"#23334d\" font-size=\"14\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">1992</text><text x=\"267\" y=\"68.0\" fill=\"#23334d\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">400</text><rect x=\"332\" y=\"71.25\" width=\"52\" height=\"148.75\" fill=\"#5185b8\"/><text x=\"357\" y=\"242\" fill=\"#23334d\" font-size=\"14\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">1993</text><text x=\"357\" y=\"59.25\" fill=\"#23334d\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">425</text><rect x=\"422\" y=\"62.5\" width=\"52\" height=\"157.5\" fill=\"#5185b8\"/><text x=\"447\" y=\"242\" fill=\"#23334d\" font-size=\"14\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">1994</text><text x=\"447\" y=\"50.5\" fill=\"#23334d\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">450</text><rect x=\"512\" y=\"80.0\" width=\"52\" height=\"140.0\" fill=\"#5185b8\"/><text x=\"537\" y=\"242\" fill=\"#23334d\" font-size=\"14\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">1995</text><text x=\"537\" y=\"68.0\" fill=\"#23334d\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">400</text><line x1=\"44\" y1=\"220\" x2=\"621\" y2=\"220\" stroke=\"#243449\" stroke-width=\"2\" fill=\"none\"/></svg></div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. one hundred"
+      },
+      {
+        "label": "B",
+        "text": "Rs. ten thousand"
+      },
+      {
+        "label": "C",
+        "text": "Rs. one lakh"
+      },
+      {
+        "label": "D",
+        "text": "Rs. ten lakh"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "1995 sales 400 thousand, 1991 sales 300 thousand. Difference ₹100,000 = one lakh.",
+      "beginner": "This is question #79 from official Junior Assistant (2019 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_dass_junior_assistant_03sep2019_shift1_80_pyq_professional_cbt_q80",
+    "subjectCode": "quant",
+    "topicCode": "di_shops_in_cities",
+    "questionText": "<div class=\"original-stem\">Graph shows number of Bata and Woodland shops in 5 cities (A–E). What is average Bata shops across all cities?</div><div class=\"graph-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 655 298\" width=\"655\" height=\"298\" role=\"img\"><text x=\"344\" y=\"20\" fill=\"#23334d\" font-size=\"19\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Bata and Woodland outlets in five cities</text><polyline points=\"95,140.00 208,110.00 321,162.50 434,194.00 547,213.50\" fill=\"none\" stroke=\"#426fa7\" stroke-width=\"3.5\" /><circle cx=\"95\" cy=\"140.0\" r=\"4\" fill=\"#426fa7\" /><text x=\"95\" y=\"127.0\" fill=\"#426fa7\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">160</text><circle cx=\"208\" cy=\"110.0\" r=\"4\" fill=\"#426fa7\" /><text x=\"208\" y=\"97.0\" fill=\"#426fa7\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">180</text><circle cx=\"321\" cy=\"162.5\" r=\"4\" fill=\"#426fa7\" /><text x=\"321\" y=\"149.5\" fill=\"#426fa7\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">145</text><circle cx=\"434\" cy=\"194.0\" r=\"4\" fill=\"#426fa7\" /><text x=\"434\" y=\"181.0\" fill=\"#426fa7\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">124</text><circle cx=\"547\" cy=\"213.5\" r=\"4\" fill=\"#426fa7\" /><text x=\"547\" y=\"200.5\" fill=\"#426fa7\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">111</text><polyline points=\"95,155.00 208,125.00 321,147.50 434,132.50 547,171.50\" fill=\"none\" stroke=\"#bb565d\" stroke-width=\"3.5\" /><circle cx=\"95\" cy=\"155.0\" r=\"4\" fill=\"#bb565d\" /><text x=\"95\" y=\"175.0\" fill=\"#bb565d\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">150</text><circle cx=\"208\" cy=\"125.0\" r=\"4\" fill=\"#bb565d\" /><text x=\"208\" y=\"145.0\" fill=\"#bb565d\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">170</text><circle cx=\"321\" cy=\"147.5\" r=\"4\" fill=\"#bb565d\" /><text x=\"321\" y=\"167.5\" fill=\"#bb565d\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">155</text><circle cx=\"434\" cy=\"132.5\" r=\"4\" fill=\"#bb565d\" /><text x=\"434\" y=\"152.5\" fill=\"#bb565d\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">165</text><circle cx=\"547\" cy=\"171.5\" r=\"4\" fill=\"#bb565d\" /><text x=\"547\" y=\"191.5\" fill=\"#bb565d\" font-size=\"13\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">139</text><text x=\"95\" y=\"260\" fill=\"#23334d\" font-size=\"17\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">A</text><text x=\"208\" y=\"260\" fill=\"#23334d\" font-size=\"17\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">B</text><text x=\"321\" y=\"260\" fill=\"#23334d\" font-size=\"17\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">C</text><text x=\"434\" y=\"260\" fill=\"#23334d\" font-size=\"17\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">D</text><text x=\"547\" y=\"260\" fill=\"#23334d\" font-size=\"17\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">E</text><text x=\"290\" y=\"285\" fill=\"#23334d\" font-size=\"16\" font-family=\"Arial,sans-serif\" text-anchor=\"middle\">Blue: Bata       Red: Woodland</text></svg></div>",
+    "options": [
+      {
+        "label": "A",
+        "text": "142"
+      },
+      {
+        "label": "B",
+        "text": "135"
+      },
+      {
+        "label": "C",
+        "text": "161"
+      },
+      {
+        "label": "D",
+        "text": "137"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Bata values 150,180,145,124,111: sum=710, average=142.",
+      "beginner": "This is question #80 from official Junior Assistant (2019 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2019",
+      "year": 2019,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "03 Sep 2019",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Grade IV DASS Junior Assistant 2019 | Professional CBT | 80 PYQs"
+    },
+    "status": "approved"
+  }
+]

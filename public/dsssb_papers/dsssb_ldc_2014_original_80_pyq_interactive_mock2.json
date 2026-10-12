@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q1",
+    "subjectCode": "reasoning",
+    "topicCode": "blood_relations",
+    "questionText": "Avinash is Ravi’s eldest brother. Ravi is younger than Ajay. Ravi and Ajay are not brothers. Which statement is definitely true?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ajay is younger than Avinash"
+      },
+      {
+        "label": "B",
+        "text": "Avinash is younger than Ajay"
+      },
+      {
+        "label": "C",
+        "text": "Ajay is younger than Ravi"
+      },
+      {
+        "label": "D",
+        "text": "Ravi is younger than Avinash"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Because Avinash is Ravi’s eldest brother, Ravi must be younger than Avinash. Ajay’s age relative to Avinash is not established.",
+      "beginner": "This is question #1 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q2",
+    "subjectCode": "reasoning",
+    "topicCode": "odd_one_out",
+    "questionText": "Choose the one that does not belong to the other three.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Leaf"
+      },
+      {
+        "label": "B",
+        "text": "Root"
+      },
+      {
+        "label": "C",
+        "text": "Sand"
+      },
+      {
+        "label": "D",
+        "text": "Flower"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Leaf, root and flower are parts of a plant; sand is not.",
+      "beginner": "This is question #2 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q3",
+    "subjectCode": "reasoning",
+    "topicCode": "odd_one_out",
+    "questionText": "Choose the one that does not belong to the other three.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sweet"
+      },
+      {
+        "label": "B",
+        "text": "Bite"
+      },
+      {
+        "label": "C",
+        "text": "Sour"
+      },
+      {
+        "label": "D",
+        "text": "Bitter"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Sweet, sour and bitter are tastes. Bite is an action.",
+      "beginner": "This is question #3 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q4",
+    "subjectCode": "reasoning",
+    "topicCode": "odd_one_out",
+    "questionText": "Choose the one that does not belong to the other three.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Anxious"
+      },
+      {
+        "label": "B",
+        "text": "Igneous"
+      },
+      {
+        "label": "C",
+        "text": "Sedimentary"
+      },
+      {
+        "label": "D",
+        "text": "Metamorphic"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Igneous, sedimentary and metamorphic are types of rocks; anxious is an emotion.",
+      "beginner": "This is question #4 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q5",
+    "subjectCode": "reasoning",
+    "topicCode": "odd_one_out",
+    "questionText": "Choose the one that does not belong to the other three.",
+    "options": [
+      {
+        "label": "A",
+        "text": "28"
+      },
+      {
+        "label": "B",
+        "text": "12"
+      },
+      {
+        "label": "C",
+        "text": "23"
+      },
+      {
+        "label": "D",
+        "text": "16"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "28, 12 and 16 are even numbers; 23 is odd.",
+      "beginner": "This is question #5 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q6",
+    "subjectCode": "reasoning",
+    "topicCode": "odd_one_out",
+    "questionText": "Choose the one that does not belong to the other three.",
+    "options": [
+      {
+        "label": "A",
+        "text": "George Bush"
+      },
+      {
+        "label": "B",
+        "text": "Bill Clinton"
+      },
+      {
+        "label": "C",
+        "text": "Narendra Modi"
+      },
+      {
+        "label": "D",
+        "text": "Barack Obama"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Bush, Clinton and Obama have been US presidents; Narendra Modi is an Indian prime minister.",
+      "beginner": "This is question #6 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q7",
+    "subjectCode": "reasoning",
+    "topicCode": "coding_decoding",
+    "questionText": "If A = 5, B = 6, C = 7, D = 8, and so on, what does 22 25 8 22 5 stand for?",
+    "options": [
+      {
+        "label": "A",
+        "text": "PRIYA"
+      },
+      {
+        "label": "B",
+        "text": "NEEMA"
+      },
+      {
+        "label": "C",
+        "text": "MEENA"
+      },
+      {
+        "label": "D",
+        "text": "RUDRA"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Subtract 4 from each code number to get alphabet positions: 22→R, 25→U, 8→D, 22→R, 5→A.",
+      "beginner": "This is question #7 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q8",
+    "subjectCode": "reasoning",
+    "topicCode": "coding_decoding",
+    "questionText": "If A = 5, B = 6, C = 7, D = 8, and so on, what does 6 22 19 27 18 stand for?",
+    "options": [
+      {
+        "label": "A",
+        "text": "BROWN"
+      },
+      {
+        "label": "B",
+        "text": "WHITE"
+      },
+      {
+        "label": "C",
+        "text": "GREEN"
+      },
+      {
+        "label": "D",
+        "text": "BLACK"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The codes convert to letters B, R, O, W, N; hence BROWN.",
+      "beginner": "This is question #8 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q9",
+    "subjectCode": "reasoning",
+    "topicCode": "coding_decoding",
+    "questionText": "If A = 5, B = 6, C = 7, D = 8, and so on, what does 17 19 20 9 8 stand for?",
+    "options": [
+      {
+        "label": "A",
+        "text": "MOPED"
+      },
+      {
+        "label": "B",
+        "text": "PLANE"
+      },
+      {
+        "label": "C",
+        "text": "MOTOR"
+      },
+      {
+        "label": "D",
+        "text": "TRAIN"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Subtract 4 from each number: 13, 15, 16, 5, 4 → M O P E D.",
+      "beginner": "This is question #9 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q10",
+    "subjectCode": "reasoning",
+    "topicCode": "coding_decoding",
+    "questionText": "If A = 5, B = 6, C = 7, D = 8, and so on, what does 22 5 14 5 18 stand for?",
+    "options": [
+      {
+        "label": "A",
+        "text": "RAJAT"
+      },
+      {
+        "label": "B",
+        "text": "BADAL"
+      },
+      {
+        "label": "C",
+        "text": "RAJAN"
+      },
+      {
+        "label": "D",
+        "text": "BIMAL"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "22→R, 5→A, 14→J, 5→A and 18→N, giving RAJAN.",
+      "beginner": "This is question #10 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q11",
+    "subjectCode": "reasoning",
+    "topicCode": "analogy",
+    "questionText": "Adult : Baby :: Flower : ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Seed"
+      },
+      {
+        "label": "B",
+        "text": "Bud"
+      },
+      {
+        "label": "C",
+        "text": "Fruit"
+      },
+      {
+        "label": "D",
+        "text": "Butterfly"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "A baby is an early developmental stage of an adult; a bud is an early stage of a flower.",
+      "beginner": "This is question #11 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q12",
+    "subjectCode": "reasoning",
+    "topicCode": "analogy",
+    "questionText": "Good : Bad :: Virtue : ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Blame"
+      },
+      {
+        "label": "B",
+        "text": "Sad"
+      },
+      {
+        "label": "C",
+        "text": "Despair"
+      },
+      {
+        "label": "D",
+        "text": "Vice"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Good and bad are antonyms, as are virtue and vice.",
+      "beginner": "This is question #12 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q13",
+    "subjectCode": "reasoning",
+    "topicCode": "coding_decoding",
+    "questionText": "In a code, “256” means “you are good”, “637” means “we are bad”, and “358” means “good and bad”. Which digit represents “and”?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "label": "B",
+        "text": "5"
+      },
+      {
+        "label": "C",
+        "text": "8"
+      },
+      {
+        "label": "D",
+        "text": "3"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "The common digit for good is 5, and for bad it is 3. The remaining digit 8 represents “and”.",
+      "beginner": "This is question #13 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q14",
+    "subjectCode": "reasoning",
+    "topicCode": "word_rearrangement",
+    "questionText": "Rearrange the letters “VISEHL” into a meaningful word. Choose its last letter, as instructed in the original paper.",
+    "options": [
+      {
+        "label": "A",
+        "text": "E"
+      },
+      {
+        "label": "B",
+        "text": "L"
+      },
+      {
+        "label": "C",
+        "text": "R"
+      },
+      {
+        "label": "D",
+        "text": "S"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The printed letters VISEHL do not clearly form a standard English word. The original scan is shown for review; this question is included but excluded from scored accuracy to avoid guessing.",
+      "beginner": "This is question #14 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q15",
+    "subjectCode": "reasoning",
+    "topicCode": "word_rearrangement",
+    "questionText": "Rearrange “CAPCET” into a meaningful word and select the LAST letter.",
+    "options": [
+      {
+        "label": "A",
+        "text": "C"
+      },
+      {
+        "label": "B",
+        "text": "T"
+      },
+      {
+        "label": "C",
+        "text": "A"
+      },
+      {
+        "label": "D",
+        "text": "P"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "CAPCET → ACCEPT. The last letter is T.",
+      "beginner": "This is question #15 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q16",
+    "subjectCode": "reasoning",
+    "topicCode": "word_rearrangement",
+    "questionText": "Rearrange “AYDOT” into a meaningful word and select the LAST letter.",
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "T"
+      },
+      {
+        "label": "C",
+        "text": "D"
+      },
+      {
+        "label": "D",
+        "text": "Y"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "AYDOT → TODAY. The last letter is Y.",
+      "beginner": "This is question #16 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q17",
+    "subjectCode": "reasoning",
+    "topicCode": "word_rearrangement",
+    "questionText": "Rearrange “ERVSECI” into a meaningful word and select the LAST letter.",
+    "options": [
+      {
+        "label": "A",
+        "text": "S"
+      },
+      {
+        "label": "B",
+        "text": "I"
+      },
+      {
+        "label": "C",
+        "text": "E"
+      },
+      {
+        "label": "D",
+        "text": "R"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "ERVSECI → SERVICE. The last letter is E.",
+      "beginner": "This is question #17 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q18",
+    "subjectCode": "reasoning",
+    "topicCode": "word_rearrangement",
+    "questionText": "Rearrange “ILCEOP” into a meaningful word and select the LAST letter.",
+    "options": [
+      {
+        "label": "A",
+        "text": "E"
+      },
+      {
+        "label": "B",
+        "text": "O"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "L"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "ILCEOP → POLICE. The last letter is E.",
+      "beginner": "This is question #18 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q19",
+    "subjectCode": "reasoning",
+    "topicCode": "digit_series",
+    "questionText": "How many 6s in the given series are preceded by 7 but NOT immediately followed by 9? Series: 6795697637678694677695763",
+    "options": [
+      {
+        "label": "A",
+        "text": "One"
+      },
+      {
+        "label": "B",
+        "text": "Two"
+      },
+      {
+        "label": "C",
+        "text": "Three"
+      },
+      {
+        "label": "D",
+        "text": "Four"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Count occurrences of 76 with a next digit other than 9. The relevant groups are 763, 767 and 763: three in total.",
+      "beginner": "This is question #19 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q20",
+    "subjectCode": "reasoning",
+    "topicCode": "coding_decoding",
+    "questionText": "If MONUMENT is written as ONPTODPS, how is BEAR written in that code?",
+    "options": [
+      {
+        "label": "A",
+        "text": "ADBQ"
+      },
+      {
+        "label": "B",
+        "text": "DGCT"
+      },
+      {
+        "label": "C",
+        "text": "CDCS"
+      },
+      {
+        "label": "D",
+        "text": "DDCQ"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Alternate +2 and −1 alphabet shifts: M→O, O→N, N→P, U→T ... Thus B→D, E→D, A→C, R→Q: DDCQ.",
+      "beginner": "This is question #20 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q21",
+    "subjectCode": "reasoning",
+    "topicCode": "blood_relations",
+    "questionText": "Pointing to a lady in a photograph, Dinesh said: “Her mother’s husband’s daughter’s brother is my brother.” How is the lady related to Dinesh?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mother"
+      },
+      {
+        "label": "B",
+        "text": "Sister"
+      },
+      {
+        "label": "C",
+        "text": "Daughter"
+      },
+      {
+        "label": "D",
+        "text": "Grandmother"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Her mother’s husband is her father; that father’s daughter is the lady, whose brother is Dinesh’s brother. Thus she is Dinesh’s sister (ordinary family relations assumed).",
+      "beginner": "This is question #21 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q22",
+    "subjectCode": "reasoning",
+    "topicCode": "number_series",
+    "questionText": "Find the missing term: 1/2, 3/4, 5/8, 7/16, ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "10/17"
+      },
+      {
+        "label": "B",
+        "text": "9/32"
+      },
+      {
+        "label": "C",
+        "text": "11/34"
+      },
+      {
+        "label": "D",
+        "text": "12/35"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Numerators increase by 2: 1,3,5,7,9. Denominators double: 2,4,8,16,32. Answer 9/32.",
+      "beginner": "This is question #22 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q23",
+    "subjectCode": "reasoning",
+    "topicCode": "number_series",
+    "questionText": "Find the missing term: 1, 3, 7, 13, 21, ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "27"
+      },
+      {
+        "label": "B",
+        "text": "29"
+      },
+      {
+        "label": "C",
+        "text": "31"
+      },
+      {
+        "label": "D",
+        "text": "33"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "The increments are +2, +4, +6, +8. Next is +10, so 21+10=31.",
+      "beginner": "This is question #23 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q24",
+    "subjectCode": "reasoning",
+    "topicCode": "number_series",
+    "questionText": "Find the missing term: 4, 9, 16, 25, 36, ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "47"
+      },
+      {
+        "label": "B",
+        "text": "48"
+      },
+      {
+        "label": "C",
+        "text": "49"
+      },
+      {
+        "label": "D",
+        "text": "64"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "These are consecutive squares: 2², 3², 4², 5², 6², and next 7²=49.",
+      "beginner": "This is question #24 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q25",
+    "subjectCode": "reasoning",
+    "topicCode": "number_series",
+    "questionText": "Find the missing term: 0.5, 1.5, 4.5, 13.5, ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "40.5"
+      },
+      {
+        "label": "B",
+        "text": "30.5"
+      },
+      {
+        "label": "C",
+        "text": "39.5"
+      },
+      {
+        "label": "D",
+        "text": "45.5"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Multiply each term by 3: 13.5×3 = 40.5.",
+      "beginner": "This is question #25 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q26",
+    "subjectCode": "reasoning",
+    "topicCode": "ranking___comparison",
+    "questionText": "Ajay works more than Ram. Alok works as much as Raju. Pankaj works less than Alok. Ram works more than Alok. Who works the most?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ajay"
+      },
+      {
+        "label": "B",
+        "text": "Ram"
+      },
+      {
+        "label": "C",
+        "text": "Alok"
+      },
+      {
+        "label": "D",
+        "text": "Raju"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Ajay > Ram > Alok = Raju > Pankaj. Ajay works the most.",
+      "beginner": "This is question #26 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q27",
+    "subjectCode": "reasoning",
+    "topicCode": "calendar___day_calculation",
+    "questionText": "Charithra went to the movies nine days ago. She goes to the movies only on Thursday. What day of the week is today?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sunday"
+      },
+      {
+        "label": "B",
+        "text": "Tuesday"
+      },
+      {
+        "label": "C",
+        "text": "Thursday"
+      },
+      {
+        "label": "D",
+        "text": "Saturday"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Nine days = 7+2 days. Move two days forward from Thursday: Friday, Saturday.",
+      "beginner": "This is question #27 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q28",
+    "subjectCode": "reasoning",
+    "topicCode": "age_problems",
+    "questionText": "A father tells his son: “I was of your present age when you were born.” If the father is 36 now, how old is the boy now?",
+    "options": [
+      {
+        "label": "A",
+        "text": "15"
+      },
+      {
+        "label": "B",
+        "text": "18"
+      },
+      {
+        "label": "C",
+        "text": "14"
+      },
+      {
+        "label": "D",
+        "text": "17"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Let son’s age be x. Father’s age x years ago was 36−x, which equals x. Therefore 2x=36 and x=18.",
+      "beginner": "This is question #28 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q29",
+    "subjectCode": "reasoning",
+    "topicCode": "ranking___comparison",
+    "questionText": "Pune is bigger than Jhansi. Sitapur is bigger than Chittor. Raigarh is not as big as Jhansi, but bigger than Sitapur. Which is smallest?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jhansi"
+      },
+      {
+        "label": "B",
+        "text": "Pune"
+      },
+      {
+        "label": "C",
+        "text": "Chittor"
+      },
+      {
+        "label": "D",
+        "text": "Sitapur"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Order: Pune > Jhansi > Raigarh > Sitapur > Chittor. Smallest is Chittor.",
+      "beginner": "This is question #29 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q30",
+    "subjectCode": "reasoning",
+    "topicCode": "letter_analogy",
+    "questionText": "CARE : ERAC :: BEAR : ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "RAEB"
+      },
+      {
+        "label": "B",
+        "text": "REAB"
+      },
+      {
+        "label": "C",
+        "text": "AEBR"
+      },
+      {
+        "label": "D",
+        "text": "BARE"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "CARE is reversed to ERAC. Reversing BEAR gives RAEB.",
+      "beginner": "This is question #30 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q31",
+    "subjectCode": "reasoning",
+    "topicCode": "letter_analogy",
+    "questionText": "BANK : CBOL :: MORE : ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "EROM"
+      },
+      {
+        "label": "B",
+        "text": "NPSF"
+      },
+      {
+        "label": "C",
+        "text": "PSFN"
+      },
+      {
+        "label": "D",
+        "text": "ROME"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Shift each letter one position forward: B→C, A→B, N→O, K→L. MORE→NPSF.",
+      "beginner": "This is question #31 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q32",
+    "subjectCode": "reasoning",
+    "topicCode": "direction_and_distance",
+    "questionText": "Raju travels 100 m north, 100 m west, then 200 m south. In which direction is he now from the start?",
+    "options": [
+      {
+        "label": "A",
+        "text": "South"
+      },
+      {
+        "label": "B",
+        "text": "South East"
+      },
+      {
+        "label": "C",
+        "text": "West"
+      },
+      {
+        "label": "D",
+        "text": "South West"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Net movement is 100 m west and 100 m south; hence the direction is south-west.",
+      "beginner": "This is question #32 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q33",
+    "subjectCode": "reasoning",
+    "topicCode": "seating_arrangement",
+    "questionText": "A, B, C, D, E, F, G, H sit in a circle facing the centre. A faces C, who is between E and B. D is to A’s left. H is between G and E. F faces H. Who is to A’s right?",
+    "options": [
+      {
+        "label": "A",
+        "text": "G"
+      },
+      {
+        "label": "B",
+        "text": "F"
+      },
+      {
+        "label": "C",
+        "text": "B"
+      },
+      {
+        "label": "D",
+        "text": "E"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Fix A opposite C. Place B/E beside C, D immediately left of A, H between G and E, and F opposite H. The only arrangement places G immediately to A’s right.",
+      "beginner": "This is question #33 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q34",
+    "subjectCode": "reasoning",
+    "topicCode": "mathematical_operations",
+    "questionText": "P denotes ÷, Q denotes ×, R denotes +, and S denotes −. Find: 18 Q 12 P 4 R 5 S 6.",
+    "options": [
+      {
+        "label": "A",
+        "text": "55"
+      },
+      {
+        "label": "B",
+        "text": "53"
+      },
+      {
+        "label": "C",
+        "text": "57"
+      },
+      {
+        "label": "D",
+        "text": "47"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Replace symbols: 18×12÷4+5−6 = 54+5−6 = 53. Apply multiplication/division before addition/subtraction.",
+      "beginner": "This is question #34 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q35",
+    "subjectCode": "reasoning",
+    "topicCode": "digit_series",
+    "questionText": "How many 7s are preceded by 3 and immediately followed by 9 in the series 547983276548798563798?",
+    "options": [
+      {
+        "label": "A",
+        "text": "One"
+      },
+      {
+        "label": "B",
+        "text": "Two"
+      },
+      {
+        "label": "C",
+        "text": "Three"
+      },
+      {
+        "label": "D",
+        "text": "Four"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Search for the exact adjacent pattern 3-7-9. It occurs once, near the end of the series.",
+      "beginner": "This is question #35 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q36",
+    "subjectCode": "reasoning",
+    "topicCode": "odd_one_out",
+    "questionText": "Three pairs have a common relation; one is different. Select it.",
+    "options": [
+      {
+        "label": "A",
+        "text": "School – Teacher"
+      },
+      {
+        "label": "B",
+        "text": "Field – Farmer"
+      },
+      {
+        "label": "C",
+        "text": "Temple – Street"
+      },
+      {
+        "label": "D",
+        "text": "Court – Lawyer"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Teachers work in schools, farmers in fields and lawyers in courts. Temple–Street is not a matching workplace–worker relationship.",
+      "beginner": "This is question #36 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q37",
+    "subjectCode": "reasoning",
+    "topicCode": "coding_decoding",
+    "questionText": "“net tim sin” means “how are you”; “ble net sin” means “where are you”. What is the code for “where”?",
+    "options": [
+      {
+        "label": "A",
+        "text": "sin"
+      },
+      {
+        "label": "B",
+        "text": "tim"
+      },
+      {
+        "label": "C",
+        "text": "net"
+      },
+      {
+        "label": "D",
+        "text": "ble"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "The word unique to the second phrase is where; the unique code is ble.",
+      "beginner": "This is question #37 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q38",
+    "subjectCode": "reasoning",
+    "topicCode": "word_formation",
+    "questionText": "Which word CANNOT be made from the letters of ATMOSPHERE?",
+    "options": [
+      {
+        "label": "A",
+        "text": "REMOTE"
+      },
+      {
+        "label": "B",
+        "text": "MOTHER"
+      },
+      {
+        "label": "C",
+        "text": "HEART"
+      },
+      {
+        "label": "D",
+        "text": "POSTAGE"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "POSTAGE requires a G, which does not occur in ATMOSPHERE.",
+      "beginner": "This is question #38 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q39",
+    "subjectCode": "reasoning",
+    "topicCode": "missing_number_puzzle",
+    "questionText": "Find the missing number in this grid: 27, 22, 49 / 13, 19, 32 / 11, 8, ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "17"
+      },
+      {
+        "label": "B",
+        "text": "13"
+      },
+      {
+        "label": "C",
+        "text": "19"
+      },
+      {
+        "label": "D",
+        "text": "15"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "In each row, third number is sum of the first two: 27+22=49, 13+19=32 and 11+8=19.",
+      "beginner": "This is question #39 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q40",
+    "subjectCode": "reasoning",
+    "topicCode": "number_analogy",
+    "questionText": "Which group follows the same pattern as (48, 24, 12)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "(48, 22, 11)"
+      },
+      {
+        "label": "B",
+        "text": "(44, 22, 10)"
+      },
+      {
+        "label": "C",
+        "text": "(42, 20, 10)"
+      },
+      {
+        "label": "D",
+        "text": "(40, 20, 10)"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Each term is half the preceding term: 48→24→12. Likewise, 40→20→10.",
+      "beginner": "This is question #40 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q41",
+    "subjectCode": "quant",
+    "topicCode": "square_roots___decimals",
+    "questionText": "If √324 = 18, find √3.24.",
+    "options": [
+      {
+        "label": "A",
+        "text": "0.18"
+      },
+      {
+        "label": "B",
+        "text": "0.018"
+      },
+      {
+        "label": "C",
+        "text": "1.8"
+      },
+      {
+        "label": "D",
+        "text": "None of these"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "3.24 = 324/100, so √3.24 = √324/√100 = 18/10 = 1.8.",
+      "beginner": "This is question #41 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q42",
+    "subjectCode": "quant",
+    "topicCode": "successive_discount",
+    "questionText": "Successive discounts of 10% and 20% are equivalent to a single discount of:",
+    "options": [
+      {
+        "label": "A",
+        "text": "28%"
+      },
+      {
+        "label": "B",
+        "text": "30%"
+      },
+      {
+        "label": "C",
+        "text": "15%"
+      },
+      {
+        "label": "D",
+        "text": "26%"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Net discount = 10+20−(10×20/100) = 28%.",
+      "beginner": "This is question #42 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q43",
+    "subjectCode": "quant",
+    "topicCode": "number_system___unit_digit",
+    "questionText": "A square of a whole number cannot end with:",
+    "options": [
+      {
+        "label": "A",
+        "text": "3"
+      },
+      {
+        "label": "B",
+        "text": "4"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "6"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The units digit of any integer square can only be 0, 1, 4, 5, 6 or 9, never 3.",
+      "beginner": "This is question #43 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q44",
+    "subjectCode": "quant",
+    "topicCode": "ratio___map_scale",
+    "questionText": "On a road map, 1 cm represents 10 km. What distance does 1 5/8 cm represent?",
+    "options": [
+      {
+        "label": "A",
+        "text": "25 km"
+      },
+      {
+        "label": "B",
+        "text": "16 km"
+      },
+      {
+        "label": "C",
+        "text": "16.25 km"
+      },
+      {
+        "label": "D",
+        "text": "6.25 km"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "1 5/8 = 1.625 cm. Actual distance = 1.625×10 = 16.25 km.",
+      "beginner": "This is question #44 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q45",
+    "subjectCode": "quant",
+    "topicCode": "consecutive_numbers",
+    "questionText": "The product of two consecutive even numbers is 288. Find the numbers.",
+    "options": [
+      {
+        "label": "A",
+        "text": "16 and 14"
+      },
+      {
+        "label": "B",
+        "text": "16 and 18"
+      },
+      {
+        "label": "C",
+        "text": "18 and 20"
+      },
+      {
+        "label": "D",
+        "text": "20 and 22"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "16×18=288, and 16 and 18 are consecutive even numbers.",
+      "beginner": "This is question #45 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q46",
+    "subjectCode": "quant",
+    "topicCode": "simple_interest",
+    "questionText": "An amount doubles itself in 8 years at simple interest. At the same rate it becomes three times in:",
+    "options": [
+      {
+        "label": "A",
+        "text": "15 years"
+      },
+      {
+        "label": "B",
+        "text": "24 years"
+      },
+      {
+        "label": "C",
+        "text": "12 years"
+      },
+      {
+        "label": "D",
+        "text": "16 years"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Doubling requires interest equal to principal in 8 years. Tripling requires twice that interest, so 16 years.",
+      "beginner": "This is question #46 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q47",
+    "subjectCode": "quant",
+    "topicCode": "algebraic_identities",
+    "questionText": "If a + 1/a = 2, find a² + 1/a².",
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "6"
+      },
+      {
+        "label": "D",
+        "text": "8"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Square both sides: a²+2+1/a²=4, hence a²+1/a²=2.",
+      "beginner": "This is question #47 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q48",
+    "subjectCode": "quant",
+    "topicCode": "mensuration__circle",
+    "questionText": "The radius of a wheel is 7 cm. How many revolutions will it make travelling 44 metres?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1000"
+      },
+      {
+        "label": "B",
+        "text": "100"
+      },
+      {
+        "label": "C",
+        "text": "10"
+      },
+      {
+        "label": "D",
+        "text": "44"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Circumference =2×22/7×7=44 cm. 44 m=4400 cm. Revolutions=4400/44=100.",
+      "beginner": "This is question #48 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q49",
+    "subjectCode": "quant",
+    "topicCode": "ratio_and_proportion",
+    "questionText": "P : Q = 5 : 2 and Q : R = 3 : 4. Find P : Q : R.",
+    "options": [
+      {
+        "label": "A",
+        "text": "15 : 6 : 4"
+      },
+      {
+        "label": "B",
+        "text": "15 : 6 : 8"
+      },
+      {
+        "label": "C",
+        "text": "5 : 2 : 3"
+      },
+      {
+        "label": "D",
+        "text": "5 : 3 : 4"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Make Q equal to 6: P:Q=15:6; Q:R=6:8. Therefore 15:6:8.",
+      "beginner": "This is question #49 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q50",
+    "subjectCode": "quant",
+    "topicCode": "fractions___comparison",
+    "questionText": "Which of the following fractions is more than 3/4?",
+    "options": [
+      {
+        "label": "A",
+        "text": "19/24"
+      },
+      {
+        "label": "B",
+        "text": "71/101"
+      },
+      {
+        "label": "C",
+        "text": "35/71"
+      },
+      {
+        "label": "D",
+        "text": "13/20"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "3/4=0.75. 19/24≈0.792 is greater; the other listed fractions are below 0.75.",
+      "beginner": "This is question #50 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q51",
+    "subjectCode": "quant",
+    "topicCode": "time_and_work",
+    "questionText": "9 persons can plough a field in 25 days. In how many days will 15 persons complete the same job?",
+    "options": [
+      {
+        "label": "A",
+        "text": "11"
+      },
+      {
+        "label": "B",
+        "text": "20"
+      },
+      {
+        "label": "C",
+        "text": "18"
+      },
+      {
+        "label": "D",
+        "text": "15"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Work is constant: 9×25=15×days, giving 15 days.",
+      "beginner": "This is question #51 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q52",
+    "subjectCode": "quant",
+    "topicCode": "average_speed",
+    "questionText": "A train covers 80 km: the first 60 km at 40 km/h and the remaining distance at 20 km/h. Find the average speed.",
+    "options": [
+      {
+        "label": "A",
+        "text": "30 km/h"
+      },
+      {
+        "label": "B",
+        "text": "32 km/h"
+      },
+      {
+        "label": "C",
+        "text": "35 km/h"
+      },
+      {
+        "label": "D",
+        "text": "28 km/h"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Total time =60/40+20/20=1.5+1=2.5 hours. Average speed =80/2.5=32 km/h.",
+      "beginner": "This is question #52 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q53",
+    "subjectCode": "quant",
+    "topicCode": "decimal_simplification",
+    "questionText": "Find (0.85×0.85 − 0.15×0.15) / (0.85 − 0.15).",
+    "options": [
+      {
+        "label": "A",
+        "text": "1.5"
+      },
+      {
+        "label": "B",
+        "text": "8.5"
+      },
+      {
+        "label": "C",
+        "text": "1.0"
+      },
+      {
+        "label": "D",
+        "text": "0.7"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Use a²−b²=(a−b)(a+b). Cancelling (a−b) leaves 0.85+0.15=1.0.",
+      "beginner": "This is question #53 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q54",
+    "subjectCode": "quant",
+    "topicCode": "exponents___indices",
+    "questionText": "What is the value of 2⁰?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "label": "B",
+        "text": "1"
+      },
+      {
+        "label": "C",
+        "text": "0"
+      },
+      {
+        "label": "D",
+        "text": "1/2"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Any nonzero number raised to the power zero equals 1.",
+      "beginner": "This is question #54 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q55",
+    "subjectCode": "quant",
+    "topicCode": "percentage",
+    "questionText": "16% of which number is 88?",
+    "options": [
+      {
+        "label": "A",
+        "text": "5500"
+      },
+      {
+        "label": "B",
+        "text": "550"
+      },
+      {
+        "label": "C",
+        "text": "176"
+      },
+      {
+        "label": "D",
+        "text": "1760"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Let x be the number. 0.16x=88, so x=88/0.16=550.",
+      "beginner": "This is question #55 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q56",
+    "subjectCode": "quant",
+    "topicCode": "proportion",
+    "questionText": "Find the value represented by both question marks: 80 / ? = ? / 20.",
+    "options": [
+      {
+        "label": "A",
+        "text": "40"
+      },
+      {
+        "label": "B",
+        "text": "400"
+      },
+      {
+        "label": "C",
+        "text": "800"
+      },
+      {
+        "label": "D",
+        "text": "60"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Let ?=x. Then 80/x=x/20, so x²=80×20=1600 and x=40 (positive value).",
+      "beginner": "This is question #56 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q57",
+    "subjectCode": "quant",
+    "topicCode": "simplification",
+    "questionText": "If [17.28 ÷ ?] / [3.6 × 0.2] = 2, find ?.",
+    "options": [
+      {
+        "label": "A",
+        "text": "120"
+      },
+      {
+        "label": "B",
+        "text": "1.20"
+      },
+      {
+        "label": "C",
+        "text": "12"
+      },
+      {
+        "label": "D",
+        "text": "0.12"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "3.6×0.2=0.72. Therefore 17.28/x=2×0.72=1.44, giving x=12.",
+      "beginner": "This is question #57 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q58",
+    "subjectCode": "quant",
+    "topicCode": "percentage___revenue",
+    "questionText": "After reducing an article’s price by 30%, its sales increase by 20%. What is the effect on the shop’s revenue?",
+    "options": [
+      {
+        "label": "A",
+        "text": "10% increase"
+      },
+      {
+        "label": "B",
+        "text": "10% decrease"
+      },
+      {
+        "label": "C",
+        "text": "16% increase"
+      },
+      {
+        "label": "D",
+        "text": "16% decrease"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Revenue factor = 0.70×1.20=0.84, so revenue decreases by 16%.",
+      "beginner": "This is question #58 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q59",
+    "subjectCode": "quant",
+    "topicCode": "algebraic_word_problems",
+    "questionText": "John gave Rs. 12 to Hari and Hari gave Rs. 4 to John. Afterwards, both had equal amounts. Who originally had less, and by how much?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hari by Rs. 16"
+      },
+      {
+        "label": "B",
+        "text": "John by Rs. 4"
+      },
+      {
+        "label": "C",
+        "text": "Hari by Rs. 12"
+      },
+      {
+        "label": "D",
+        "text": "John by Rs. 8"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Net transfer is Rs. 8 from John to Hari. To end equal, John originally needed Rs. 16 more than Hari. Hence Hari had Rs. 16 less.",
+      "beginner": "This is question #59 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q60",
+    "subjectCode": "quant",
+    "topicCode": "number_formation",
+    "questionText": "How many 2-digit even numbers can be made from the digits 2, 3, 4 and 5 without repetition?",
+    "options": [
+      {
+        "label": "A",
+        "text": "8"
+      },
+      {
+        "label": "B",
+        "text": "7"
+      },
+      {
+        "label": "C",
+        "text": "6"
+      },
+      {
+        "label": "D",
+        "text": "5"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Units digit must be 2 or 4 (2 options). For each, tens digit has 3 remaining choices: 2×3=6.",
+      "beginner": "This is question #60 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q61",
+    "subjectCode": "quant",
+    "topicCode": "hcf_of_fractions",
+    "questionText": "Find the HCF of 3/7, 5/6 and 2/3.",
+    "options": [
+      {
+        "label": "A",
+        "text": "3/21"
+      },
+      {
+        "label": "B",
+        "text": "2/21"
+      },
+      {
+        "label": "C",
+        "text": "1/42"
+      },
+      {
+        "label": "D",
+        "text": "5/42"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "HCF of fractions = HCF(numerators)/LCM(denominators) = HCF(3,5,2)/LCM(7,6,3) =1/42.",
+      "beginner": "This is question #61 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q62",
+    "subjectCode": "quant",
+    "topicCode": "surds___square_roots",
+    "questionText": "If √3 = 1.732, find √12.",
+    "options": [
+      {
+        "label": "A",
+        "text": "3.464"
+      },
+      {
+        "label": "B",
+        "text": "5.196"
+      },
+      {
+        "label": "C",
+        "text": "4.732"
+      },
+      {
+        "label": "D",
+        "text": "3.173"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "√12=√(4×3)=2√3 = 2×1.732 = 3.464.",
+      "beginner": "This is question #62 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q63",
+    "subjectCode": "quant",
+    "topicCode": "median",
+    "questionText": "If the median of 5, 9, 11, x−3, 25, 27, 32 is 19, find x.",
+    "options": [
+      {
+        "label": "A",
+        "text": "21"
+      },
+      {
+        "label": "B",
+        "text": "22"
+      },
+      {
+        "label": "C",
+        "text": "20"
+      },
+      {
+        "label": "D",
+        "text": "18"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "In 7 ordered values, the 4th is median. x−3=19, hence x=22.",
+      "beginner": "This is question #63 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q64",
+    "subjectCode": "quant",
+    "topicCode": "compound_vs_simple_interest",
+    "questionText": "For Rs. 3,000, what is the difference between CI and SI at 10% per annum for 2 years?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 60"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 50"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 40"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 30"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Difference for 2 years = P(r/100)² =3000×0.1² = Rs. 30.",
+      "beginner": "This is question #64 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q65",
+    "subjectCode": "quant",
+    "topicCode": "profit_and_loss",
+    "questionText": "Selling an article for Rs. 24, a man loses as many percent as its cost price (in rupees). Find the cost price.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 30 or Rs. 35"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 35 or Rs. 45"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 40 or Rs. 60"
+      },
+      {
+        "label": "D",
+        "text": "None of these"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Let CP=x. Given loss %=x, selling price x(1−x/100)=24. Rearranging x²−100x+2400=0 gives x=40 or 60.",
+      "beginner": "This is question #65 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q66",
+    "subjectCode": "quant",
+    "topicCode": "recurring_deposits___interest",
+    "questionText": "A person deposits Rs. 150 monthly in a recurring deposit. After 6 years the amount received is Rs. 15,000. Find total interest.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 4,000"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 4,200"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 4,500"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 3,800"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Total deposits =150×12×6=10,800. Interest =15,000−10,800=Rs. 4,200.",
+      "beginner": "This is question #66 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q67",
+    "subjectCode": "quant",
+    "topicCode": "algebra___brackets",
+    "questionText": "Remove the brackets and simplify the printed algebraic expression (refer to the original scan for brackets/signs).",
+    "options": [
+      {
+        "label": "A",
+        "text": "8ab"
+      },
+      {
+        "label": "B",
+        "text": "2a + 6b"
+      },
+      {
+        "label": "C",
+        "text": "5a + 2b"
+      },
+      {
+        "label": "D",
+        "text": "6a + 2b"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The scan makes the nested signs/brackets ambiguous; a straightforward reading does not match the printed options. This original question is included for practice but not auto-scored.",
+      "beginner": "This is question #67 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q68",
+    "subjectCode": "quant",
+    "topicCode": "exponents___indices",
+    "questionText": "If (5ˣ)² = 625, find x.",
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "3"
+      },
+      {
+        "label": "C",
+        "text": "2"
+      },
+      {
+        "label": "D",
+        "text": "1"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "625=5⁴, and (5ˣ)²=5²ˣ. Thus 2x=4, so x=2.",
+      "beginner": "This is question #68 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q69",
+    "subjectCode": "quant",
+    "topicCode": "logarithms",
+    "questionText": "Write 5³ = 125 in logarithmic form.",
+    "options": [
+      {
+        "label": "A",
+        "text": "log₅ 125 = 3"
+      },
+      {
+        "label": "B",
+        "text": "log₃ 5 = 125"
+      },
+      {
+        "label": "C",
+        "text": "log₃ 125 = 5"
+      },
+      {
+        "label": "D",
+        "text": "log₃ 125 = 0.5"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The identity aᵇ=c is equivalent to logₐ(c)=b. Hence log₅125=3.",
+      "beginner": "This is question #69 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q70",
+    "subjectCode": "quant",
+    "topicCode": "probability",
+    "questionText": "A bag contains 6 red and 4 blue balls. What is the probability of picking a red ball?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/5"
+      },
+      {
+        "label": "B",
+        "text": "3/5"
+      },
+      {
+        "label": "C",
+        "text": "2/5"
+      },
+      {
+        "label": "D",
+        "text": "1/5"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "There are 10 balls total and 6 red. Probability=6/10=3/5. Note the printed scan seems to repeat 1/5 for two distractors.",
+      "beginner": "This is question #70 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q71",
+    "subjectCode": "quant",
+    "topicCode": "mensuration__square",
+    "questionText": "The diagonal of a square is 6√2 cm. Find its area.",
+    "options": [
+      {
+        "label": "A",
+        "text": "36 sq. cm"
+      },
+      {
+        "label": "B",
+        "text": "40 sq. cm"
+      },
+      {
+        "label": "C",
+        "text": "30 sq. cm"
+      },
+      {
+        "label": "D",
+        "text": "24 sq. cm"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "For a square, diagonal =side×√2, so side=6 cm and area=6²=36 cm².",
+      "beginner": "This is question #71 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q72",
+    "subjectCode": "quant",
+    "topicCode": "mensuration__cylinder",
+    "questionText": "The radius of a cylindrical vessel is 14 cm and its height is 10 cm. Find its volume.",
+    "options": [
+      {
+        "label": "A",
+        "text": "6000 cc"
+      },
+      {
+        "label": "B",
+        "text": "6100 cc"
+      },
+      {
+        "label": "C",
+        "text": "6160 cc"
+      },
+      {
+        "label": "D",
+        "text": "6250 cc"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Volume =πr²h =(22/7)×14²×10 = 6160 cm³ (cc).",
+      "beginner": "This is question #72 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q73",
+    "subjectCode": "quant",
+    "topicCode": "pythagoras___distance",
+    "questionText": "A man walks 20 m south, then 40 m east, then 50 m north. How far from the starting point?",
+    "options": [
+      {
+        "label": "A",
+        "text": "50 m"
+      },
+      {
+        "label": "B",
+        "text": "40 m"
+      },
+      {
+        "label": "C",
+        "text": "30 m"
+      },
+      {
+        "label": "D",
+        "text": "45 m"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Net displacement: 30 m north and 40 m east. Distance =√(30²+40²)=50 m.",
+      "beginner": "This is question #73 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q74",
+    "subjectCode": "quant",
+    "topicCode": "shares_and_dividend",
+    "questionText": "Ajay owns 560 shares, face value Rs. 25 each. Company dividend is 9%. Find the dividend received.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 1,200"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 1,260"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 1,300"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 1,360"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Total face value =560×25=14,000. Dividend=9% of 14,000 = Rs. 1,260.",
+      "beginner": "This is question #74 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q75",
+    "subjectCode": "quant",
+    "topicCode": "shares_and_premium",
+    "questionText": "Tiwari invested Rs. 29,040 in Rs. 100 shares at 20% premium. Find the number of shares bought.",
+    "options": [
+      {
+        "label": "A",
+        "text": "200"
+      },
+      {
+        "label": "B",
+        "text": "222"
+      },
+      {
+        "label": "C",
+        "text": "250"
+      },
+      {
+        "label": "D",
+        "text": "242"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Market price/share=100×1.20=Rs. 120. Shares=29,040/120=242.",
+      "beginner": "This is question #75 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q76",
+    "subjectCode": "quant",
+    "topicCode": "average___mean",
+    "questionText": "If the mean of 6, 4, 7, a, 10 is 8, find a.",
+    "options": [
+      {
+        "label": "A",
+        "text": "12"
+      },
+      {
+        "label": "B",
+        "text": "10"
+      },
+      {
+        "label": "C",
+        "text": "13"
+      },
+      {
+        "label": "D",
+        "text": "11"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Sum of 5 numbers=8×5=40. Known sum=6+4+7+10=27; a=40−27=13.",
+      "beginner": "This is question #76 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q77",
+    "subjectCode": "quant",
+    "topicCode": "number_series_sum",
+    "questionText": "Find the sum of the first 60 natural numbers.",
+    "options": [
+      {
+        "label": "A",
+        "text": "1830"
+      },
+      {
+        "label": "B",
+        "text": "1800"
+      },
+      {
+        "label": "C",
+        "text": "1500"
+      },
+      {
+        "label": "D",
+        "text": "1600"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "1+2+…+60=60×61/2=1830.",
+      "beginner": "This is question #77 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q78",
+    "subjectCode": "quant",
+    "topicCode": "mensuration__circle_and_square",
+    "questionText": "A circular wire has radius 42 cm. It is bent into a square. What is the side of the square?",
+    "options": [
+      {
+        "label": "A",
+        "text": "60 cm"
+      },
+      {
+        "label": "B",
+        "text": "66 cm"
+      },
+      {
+        "label": "C",
+        "text": "70 cm"
+      },
+      {
+        "label": "D",
+        "text": "45 cm"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Circle length=2πr=2×22/7×42=264 cm. Equal square perimeter 264, so side=264/4=66 cm.",
+      "beginner": "This is question #78 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q79",
+    "subjectCode": "quant",
+    "topicCode": "train___speed_and_time",
+    "questionText": "A 250 m long train runs at 60 km/h. How long to pass an electric pole?",
+    "options": [
+      {
+        "label": "A",
+        "text": "20 sec"
+      },
+      {
+        "label": "B",
+        "text": "25 sec"
+      },
+      {
+        "label": "C",
+        "text": "30 sec"
+      },
+      {
+        "label": "D",
+        "text": "15 sec"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "60 km/h =60×5/18=50/3 m/s. Time=250÷(50/3)=15 seconds.",
+      "beginner": "This is question #79 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_ldc_2014_original_80_pyq_interactive_mock2_q80",
+    "subjectCode": "quant",
+    "topicCode": "mensuration__rhombus",
+    "questionText": "The diagonals of a rhombus are 8 cm and 10 cm. Find its area.",
+    "options": [
+      {
+        "label": "A",
+        "text": "20 sq. cm"
+      },
+      {
+        "label": "B",
+        "text": "40 sq. cm"
+      },
+      {
+        "label": "C",
+        "text": "60 sq. cm"
+      },
+      {
+        "label": "D",
+        "text": "30 sq. cm"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Area of rhombus=½×d₁×d₂=½×8×10=40 cm².",
+      "beginner": "This is question #80 from official LDC (Lower Division Clerk) (2014 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB LDC (Lower Division Clerk) 2014",
+      "year": 2014,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "Official 2014 Exam",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB LDC 2014 — Original 80 PYQ Mock Test"
+    },
+    "status": "approved"
+  }
+]

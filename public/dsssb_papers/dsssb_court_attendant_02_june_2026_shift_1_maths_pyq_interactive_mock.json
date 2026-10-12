@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q1",
+    "subjectCode": "quant",
+    "topicCode": "simple_interest",
+    "questionText": "₹1500 की राशि 4% वार्षिक साधारण ब्याज की दर से कितनी समयावधि (वर्ष में) में ₹2340 हो जाएगी?",
+    "options": [
+      {
+        "label": "A",
+        "text": "13"
+      },
+      {
+        "label": "B",
+        "text": "15"
+      },
+      {
+        "label": "C",
+        "text": "14"
+      },
+      {
+        "label": "D",
+        "text": "16"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "ब्याज = ₹2340 − ₹1500 = ₹840। साधारण ब्याज SI = (P × R × T)/100, इसलिए T = 840 × 100 / (1500 × 4) = 14 वर्ष।",
+      "beginner": "This is question #1 from official Court Attendant (2026 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q2",
+    "subjectCode": "quant",
+    "topicCode": "average",
+    "questionText": "The average of 6.5, 10.7, 20.1 and 'a' is 18. The value of 'a' is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "35.7"
+      },
+      {
+        "label": "B",
+        "text": "33.7"
+      },
+      {
+        "label": "C",
+        "text": "34.7"
+      },
+      {
+        "label": "D",
+        "text": "36.7"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Four numbers total 4 × 18 = 72. The known numbers add to 6.5 + 10.7 + 20.1 = 37.3. Therefore a = 72 − 37.3 = 34.7.",
+      "beginner": "This is question #2 from official Court Attendant (2026 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q3",
+    "subjectCode": "quant",
+    "topicCode": "number_system",
+    "questionText": "In a division sum, the divisor is 12 times the quotient and 6 times the remainder. If the remainder is 46, what is the dividend?",
+    "options": [
+      {
+        "label": "A",
+        "text": "6394"
+      },
+      {
+        "label": "B",
+        "text": "6388"
+      },
+      {
+        "label": "C",
+        "text": "6390"
+      },
+      {
+        "label": "D",
+        "text": "6396"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Divisor = 6 × 46 = 276, quotient = 276/12 = 23. Dividend = divisor × quotient + remainder = 276 × 23 + 46 = 6394.",
+      "beginner": "This is question #3 from official Court Attendant (2026 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q4",
+    "subjectCode": "quant",
+    "topicCode": "weighted_average",
+    "questionText": "There are 18 members in group A, 39 members in group B and 54 members in group C. All members went to a restaurant. Their average spending per person was ₹215, ₹377 and ₹209 respectively. Find the overall average spending (₹) per person.",
+    "options": [
+      {
+        "label": "A",
+        "text": "264"
+      },
+      {
+        "label": "B",
+        "text": "270"
+      },
+      {
+        "label": "C",
+        "text": "269"
+      },
+      {
+        "label": "D",
+        "text": "266"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Weighted average = (18 × 215 + 39 × 377 + 54 × 209)/(18 + 39 + 54) = 29,859/111 = ₹269.",
+      "beginner": "This is question #4 from official Court Attendant (2026 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q5",
+    "subjectCode": "quant",
+    "topicCode": "data_interpretation",
+    "questionText": "निम्नांकित बार ग्राफ वर्ष 2023 और 2024 के लिए गेहूँ, चावल और मक्का के उत्पादन तथा निर्यात (मीट्रिक टन में) को दर्शाते हैं। वर्ष 2023 में, चावल और मक्का के उस उत्पादन के बीच कितना अंतर था जिसका निर्यात नहीं किया गया था?",
+    "options": [
+      {
+        "label": "A",
+        "text": "100 मीट्रिक टन"
+      },
+      {
+        "label": "B",
+        "text": "180 मीट्रिक टन"
+      },
+      {
+        "label": "C",
+        "text": "150 मीट्रिक टन"
+      },
+      {
+        "label": "D",
+        "text": "120 मीट्रिक टन"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "2023 में चावल का शेष उत्पादन = 3500 − 1800 = 1700 मीट्रिक टन। मक्का का शेष उत्पादन = 3000 − 1200 = 1800 मीट्रिक टन। अंतर = 100 मीट्रिक टन।",
+      "beginner": "This is question #5 from official Court Attendant (2026 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q6",
+    "subjectCode": "quant",
+    "topicCode": "discount___cashback",
+    "questionText": "एक फुटकर विक्रेता पहले 30% और फिर 15% की अतिरिक्त छूट देता है। क्रेडिट कार्ड से भुगतान करने पर अंतिम राशि का 5% कैशबैक मिलता है। अंकित मूल्य ₹30,000 है। सभी कटौतियों के बाद प्रभावी मूल्य क्या है?",
+    "options": [
+      {
+        "label": "A",
+        "text": "₹16,572.50"
+      },
+      {
+        "label": "B",
+        "text": "₹16,493.50"
+      },
+      {
+        "label": "C",
+        "text": "₹16,729.50"
+      },
+      {
+        "label": "D",
+        "text": "₹16,957.50"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "प्रभावी कीमत = 30000 × 0.70 × 0.85 × 0.95 = ₹16,957.50। क्रमिक प्रतिशत घटाने के लिए गुणन करें, प्रतिशतों को सीधे नहीं जोड़ें।",
+      "beginner": "This is question #6 from official Court Attendant (2026 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q7",
+    "subjectCode": "quant",
+    "topicCode": "percentage",
+    "questionText": "एक संख्या 120 से बढ़कर 150 हो जाती है। प्रतिशत वृद्धि कितनी है?",
+    "options": [
+      {
+        "label": "A",
+        "text": "25%"
+      },
+      {
+        "label": "B",
+        "text": "30%"
+      },
+      {
+        "label": "C",
+        "text": "20%"
+      },
+      {
+        "label": "D",
+        "text": "35%"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "वृद्धि = 150 − 120 = 30। प्रतिशत वृद्धि = 30/120 × 100 = 25%।",
+      "beginner": "This is question #7 from official Court Attendant (2026 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q8",
+    "subjectCode": "quant",
+    "topicCode": "successive_percentage",
+    "questionText": "विपुल की बिक्री पहले वर्ष में 1% और दूसरे वर्ष में 25% बढ़ी। वर्तमान बिक्री ₹2,02,000 है। दो वर्ष पहले बिक्री कितनी थी?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1,60,000"
+      },
+      {
+        "label": "B",
+        "text": "2,00,000"
+      },
+      {
+        "label": "C",
+        "text": "1,40,000"
+      },
+      {
+        "label": "D",
+        "text": "1,61,600"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "माना पुरानी बिक्री x थी। x × 1.01 × 1.25 = 2,02,000; अतः x = 2,02,000/1.2625 = ₹1,60,000।",
+      "beginner": "This is question #8 from official Court Attendant (2026 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q9",
+    "subjectCode": "quant",
+    "topicCode": "discount_comparison",
+    "questionText": "एक दुकानदार समान अंकित मूल्य के खिलौनों पर योजनाएँ देता है: (A) 10% व 22% क्रमिक छूट; (B) 12% व 20% क्रमिक छूट; (C) पहले 9 खिलौनों पर 25% और अगले प्रत्येक पर 7% छूट; (D) 7 खिलौनों का भुगतान कर 10 लें। 10 खिलौने खरीदने पर कौन-सी योजना ग्राहक के लिए सबसे कम लाभदायक है?",
+    "options": [
+      {
+        "label": "A",
+        "text": "D"
+      },
+      {
+        "label": "B",
+        "text": "C"
+      },
+      {
+        "label": "C",
+        "text": "A"
+      },
+      {
+        "label": "D",
+        "text": "B"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "10 खिलौनों के लिए कुल प्रभावी छूट: A = 29.8%, B = 29.6%, C = (9×25% + 1×7%)/10 = 23.2%, D = 30%। सबसे कम लाभ C में है।",
+      "beginner": "This is question #9 from official Court Attendant (2026 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q10",
+    "subjectCode": "quant",
+    "topicCode": "profit___loss",
+    "questionText": "एक व्यापारी ने एक वस्तु ₹800 में खरीदी। उसने उसे 25% लाभ पर बेचा और खरीदार ने उसे आगे 10% हानि पर बेच दिया। अंतिम विक्रय मूल्य कितना है?",
+    "options": [
+      {
+        "label": "A",
+        "text": "₹900"
+      },
+      {
+        "label": "B",
+        "text": "₹950"
+      },
+      {
+        "label": "C",
+        "text": "₹890"
+      },
+      {
+        "label": "D",
+        "text": "₹1000"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "पहली बिक्री = 800 × 1.25 = ₹1000। दूसरी बिक्री = 1000 × 0.90 = ₹900।",
+      "beginner": "This is question #10 from official Court Attendant (2026 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q11",
+    "subjectCode": "quant",
+    "topicCode": "profit___loss",
+    "questionText": "एक व्यापारी अपने माल पर क्रय मूल्य से 44% अधिक मूल्य अंकित करता है और उस पर 9% छूट देता है। यदि लाभ x% है, तो x ज्ञात कीजिए।",
+    "options": [
+      {
+        "label": "A",
+        "text": "33.04"
+      },
+      {
+        "label": "B",
+        "text": "31.04"
+      },
+      {
+        "label": "C",
+        "text": "30.04"
+      },
+      {
+        "label": "D",
+        "text": "32.04"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "क्रय मूल्य 100 मानें। अंकित मूल्य 144; बिक्री मूल्य = 144 × 0.91 = 131.04। लाभ = 31.04%।",
+      "beginner": "This is question #11 from official Court Attendant (2026 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q12",
+    "subjectCode": "quant",
+    "topicCode": "divisibility",
+    "questionText": "संख्या 35136 निम्नलिखित में से किस संख्या से विभाज्य है?",
+    "options": [
+      {
+        "label": "A",
+        "text": "7"
+      },
+      {
+        "label": "B",
+        "text": "11"
+      },
+      {
+        "label": "C",
+        "text": "9"
+      },
+      {
+        "label": "D",
+        "text": "21"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "अंकों का योग 3 + 5 + 1 + 3 + 6 = 18 है, जो 9 से विभाज्य है। इसलिए 35136 भी 9 से विभाज्य है।",
+      "beginner": "This is question #12 from official Court Attendant (2026 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q13",
+    "subjectCode": "quant",
+    "topicCode": "compound_interest",
+    "questionText": "सौरव ने 20% वार्षिक चक्रवृद्धि ब्याज पर धन जमा किया। दो वर्षों बाद राशि ₹75,744 हो गई। मूलधन कितना था?",
+    "options": [
+      {
+        "label": "A",
+        "text": "₹52,986"
+      },
+      {
+        "label": "B",
+        "text": "₹52,500"
+      },
+      {
+        "label": "C",
+        "text": "₹52,600"
+      },
+      {
+        "label": "D",
+        "text": "₹52,431"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "A = P(1 + r/100)^t। P = 75,744/(1.2)^2 = 75,744/1.44 = ₹52,600।",
+      "beginner": "This is question #13 from official Court Attendant (2026 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q14",
+    "subjectCode": "quant",
+    "topicCode": "simplification",
+    "questionText": "निम्न को सरल कीजिए: (136/√289) × (√225/45) × (108/√576)",
+    "options": [
+      {
+        "label": "A",
+        "text": "24"
+      },
+      {
+        "label": "B",
+        "text": "12"
+      },
+      {
+        "label": "C",
+        "text": "20"
+      },
+      {
+        "label": "D",
+        "text": "16"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "√289 = 17, √225 = 15 तथा √576 = 24। इसलिए 136/17 × 15/45 × 108/24 = 8 × (1/3) × 4.5 = 12।",
+      "beginner": "This is question #14 from official Court Attendant (2026 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q15",
+    "subjectCode": "quant",
+    "topicCode": "mixture___alligation",
+    "questionText": "₹64 प्रति kg और ₹122 प्रति kg वाले दो गेहूँ किस अनुपात में मिलाएँ कि मिश्रण ₹134 प्रति kg पर बेचने से 34% लाभ हो?",
+    "options": [
+      {
+        "label": "A",
+        "text": "11:18"
+      },
+      {
+        "label": "B",
+        "text": "21:23"
+      },
+      {
+        "label": "C",
+        "text": "12:17"
+      },
+      {
+        "label": "D",
+        "text": "13:19"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "मिश्रण का लागत मूल्य = 134/1.34 = ₹100/kg। Alligation: सस्ता : महँगा = (122−100):(100−64) = 22:36 = 11:18।",
+      "beginner": "This is question #15 from official Court Attendant (2026 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q16",
+    "subjectCode": "quant",
+    "topicCode": "ratio___proportion",
+    "questionText": "एक रेसिपी में आटा और चीनी का अनुपात 2:3 है। 12 कप चीनी के लिए कितने कप आटा चाहिए?",
+    "options": [
+      {
+        "label": "A",
+        "text": "7"
+      },
+      {
+        "label": "B",
+        "text": "6"
+      },
+      {
+        "label": "C",
+        "text": "8"
+      },
+      {
+        "label": "D",
+        "text": "9"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "आटा/चीनी = 2/3, इसलिए आटा = 12 × 2/3 = 8 कप।",
+      "beginner": "This is question #16 from official Court Attendant (2026 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q17",
+    "subjectCode": "quant",
+    "topicCode": "mensuration",
+    "questionText": "The diagonals of a rhombus are 83 cm and 64 cm, respectively. The area of the rhombus (in cm²) is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "2656"
+      },
+      {
+        "label": "B",
+        "text": "2628"
+      },
+      {
+        "label": "C",
+        "text": "2622"
+      },
+      {
+        "label": "D",
+        "text": "2672"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Area of a rhombus = ½ × product of diagonals = (83 × 64)/2 = 2656 cm².",
+      "beginner": "This is question #17 from official Court Attendant (2026 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q18",
+    "subjectCode": "quant",
+    "topicCode": "pipes___cisterns",
+    "questionText": "एक नल टंकी को 10 घंटे में भरता है और दूसरा नल टंकी को 20 घंटे में खाली करता है। प्रारंभ में खाली टंकी में दोनों को खोलने पर एक चौथाई भाग भरने में कितना समय लगेगा?",
+    "options": [
+      {
+        "label": "A",
+        "text": "20"
+      },
+      {
+        "label": "B",
+        "text": "10"
+      },
+      {
+        "label": "C",
+        "text": "15"
+      },
+      {
+        "label": "D",
+        "text": "5"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "संयुक्त दर = 1/10 − 1/20 = 1/20 टंकी प्रति घंटा। 1/4 टंकी भरने का समय = (1/4)/(1/20) = 5 घंटे।",
+      "beginner": "This is question #18 from official Court Attendant (2026 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q19",
+    "subjectCode": "quant",
+    "topicCode": "ratio___proportion",
+    "questionText": "यदि 4 और A का माध्यानुपात 28 है, तो A का मान कितना होगा?",
+    "options": [
+      {
+        "label": "A",
+        "text": "195"
+      },
+      {
+        "label": "B",
+        "text": "193"
+      },
+      {
+        "label": "C",
+        "text": "196"
+      },
+      {
+        "label": "D",
+        "text": "198"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "माध्यानुपात का नियम: 28² = 4 × A। इसलिए A = 784/4 = 196।",
+      "beginner": "This is question #19 from official Court Attendant (2026 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q20",
+    "subjectCode": "quant",
+    "topicCode": "mensuration",
+    "questionText": "6 cm त्रिज्या के ठोस गोले को पिघलाकर 8 cm व्यास का बेलनाकार केबल बनाया गया। केबल की लंबाई ज्ञात कीजिए।",
+    "options": [
+      {
+        "label": "A",
+        "text": "20 cm"
+      },
+      {
+        "label": "B",
+        "text": "18 cm"
+      },
+      {
+        "label": "C",
+        "text": "15 cm"
+      },
+      {
+        "label": "D",
+        "text": "22 cm"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "आयतन बराबर रहेगा। गोले का आयतन = (4/3)π(6³) = 288π। केबल की त्रिज्या 4 cm, अतः π × 4² × लंबाई = 288π। लंबाई = 18 cm।",
+      "beginner": "This is question #20 from official Court Attendant (2026 Shift 1). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q21",
+    "subjectCode": "quant",
+    "topicCode": "trains___relative_speed",
+    "questionText": "दो ट्रेनें P और Q समानांतर पटरियों पर चलती हैं। P की लंबाई 120 m है। एक ही दिशा में P, Q को 60 सेकंड में ओवरटेक करती है; विपरीत दिशा में वे 10 सेकंड में पार करती हैं। दोनों की चालों का अनुपात P:Q कितना है?",
+    "options": [
+      {
+        "label": "A",
+        "text": "7 : 5"
+      },
+      {
+        "label": "B",
+        "text": "6 : 5"
+      },
+      {
+        "label": "C",
+        "text": "6 : 4"
+      },
+      {
+        "label": "D",
+        "text": "5 : 7"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "पूरी पार की गई दूरी L समान है। vP − vQ = L/60 और vP + vQ = L/10। इनके अनुपात से (vP+vQ)/(vP−vQ)=6, अतः 5vP=7vQ और P:Q=7:5।",
+      "beginner": "This is question #21 from official Court Attendant (2026 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q22",
+    "subjectCode": "quant",
+    "topicCode": "compound_ratio",
+    "questionText": "यदि A:B = 1:5, B:C = 7:8 और C:D = 5:2 है, तो A:D का अनुपात निकालिए।",
+    "options": [
+      {
+        "label": "A",
+        "text": "5:16"
+      },
+      {
+        "label": "B",
+        "text": "9:16"
+      },
+      {
+        "label": "C",
+        "text": "7:16"
+      },
+      {
+        "label": "D",
+        "text": "11:16"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "A/D = (A/B) × (B/C) × (C/D) = (1/5) × (7/8) × (5/2) = 7/16। इसलिए A:D = 7:16।",
+      "beginner": "This is question #22 from official Court Attendant (2026 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q23",
+    "subjectCode": "quant",
+    "topicCode": "pipes___cisterns",
+    "questionText": "Pipe A can fill a tank in 18 hours, pipe B in 26 hours and pipe C in 14 hours. What is the time taken when all three operate together?",
+    "options": [
+      {
+        "label": "A",
+        "text": "5 12/271 hours"
+      },
+      {
+        "label": "B",
+        "text": "8 12/271 hours"
+      },
+      {
+        "label": "C",
+        "text": "6 12/271 hours"
+      },
+      {
+        "label": "D",
+        "text": "11 12/271 hours"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Combined rate = 1/18 + 1/26 + 1/14 = 271/1638 tanks/hour. Time = 1638/271 = 6 + 12/271 hours.",
+      "beginner": "This is question #23 from official Court Attendant (2026 Shift 1). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q24",
+    "subjectCode": "quant",
+    "topicCode": "trains___relative_speed",
+    "questionText": "दो ट्रेनें क्रमशः 150 m और 170 m लंबी हैं और विपरीत दिशाओं में 50 km/h व 40 km/h की चाल से चल रही हैं। एक-दूसरे को पार करने का समय (सेकंड में) ज्ञात करें।",
+    "options": [
+      {
+        "label": "A",
+        "text": "20.5"
+      },
+      {
+        "label": "B",
+        "text": "15"
+      },
+      {
+        "label": "C",
+        "text": "7.2"
+      },
+      {
+        "label": "D",
+        "text": "12.8"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "कुल लंबाई = 320 m। सापेक्ष चाल = (50+40)×5/18 = 25 m/s। समय = 320/25 = 12.8 सेकंड।",
+      "beginner": "This is question #24 from official Court Attendant (2026 Shift 1). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_court_attendant_02_june_2026_shift_1_maths_pyq_interactive_mock_q25",
+    "subjectCode": "quant",
+    "topicCode": "mensuration",
+    "questionText": "A cuboid of dimensions 8 cm × 12 cm × 18 cm is melted and recast into a cube. Find the ratio of the total surface area of the cuboid to that of the cube.",
+    "options": [
+      {
+        "label": "A",
+        "text": "19 : 18"
+      },
+      {
+        "label": "B",
+        "text": "1 : 1"
+      },
+      {
+        "label": "C",
+        "text": "15 : 13"
+      },
+      {
+        "label": "D",
+        "text": "30 : 31"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Volume = 8 × 12 × 18 = 1728 cm³, so cube side = 12 cm. Cuboid TSA = 2(96 + 216 + 144) = 912. Cube TSA = 6 × 12² = 864. Ratio 912:864 = 19:18.",
+      "beginner": "This is question #25 from official Court Attendant (2026 Shift 1). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Court Attendant 2026",
+      "year": 2026,
+      "shift": 1,
+      "tier": "Tier-1",
+      "examDate": "02 June 2026",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Court Attendant 2026 · Original Arithmetic PYQ Mock"
+    },
+    "status": "approved"
+  }
+]

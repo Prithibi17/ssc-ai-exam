@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q1",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Find the missing term in the following letter series. \nA, D, I, ______, Y",
+    "options": [
+      {
+        "label": "A",
+        "text": "L"
+      },
+      {
+        "label": "B",
+        "text": "P"
+      },
+      {
+        "label": "C",
+        "text": "S"
+      },
+      {
+        "label": "D",
+        "text": "V"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Letter positions are 1, 4, 9, 16, 25 (consecutive squares). Position 16 is P.",
+      "beginner": "This is question #1 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q2",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Find the missing term in the following series. \nM05, KR8, IU11 , GX14 , _______",
+    "options": [
+      {
+        "label": "A",
+        "text": "EA17"
+      },
+      {
+        "label": "B",
+        "text": "DZ17"
+      },
+      {
+        "label": "C",
+        "text": "EB19"
+      },
+      {
+        "label": "D",
+        "text": "AZ20"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The first letters decrease by 2: M, K, I, G, E. Numbers increase by 3: 5, 8, 11, 14, 17. The middle letter progresses R, U, X, A after the first term. So EA17.",
+      "beginner": "This is question #2 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q3",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Find the wrong term in the the following series.\nF1N, I8Q, L27T, O64W, U125A",
+    "options": [
+      {
+        "label": "A",
+        "text": "I8Q"
+      },
+      {
+        "label": "B",
+        "text": "O64W"
+      },
+      {
+        "label": "C",
+        "text": "L27T"
+      },
+      {
+        "label": "D",
+        "text": "U125A"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "The first letters should increase by 3: F, I, L, O, R; the numbers are cubes 1, 8, 27, 64, 125. The last term must not begin U, so U125A is wrong.",
+      "beginner": "This is question #3 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q4",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Arrange the terms in a meaningful sequence. \n1. Crore\n2. Lakh\n3. Million\n\n4. Thousand\n5. Billion\n6. Hundred",
+    "options": [
+      {
+        "label": "A",
+        "text": "643215"
+      },
+      {
+        "label": "B",
+        "text": "642315"
+      },
+      {
+        "label": "C",
+        "text": "642135"
+      },
+      {
+        "label": "D",
+        "text": "641235"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Increasing values: Hundred (6), Thousand (4), Lakh (2), Million (3), Crore (1), Billion (5): 642315.",
+      "beginner": "This is question #4 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q5",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Out of the given options, three are similar in a certain manner. However, one option is NOT like the other three. Select the option which is\ndifferent from the rest.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Snapdeal"
+      },
+      {
+        "label": "B",
+        "text": "Amazon"
+      },
+      {
+        "label": "C",
+        "text": "Instagram"
+      },
+      {
+        "label": "D",
+        "text": "Myntra"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Snapdeal, Amazon and Myntra are principally shopping platforms; Instagram is principally a social platform.",
+      "beginner": "This is question #5 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q6",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Out of the given options, three are similar in a certain manner. However, one option is NOT like the other three. Select the option which is\ndifferent from the rest.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Teacher : Student"
+      },
+      {
+        "label": "B",
+        "text": "Doctor : Patients"
+      },
+      {
+        "label": "C",
+        "text": "Lawyer : Criminal"
+      },
+      {
+        "label": "D",
+        "text": "Bank : Employee"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "The first three pairs describe professionals and the people served. Bank–Employee describes an organization and its staff.",
+      "beginner": "This is question #6 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q7",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Out of the given options, three are similar in a certain manner. However, one option is NOT like the other three. Select the option which is\ndifferent from the rest.",
+    "options": [
+      {
+        "label": "A",
+        "text": "IHJ"
+      },
+      {
+        "label": "B",
+        "text": "XWY"
+      },
+      {
+        "label": "C",
+        "text": "MNO"
+      },
+      {
+        "label": "D",
+        "text": "EDF"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "For IHJ, XWY and EDF, the middle letter comes immediately before the first and the last comes immediately after. MNO follows simple alphabetical order instead.",
+      "beginner": "This is question #7 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q8",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Out of the given options, three are similar in a certain manner. However, one option is NOT like the other three. Select the option which is\ndifferent from the rest.",
+    "options": [
+      {
+        "label": "A",
+        "text": "HM"
+      },
+      {
+        "label": "B",
+        "text": "SZ"
+      },
+      {
+        "label": "C",
+        "text": "EJ"
+      },
+      {
+        "label": "D",
+        "text": "LQ"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "HM, EJ and LQ each have a gap of five letter positions. SZ has a gap of seven.",
+      "beginner": "This is question #8 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q9",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Select the option that is related to the third term on the same basis as the second term is related to the first term.\nFish : Water :: Camel : ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tree"
+      },
+      {
+        "label": "B",
+        "text": "Desert"
+      },
+      {
+        "label": "C",
+        "text": "Island"
+      },
+      {
+        "label": "D",
+        "text": "Forest"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "A fish is associated with water as a camel is associated with the desert.",
+      "beginner": "This is question #9 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q10",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Three of the following pair of words are alike in a certain way and one is different. Pick the odd one out.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Curd : Milk"
+      },
+      {
+        "label": "B",
+        "text": "Wine : Grapes"
+      },
+      {
+        "label": "C",
+        "text": "Seed : Oil"
+      },
+      {
+        "label": "D",
+        "text": "Rubber : Latex"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Curd is made from milk, wine from grapes and rubber from latex. Oil is made from seed, so Seed : Oil reverses the product–source order.",
+      "beginner": "This is question #10 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q11",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Select the option that is related to the third term on the same basis as the second term is related to the first term\nAD : GJ :: MP : ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "SV"
+      },
+      {
+        "label": "B",
+        "text": "JK"
+      },
+      {
+        "label": "C",
+        "text": "TW"
+      },
+      {
+        "label": "D",
+        "text": "RU"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "AD becomes GJ by shifting both letters +6. Apply +6 to MP to obtain SV.",
+      "beginner": "This is question #11 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q12",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Select the option that is related to the third word in the same way as the second word is related to the word.\nBadminton : Court : : Skating : ______",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ring"
+      },
+      {
+        "label": "B",
+        "text": "Rink"
+      },
+      {
+        "label": "C",
+        "text": "Ground"
+      },
+      {
+        "label": "D",
+        "text": "Track"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Badminton is played on a court; skating is performed on a rink.",
+      "beginner": "This is question #12 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q13",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "In a certain code language, if LOVE is coded as MPWF, then what will ENEMY be coded as?",
+    "options": [
+      {
+        "label": "A",
+        "text": "FHFOA"
+      },
+      {
+        "label": "B",
+        "text": "FOFNZ"
+      },
+      {
+        "label": "C",
+        "text": "FOFKX"
+      },
+      {
+        "label": "D",
+        "text": "DMDKX"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Every letter shifts forward by one: LOVE → MPWF, hence ENEMY → FOFNZ.",
+      "beginner": "This is question #13 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q14",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "In a certain code language: \n\"igu tam che\" means some tasty fruits,\n\"tam nik fla\" means some fresh vegetables,\n\"kir fla igu\" means few tasty vegetables,\nWhat is the code of \" vegetables\" ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "kir"
+      },
+      {
+        "label": "B",
+        "text": "igu"
+      },
+      {
+        "label": "C",
+        "text": "fla"
+      },
+      {
+        "label": "D",
+        "text": "tam"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Compare the second and third coded sentences: “fla” is the word common to sentences containing “vegetables”.",
+      "beginner": "This is question #14 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q15",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "In a certain code language, BFGIK is coded as YUTRP, CEFXL is coded as XVUCO, then what will MUSIC be coded as ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "NFHRX"
+      },
+      {
+        "label": "B",
+        "text": "NFGRW"
+      },
+      {
+        "label": "C",
+        "text": "NGRFX"
+      },
+      {
+        "label": "D",
+        "text": "NHFRX"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "The coding uses opposite-position letters: A↔Z, B↔Y and so on. MUSIC → NFHRX.",
+      "beginner": "This is question #15 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q16",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "If in a certain code language, HUMANITY is coded as 72304816, LAUGHTER is coded as 20267148, then what will RELAXED be coded as?",
+    "options": [
+      {
+        "label": "A",
+        "text": "8420345"
+      },
+      {
+        "label": "B",
+        "text": "8203456"
+      },
+      {
+        "label": "C",
+        "text": "8420543"
+      },
+      {
+        "label": "D",
+        "text": "8024385"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Match the character-to-digit codes from both given words and apply the corresponding sequence to RELAXED; the keyed sequence is 8420543.",
+      "beginner": "This is question #16 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q17",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Pointing to a photograph, Subham said, the lady in the picture is the daughter of the mother of my father's son. How is the lady related to\nSubham?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sister"
+      },
+      {
+        "label": "B",
+        "text": "Cousin"
+      },
+      {
+        "label": "C",
+        "text": "Mother"
+      },
+      {
+        "label": "D",
+        "text": "Grandmother"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "“My father’s son” refers to Subham; the daughter of his mother is his sister.",
+      "beginner": "This is question #17 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q18",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "A, B, C, D, E, F and G are sitting around a round table in the given order: \ni) A is second to the left of G \nii) B is sitting just right of G \niii) E is third from right to B\n\niv) F is to left of C \nThen who is to the immediate right of A?",
+    "options": [
+      {
+        "label": "A",
+        "text": "D"
+      },
+      {
+        "label": "B",
+        "text": "E"
+      },
+      {
+        "label": "C",
+        "text": "G"
+      },
+      {
+        "label": "D",
+        "text": "F"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Place G as the reference seat and apply the left/right constraints in sequence; D is immediately to the right of A in the arrangement used by the source key.",
+      "beginner": "This is question #18 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q19",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "A team of five is to be selected from amongst five women Anu, Varsha, Carolin, Deepa and Ekta and four men Punit, Rishab, Subham and\nTanmay. Some criteria for selection are:\nAnu and Subham have to be together.\nPunit cannot be put with Rishab.\nDeepa and tanmay will never be in same team.\nCarolin and Ekta are always in the same team.\nRishab cannot be with Varsha in the same team.\nIf Rishab be one of the members, the other members of the team are ______________.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Punit, Subham, Anu, Deepa"
+      },
+      {
+        "label": "B",
+        "text": "Subham, Anu, Carolin, Ekta"
+      },
+      {
+        "label": "C",
+        "text": "Tanmay, Subham, Anu, Deepa"
+      },
+      {
+        "label": "D",
+        "text": "Tanmay, Subham, Carolin, Ekta"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Rishab cannot accompany Punit or Varsha. The rule keeping Anu with Subham and Carolin with Ekta leaves Subham, Anu, Carolin, Ekta.",
+      "beginner": "This is question #19 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q20",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Read the following question carefully and then answer accordingly:\n\nA, B, C, D, E are five friends. \nA is younger than B but elder than E. \nC is the eldest. \nD is younger than B, but elder than A. \nWhich of the following options shows the ascending order of their ages?",
+    "options": [
+      {
+        "label": "A",
+        "text": "ADBEC"
+      },
+      {
+        "label": "B",
+        "text": "AEDBC"
+      },
+      {
+        "label": "C",
+        "text": "EADBC"
+      },
+      {
+        "label": "D",
+        "text": "DAEBC"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "C is eldest, then B, D, A, E. In ascending order (youngest first): E, A, D, B, C.",
+      "beginner": "This is question #20 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q21",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "In this question, three statements have been given followed by two conclusions numbered I and II. Assuming that all information in the statement\nis true, analyse the two conclusions together and determine whether any of them logically and definitely follow(s) from the information given in\nthe statement.\nStatement I: All fruits are good. \nStatement II: All good is bad. \nStatement III: All bad are vegetables.\nConclusion: \n\nI) All bad are fruits.\nII) Some vegetables are good.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only I follows"
+      },
+      {
+        "label": "B",
+        "text": "Only II follows"
+      },
+      {
+        "label": "C",
+        "text": "Both I and II follows"
+      },
+      {
+        "label": "D",
+        "text": "Neither I nor II follows"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "All good things are bad, and all bad things are vegetables. Therefore some vegetables are good; the reverse universal claim about fruits does not follow.",
+      "beginner": "This is question #21 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q22",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "In this question, two statements have been given followed by two conclusions numbered I and II. Assuming that all information in the statement\nis true, analyse the two conclusions together and determine whether any of them logically and definitely follow(s) from the information given in\nthe statement.\nStatement I: All cereal are wheat. \nStatement II: All wheat are bajra.\nConclusions: \nI) Some cereal are not bajra.\nII) Some bajra are cereal.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only I follows"
+      },
+      {
+        "label": "B",
+        "text": "Only II follows"
+      },
+      {
+        "label": "C",
+        "text": "Both I and II follows"
+      },
+      {
+        "label": "D",
+        "text": "Neither I nor II follows"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "All cereals are wheat and all wheat are bajra; consequently some bajra are cereal, while “some cereal are not bajra” contradicts the statements.",
+      "beginner": "This is question #22 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q23",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "In the question given below, there are two statements marked as Assertion (A) and Reason (R). Mark your answer as per the codes in options.\nAssertion (A): Darjeeling is colder than Kolkata. \nReason (R): Darjeeling is at a higher altitude as compared to Kolkata.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Both A and R are true and R is the correct explanation of A."
+      },
+      {
+        "label": "B",
+        "text": "Both A and R are true but R is not the correct explanation of A."
+      },
+      {
+        "label": "C",
+        "text": "A is true but R is false."
+      },
+      {
+        "label": "D",
+        "text": "A is false but R is true."
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Higher altitude generally leads to lower temperatures. Both assertion and reason are true, and the reason explains the assertion.",
+      "beginner": "This is question #23 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q24",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "In this question, a statement has been given followed by three course of action numbered I, II and III. Assuming that all information in the\nstatement is true, analyse the three actions together and determine whether any of them logically and definitely follow(s) from the information\ngiven in the statement.\nStatement: Coronavirus is spreading in India at an alarming rate causing death of around 100 people.\nCourses of Action:\nI) The Goverment should extend lockdown until situation comes under control. \nII) The Government should allocate food and general resources to needy people.\nIII) People should stop social distancing within families and friends.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only I and II follow"
+      },
+      {
+        "label": "B",
+        "text": "Only II and III follow"
+      },
+      {
+        "label": "C",
+        "text": "only III follows"
+      },
+      {
+        "label": "D",
+        "text": "only II follows"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Within the scenario described in the 2021 source, actions I and II are the supported response; III is not.",
+      "beginner": "This is question #24 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q25",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Which two signs should be interchanged to make the below equation mathematically correct?\n\n16 + 4 - 2 × 2 ÷ 3 = 3",
+    "options": [
+      {
+        "label": "A",
+        "text": "× and +"
+      },
+      {
+        "label": "B",
+        "text": "÷ and +"
+      },
+      {
+        "label": "C",
+        "text": "÷ and -"
+      },
+      {
+        "label": "D",
+        "text": "× and -"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Interchange ÷ and + to get 16 ÷ 4 − 2 × 2 + 3 = 3. Using order of operations gives 4 − 4 + 3 = 3.",
+      "beginner": "This is question #25 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q26",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Find the missing term in the following number series:\n8, 9, 12, 18, ____, 43",
+    "options": [
+      {
+        "label": "A",
+        "text": "25"
+      },
+      {
+        "label": "B",
+        "text": "27"
+      },
+      {
+        "label": "C",
+        "text": "38"
+      },
+      {
+        "label": "D",
+        "text": "28"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Differences are 1, 3, 6, 10 and 15. Thus 18 + 10 = 28 and 28 + 15 = 43.",
+      "beginner": "This is question #26 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q27",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "The total of the ages of Rohit, Ramesh and Rahul is 45 years. What was the average of their ages three years ago?",
+    "options": [
+      {
+        "label": "A",
+        "text": "15"
+      },
+      {
+        "label": "B",
+        "text": "14"
+      },
+      {
+        "label": "C",
+        "text": "12"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Three years earlier, the total age was 45 − (3 × 3) = 36; average = 36 ÷ 3 = 12.",
+      "beginner": "This is question #27 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q28",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "If there are 13 people in a party and all of them handshake with each other, find the total number of handshakes done?",
+    "options": [
+      {
+        "label": "A",
+        "text": "169"
+      },
+      {
+        "label": "B",
+        "text": "156"
+      },
+      {
+        "label": "C",
+        "text": "78"
+      },
+      {
+        "label": "D",
+        "text": "25"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Everyone shakes hands with 12 other people, but each handshake is counted twice: 13 × 12 ÷ 2 = 78.",
+      "beginner": "This is question #28 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q29",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "At a party, 50 percent of people eat icecream, 25 percent of people eat chocolate, 20 percent eat both. What percent of people neither eat\nchocolate nor icecream?",
+    "options": [
+      {
+        "label": "A",
+        "text": "65"
+      },
+      {
+        "label": "B",
+        "text": "45"
+      },
+      {
+        "label": "C",
+        "text": "50"
+      },
+      {
+        "label": "D",
+        "text": "40"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Percentage having at least one = 50 + 25 − 20 = 55. Neither = 100 − 55 = 45%.",
+      "beginner": "This is question #29 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q30",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Which of the following Venn diagrams best represents the relationship between furniture, tables and chairs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Tables and chairs are two distinct categories within the larger category of furniture. Select the diagram with two separate sets inside furniture.",
+      "beginner": "This is question #30 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q31",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "The given Venn diagram shows relationship between A and B. How many elements are there in set A?",
+    "options": [
+      {
+        "label": "A",
+        "text": "18"
+      },
+      {
+        "label": "B",
+        "text": "22"
+      },
+      {
+        "label": "C",
+        "text": "38"
+      },
+      {
+        "label": "D",
+        "text": "15"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Set A includes its exclusive region 18 and the overlap 4: 18 + 4 = 22.",
+      "beginner": "This is question #31 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q32",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "In the given Venn diagram, triangle shows the number of members of a society who can swim, square shows the number of members who can\ndance and circle shows the number of members who can sing. How many of them can swim but not sing?",
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "3"
+      },
+      {
+        "label": "C",
+        "text": "9"
+      },
+      {
+        "label": "D",
+        "text": "12"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Include regions inside the swimming triangle but outside the singing circle; their total is 9 in the diagram.",
+      "beginner": "This is question #32 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q33",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Which of the following answer completes the series of the question figure?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3"
+      },
+      {
+        "label": "B",
+        "text": "5"
+      },
+      {
+        "label": "C",
+        "text": "4"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Use the progression in the displayed question figure. The original source key marks option 3 (4).",
+      "beginner": "This is question #33 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q34",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Select the option that is related to the third figure on the same basis as the second figure is related to the first figure.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Apply the same figure transformation from the first image to the second, then select option 2 for the third.",
+      "beginner": "This is question #34 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q35",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Which of the following options is the wrong figure in the series?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Image A"
+      },
+      {
+        "label": "B",
+        "text": "Image B"
+      },
+      {
+        "label": "C",
+        "text": "Image C"
+      },
+      {
+        "label": "D",
+        "text": "Image D"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Compare the sequence of shape transformations across A–D. The source identifies Image D as the odd figure.",
+      "beginner": "This is question #35 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q36",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Select the figure pair that is related on the same basis to the figure pair given in the question.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Compare the positional relationship in the given image pair; option 3 reproduces that relationship.",
+      "beginner": "This is question #36 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q37",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "If a mirror is placed on the line PQ, then which of the answer figures is the correct image of the given figure?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Reflect each element horizontally across the marked mirror line PQ; option 1 matches the resulting orientation.",
+      "beginner": "This is question #37 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q38",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Which of the following cubes in the answer figure cannot be made based on the unfolded cube in the question figure?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Match adjoining faces against the unfolded cube net; option 4 cannot be made from the net.",
+      "beginner": "This is question #38 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q39",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "Find the maximum number of triangles in the given figure.",
+    "options": [
+      {
+        "label": "A",
+        "text": "7"
+      },
+      {
+        "label": "B",
+        "text": "8"
+      },
+      {
+        "label": "C",
+        "text": "9"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Count simple triangles and composite triangles in the drawing; the answer key gives seven.",
+      "beginner": "This is question #39 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q40",
+    "subjectCode": "reasoning",
+    "topicCode": "reasoning_general",
+    "questionText": "From the given answer figures, select the one in which the question figure is hidden/embedded.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option A"
+      },
+      {
+        "label": "B",
+        "text": "Option B"
+      },
+      {
+        "label": "C",
+        "text": "Option C"
+      },
+      {
+        "label": "D",
+        "text": "Option D"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Trace the lines of the small target figure within each larger option; option 2 contains the same embedded figure.",
+      "beginner": "This is question #40 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q41",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "If (1/6) of 5538 - 48 percent of 1550 = x2 - 262, then what is the value of x?",
+    "options": [
+      {
+        "label": "A",
+        "text": "12"
+      },
+      {
+        "label": "B",
+        "text": "16"
+      },
+      {
+        "label": "C",
+        "text": "20"
+      },
+      {
+        "label": "D",
+        "text": "21"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "5538 ÷ 6 = 923 and 48% of 1550 = 744. So 923 − 744 = x² − 262; x² = 441 and x = 21.",
+      "beginner": "This is question #41 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q42",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "The length, breadth and height of a room are 160 m, 180 m and 210 m respectively. What is the length of the longest rope that can measure the\nthree dimensions of the room exactly?",
+    "options": [
+      {
+        "label": "A",
+        "text": "30 m"
+      },
+      {
+        "label": "B",
+        "text": "20 m"
+      },
+      {
+        "label": "C",
+        "text": "10 m"
+      },
+      {
+        "label": "D",
+        "text": "5 m"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "The longest common measuring length is HCF(160, 180, 210) = 10 m.",
+      "beginner": "This is question #42 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q43",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "At an animal shelter 3/7 of the animals are dogs. Out of the dogs 1/4 are females. What fraction of the animals at the shelter are male dogs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "9/28"
+      },
+      {
+        "label": "B",
+        "text": "3/4"
+      },
+      {
+        "label": "C",
+        "text": "3/7"
+      },
+      {
+        "label": "D",
+        "text": "9/31"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Male dogs make up 3/4 of the 3/7 dogs: (3/4) × (3/7) = 9/28.",
+      "beginner": "This is question #43 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q44",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "Five electronic devices make a beep after every 5 minutes, 10 minutes, 25 minutes, 35 minutes and 50 minutes respectively. All the devices\nbeeped together at 1:30 AM. At what time they will again beep together?",
+    "options": [
+      {
+        "label": "A",
+        "text": "6:30 PM"
+      },
+      {
+        "label": "B",
+        "text": "7:20 AM"
+      },
+      {
+        "label": "C",
+        "text": "5:50 AM"
+      },
+      {
+        "label": "D",
+        "text": "6:20 PM"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "LCM(5,10,25,35,50) = 350 minutes = 5 hours 50 minutes. Add that to 1:30 AM to get 7:20 AM.",
+      "beginner": "This is question #44 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q45",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "The average weight of 12 persons decreased by 750 gm when a new person comes in place of one of them weighing 70 Kg. What was the weight\nof the new person?",
+    "options": [
+      {
+        "label": "A",
+        "text": "9 Kg"
+      },
+      {
+        "label": "B",
+        "text": "45 Kg"
+      },
+      {
+        "label": "C",
+        "text": "52 Kg"
+      },
+      {
+        "label": "D",
+        "text": "61 Kg"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "The total weight falls by 12 × 0.75 = 9 kg. New person’s weight = 70 − 9 = 61 kg.",
+      "beginner": "This is question #45 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q46",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "A dozen pairs of gloves of Rs. 150 are available at a discount of 12 percent. How many pairs of gloves can be bought for Rs. 66?",
+    "options": [
+      {
+        "label": "A",
+        "text": "6"
+      },
+      {
+        "label": "B",
+        "text": "11"
+      },
+      {
+        "label": "C",
+        "text": "8"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Discounted cost of 12 pairs = ₹150 × 88% = ₹132. One pair = ₹11, so ₹66 buys 6 pairs.",
+      "beginner": "This is question #46 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q47",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "A shopkeeper has a sale of Rs. 10220, Rs. 11542, Rs. 8458 and Rs. 9845 for four consecutive weeks. How much sale he must have in the fifth\nweek, so that he gets an average sale of Rs. 10362 per week?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 11542"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 10065"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 11745"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 10045"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Required total = 5 × ₹10362 = ₹51810. Previous four weeks total ₹40065. Fifth-week sale = ₹51810 − ₹40065 = ₹11745.",
+      "beginner": "This is question #47 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q48",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "If the radius of a circle is increased by 20 percent, then by how much is its area increased?",
+    "options": [
+      {
+        "label": "A",
+        "text": "400 percent"
+      },
+      {
+        "label": "B",
+        "text": "144 percent"
+      },
+      {
+        "label": "C",
+        "text": "40 percent"
+      },
+      {
+        "label": "D",
+        "text": "44 percent"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "New area is (1.2)² = 1.44 times the original. The increase is 44%.",
+      "beginner": "This is question #48 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q49",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "If Krishna's income is 7(1/7) percent more than that of Vishakha, then how much percent is Vishakha's income less than that of Krishna?",
+    "options": [
+      {
+        "label": "A",
+        "text": "20/3 percent"
+      },
+      {
+        "label": "B",
+        "text": "50/7 percent"
+      },
+      {
+        "label": "C",
+        "text": "75/7 percent"
+      },
+      {
+        "label": "D",
+        "text": "16/3 percent"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "7 1/7% = 1/14. If Vishakha earns 14 units, Krishna earns 15; shortfall relative to Krishna = 1/15 × 100 = 20/3%.",
+      "beginner": "This is question #49 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q50",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "At an exam, maximum marks were 1000, P got 5 percent less than Q, Q got 20 percent more than R, R got 25 percent less than S. If P got 342\nmarks, then what percentage did S get?",
+    "options": [
+      {
+        "label": "A",
+        "text": "60 percent"
+      },
+      {
+        "label": "B",
+        "text": "80 percent"
+      },
+      {
+        "label": "C",
+        "text": "45 percent"
+      },
+      {
+        "label": "D",
+        "text": "40 percent"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "P = 0.95Q, Q = 1.2R and R = 0.75S. Hence P = 0.855S. S = 342 ÷ 0.855 = 400, or 40% of 1000.",
+      "beginner": "This is question #50 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q51",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "The salaries of Pawan and Rishbha together amount Rs. 60000. Pawan spends 90 percent of his salary and Rishbha spends 80 percent of his\nsalary. If their savings are same, then what is Rishbha's salary?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 40000"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 20000"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 35000"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 25000"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Equal savings means 10% of Pawan’s salary = 20% of Rishbha’s. Therefore Pawan:Rishbha = 2:1; ₹60000/3 = ₹20000.",
+      "beginner": "This is question #51 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q52",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "Samina buys pencils from a wholesaler at Rs. 10 for 20 pencils. She sells those pencils at Rs. 20 for 10 pencils. What is the profit percent?",
+    "options": [
+      {
+        "label": "A",
+        "text": "30 percent"
+      },
+      {
+        "label": "B",
+        "text": "100 percent"
+      },
+      {
+        "label": "C",
+        "text": "200 percent"
+      },
+      {
+        "label": "D",
+        "text": "300 percent"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Cost per pencil = ₹10/20 = ₹0.50; selling price = ₹20/10 = ₹2. Profit percentage = (2 − 0.5)/0.5 × 100 = 300%.",
+      "beginner": "This is question #52 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q53",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "A shopkeeper incurs a loss of 13 percent if he sells an article for Rs. 4350. What price must he sell the article so as to gain 13 percent on that\narticle?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 5000"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 4505"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 5650"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 4865"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Selling at 13% loss means 87% of cost = ₹4350. Cost = ₹5000; selling at 13% gain = ₹5000 × 1.13 = ₹5650.",
+      "beginner": "This is question #53 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q54",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "A man purchased two varieties of sugar, 50 Kg at Rs. 20.50 per Kg and 90 Kg at Rs. 38 per Kg. He mixed the two varieties of sugar and sold the\nmixture at a gain of 15 percent. What is the per Kg selling price of the mixture?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 36.51"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 28.50"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 39.15"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 37.25"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Weighted cost/kg = (50×20.50 + 90×38)/140 = ₹31.75. With 15% profit, selling price/kg = ₹31.75×1.15 ≈ ₹36.51.",
+      "beginner": "This is question #54 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q55",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "The sum of three numbers is 51. If the ratio of the first to second is 2:3 and that of second to the third is 6:7, then what is the second number?",
+    "options": [
+      {
+        "label": "A",
+        "text": "12"
+      },
+      {
+        "label": "B",
+        "text": "15"
+      },
+      {
+        "label": "C",
+        "text": "18"
+      },
+      {
+        "label": "D",
+        "text": "21"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "First:second = 2:3 = 4:6; second:third = 6:7. Combined ratio 4:6:7 sums to 17, so the second number = 51×6/17 = 18.",
+      "beginner": "This is question #55 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q56",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "In an institute the number of boys and girls are in the ratio of 5:9. If the number of boys are increased by 30 percent and the number of girls are\nincreased by 10 percent, then what will be the new ratio of number of boys to that of girls?",
+    "options": [
+      {
+        "label": "A",
+        "text": "51:91"
+      },
+      {
+        "label": "B",
+        "text": "45:19"
+      },
+      {
+        "label": "C",
+        "text": "55:69"
+      },
+      {
+        "label": "D",
+        "text": "65:99"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Initial boys:girls = 5:9. New numbers = 5×1.30 : 9×1.10 = 6.5:9.9 = 65:99.",
+      "beginner": "This is question #56 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q57",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "Divide Rs. 4800 among Honey, Bunny and Sunny, such that Bunny receives 1/2 as much as Honey and Sunny together and Honey receives 1/3 as\nmuch as Bunny and Sunny together. What is the share of Sunny?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 1200"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 1600"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 2000"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 1800"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Let Honey, Bunny and Sunny be H,B,S. Since B=(H+S)/2 and H+B+S=4800, B=1600. Also H=(B+S)/3. Solving gives H=1200 and S=2000.",
+      "beginner": "This is question #57 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q58",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "The ratio of prices of two tables is 9 : 11. If the price of the first table is increased by 10 percent and that of the second table by Rs. 1100 then the\nratio of their prices is 3 : 5. What are the initial prices of the tables?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 1800, Rs. 2200"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 900, Rs. 1100"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 2700, Rs.3300"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 1200, Rs. 2300"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Original prices are 9x and 11x. The new prices satisfy 9.9x/(11x+1100)=3/5. Thus 49.5x=33x+3300, x=200, and original prices are ₹1800 and ₹2200.",
+      "beginner": "This is question #58 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q59",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "A sum of Rs. 67000 amounts to Rs. 87770 in 5 years at simple interest. What is the rate of interest?",
+    "options": [
+      {
+        "label": "A",
+        "text": "6 percent"
+      },
+      {
+        "label": "B",
+        "text": "6.2 percent"
+      },
+      {
+        "label": "C",
+        "text": "5.5 percent"
+      },
+      {
+        "label": "D",
+        "text": "7.2 percent"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Simple interest = ₹87770−₹67000 = ₹20770. Annual rate = (20770×100)/(67000×5) = 6.2%.",
+      "beginner": "This is question #59 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q60",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "Aniket borrows Rs. 8000 for 2 years at 3.5 percent p.a. simple interest. He immediately lends it to Kavish at 5.25 percent p.a. simple interest for 2\nyears. What is the gain of Aniket in this transaction?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 840"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 560"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 280"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 380"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Difference in rates = 5.25%−3.5% = 1.75%. Gain for two years = ₹8000×1.75×2/100 = ₹280.",
+      "beginner": "This is question #60 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q61",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "An amount of Rs. 500000 is split into 2 parts and each part is invested in two types of bonds. The first yields an interest of 8 percent p.a. and\nsecond, 12 percent p.a. If the total interest on both the parts at the end of 1 year is 10.5 percent p.a., then what was the amount invested in each\ntype of bond?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 187500, Rs. 312500"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 200000, Rs. 300000"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 180500, Rs. 319500"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 240500, Rs.259500"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Let x be in the 8% bond. Then 0.08x+0.12(500000−x)=0.105×500000=52500. Solving gives x=₹187500 and ₹312500 in the 12% bond.",
+      "beginner": "This is question #61 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q62",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "Aashima lent Rs. 10000 to Prakash for 2 years compounded half yearly. At the end of 2 years she got Rs. 20736 from Prakash. Then, what is the\nrate of interest p.a.?",
+    "options": [
+      {
+        "label": "A",
+        "text": "8 percent"
+      },
+      {
+        "label": "B",
+        "text": "15 percent"
+      },
+      {
+        "label": "C",
+        "text": "20 percent"
+      },
+      {
+        "label": "D",
+        "text": "40 percent"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "There are four half-years. 20736/10000 = 2.0736 = (1.2)^4, giving 20% per half-year and 40% per annum nominal.",
+      "beginner": "This is question #62 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q63",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "Kanika travelled a distance of 54 Km in 10 hours. She travelled partly on foot at 3 Km/hr and partly by autorickshaw at 15 Km/hr. What is the\ndistance travelled by autorickshaw?",
+    "options": [
+      {
+        "label": "A",
+        "text": "6 Km"
+      },
+      {
+        "label": "B",
+        "text": "15 Km"
+      },
+      {
+        "label": "C",
+        "text": "30 Km"
+      },
+      {
+        "label": "D",
+        "text": "24 Km"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Let x km be by auto. Then (54−x)/3 + x/15 = 10. Multiply by 15: 270−5x+x=150; x=30 km.",
+      "beginner": "This is question #63 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q64",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "Sarita goes to visit her client from her house at a speed of 20 Km/hr and returns at a speed of 25 Km/hr. If she takes 9 hours in going and coming,\nthen what is the distance between her house and her client?",
+    "options": [
+      {
+        "label": "A",
+        "text": "45 km"
+      },
+      {
+        "label": "B",
+        "text": "60 Km"
+      },
+      {
+        "label": "C",
+        "text": "85 Km"
+      },
+      {
+        "label": "D",
+        "text": "100 Km"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "For one-way distance d: d/20+d/25=9; 9d/100=9, so d=100 km.",
+      "beginner": "This is question #64 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q65",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "The distance between two cities X and Y is 570 Km. A train starts from X at 10 PM and travels towards Y at 110 Km/hr. Another train starts\nfrom Y at 11 PM and travels towards X at 120 Km/hr. At what time will they meet?",
+    "options": [
+      {
+        "label": "A",
+        "text": "11:00 PM"
+      },
+      {
+        "label": "B",
+        "text": "1:00 AM"
+      },
+      {
+        "label": "C",
+        "text": "2:00 AM"
+      },
+      {
+        "label": "D",
+        "text": "10:00 PM"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "The first train covers 110 km by 11 PM. Remaining distance = 570−110=460 km. Combined approaching speed = 110+120=230 km/h. They meet 460/230=2 hours after 11 PM, at 1 AM.",
+      "beginner": "This is question #65 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q66",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "Three men can make a certain number of cloth bags in 8 days by working for 6 hours a day. For how many hours in a day should two men work\nin order to make thrice the number of bags in 24 days?",
+    "options": [
+      {
+        "label": "A",
+        "text": "10 hours"
+      },
+      {
+        "label": "B",
+        "text": "8 hours"
+      },
+      {
+        "label": "C",
+        "text": "9 hours"
+      },
+      {
+        "label": "D",
+        "text": "7 hours"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Bags made ∝ men×days×hours. Triple work needs 3×3×8×6=432 man-hours. Two workers over 24 days must work 432/(2×24)=9 hours daily.",
+      "beginner": "This is question #66 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q67",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "Shruti and Rohan undertake a project worth Rs. 88000. Shruti alone can do the work in 10 days. They work together for 4 days. After 4 days,\nRohan works alone for 4 days and Shruti completes the remaining work in 4 more days. What is the share of Rohan in the earnings?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rs. 70400"
+      },
+      {
+        "label": "B",
+        "text": "Rs. 52800"
+      },
+      {
+        "label": "C",
+        "text": "Rs. 22600"
+      },
+      {
+        "label": "D",
+        "text": "Rs. 17600"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Shruti works for 4 joint days and 4 final days = 8 days. At 1/10 per day, her contribution is 4/5 of the project, leaving 1/5 for Rohan. Rohan receives ₹88000/5=₹17600.",
+      "beginner": "This is question #67 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q68",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "Alok can do a piece of work in 20 days. Biju can do the same work in 40 days and Pramod in 25 days. Alok and Pramod worked for 3 days and\nhanded it to Biju. Biju worked for some days and handed it again to Alok and Pramod 7 days before completing the work. For how many days\ndid Biju work?",
+    "options": [
+      {
+        "label": "A",
+        "text": "9 days"
+      },
+      {
+        "label": "B",
+        "text": "6 days"
+      },
+      {
+        "label": "C",
+        "text": "5 days"
+      },
+      {
+        "label": "D",
+        "text": "4 days"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Together Alok and Pramod work at 1/20+1/25=9/100 job/day. They work for 3+7=10 days and complete 90% of the job. Biju must do 10% at 1/40 job/day: 0.1×40=4 days.",
+      "beginner": "This is question #68 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q69",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "Kapila is two-third as fast as Vipul and Vipul is thrice as fast as Bhupen. If together they can complete a work in 15 days, then in how many days\ncan Kapila, Vipul and Bhupen each working alone do the work respectively?",
+    "options": [
+      {
+        "label": "A",
+        "text": "45 days, 30 days, 90 days"
+      },
+      {
+        "label": "B",
+        "text": "30 days, 10 days, 45 days"
+      },
+      {
+        "label": "C",
+        "text": "15 days, 5 days, 25 days"
+      },
+      {
+        "label": "D",
+        "text": "10 days, 5 days, 45 days"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Relative work rates are Kapila:Vipul:Bhupen = 2:3:1. Total 6 units per day corresponds to 1/15 job, so the individual times are 45, 30 and 90 days.",
+      "beginner": "This is question #69 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q70",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "If the surface area of a sphere is 1386 sq cm, then what is the volume of that sphere?",
+    "options": [
+      {
+        "label": "A",
+        "text": "4386 cu cm"
+      },
+      {
+        "label": "B",
+        "text": "4851 cu cm"
+      },
+      {
+        "label": "C",
+        "text": "5623 cu cm"
+      },
+      {
+        "label": "D",
+        "text": "5485 cu cm"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Surface area = 4πr² = 1386. Using π = 22/7 gives r = 10.5 cm. Volume = 4πr³/3 = 4851 cm³.",
+      "beginner": "This is question #70 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q71",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "If the volume of a cone is 254.34 cu cm and height is 12 cm, then what is the base diameter of the cone?",
+    "options": [
+      {
+        "label": "A",
+        "text": "4.5 cm"
+      },
+      {
+        "label": "B",
+        "text": "8 cm"
+      },
+      {
+        "label": "C",
+        "text": "9 cm"
+      },
+      {
+        "label": "D",
+        "text": "10.4 cm"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Cone volume V = πr²h/3. With V=254.34 and h=12, r²=20.25, r=4.5 and diameter=9 cm.",
+      "beginner": "This is question #71 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q72",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "A hollow cylindrical pipe is made of cement. The volume of cement used in the pipe is 3696 cu m. It's external radius is 10 m and length is 14 m.\nWhat is the thickness of the pipe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "10 m"
+      },
+      {
+        "label": "B",
+        "text": "6 m"
+      },
+      {
+        "label": "C",
+        "text": "4 m"
+      },
+      {
+        "label": "D",
+        "text": "2 m"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Cement volume = πh(R²−r²). Thus 3696=(22/7)×14×(100−r²); r²=16 and internal r=4. Thickness = 10−4=6 m.",
+      "beginner": "This is question #72 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q73",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "The following pie-chart shows the distribution of students of graduate level in eight different institutes. If the total number of graduate level\nstudents is 23800, then what is the total number of graduate level students in institute W?",
+    "options": [
+      {
+        "label": "A",
+        "text": "4998"
+      },
+      {
+        "label": "B",
+        "text": "2380"
+      },
+      {
+        "label": "C",
+        "text": "1666"
+      },
+      {
+        "label": "D",
+        "text": "5236"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Read institute W’s percentage from the pie chart and multiply it by 23800. The result is 4998.",
+      "beginner": "This is question #73 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q74",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "The following table gives the percentage of marks obtained by four students in four different subjects in an examination. What are the average\nmarks obtained by all the students in chemistry?",
+    "options": [
+      {
+        "label": "A",
+        "text": "87.5"
+      },
+      {
+        "label": "B",
+        "text": "131.25"
+      },
+      {
+        "label": "C",
+        "text": "82.5"
+      },
+      {
+        "label": "D",
+        "text": "125.15"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Convert each student’s Chemistry percentage to actual marks using the subject maximum, sum those marks, and divide by four.",
+      "beginner": "This is question #74 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q75",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "The following table shows the population proportion of five villages and percent population that are below poverty line. If the population of the\nvillage C is 40000, then what will be the population of village A below poverty line in that year?",
+    "options": [
+      {
+        "label": "A",
+        "text": "10000"
+      },
+      {
+        "label": "B",
+        "text": "11500"
+      },
+      {
+        "label": "C",
+        "text": "18200"
+      },
+      {
+        "label": "D",
+        "text": "12800"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Use village C’s population and its share of the total to recover the overall population, then multiply by A’s share and A’s below-poverty percentage.",
+      "beginner": "This is question #75 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q76",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "The following pie chart shows the spendings of a country on all sports during a particular year. If the total amount spent on all sports during the\nyear be Rs. 720,000,000, then by what amount does spending on tennis exceeds spending on basketball?",
+    "options": [
+      {
+        "label": "A",
+        "text": "50000000"
+      },
+      {
+        "label": "B",
+        "text": "40000000"
+      },
+      {
+        "label": "C",
+        "text": "30000000"
+      },
+      {
+        "label": "D",
+        "text": "20000000"
+      }
+    ],
+    "correctOption": "B",
+    "explanation": {
+      "standard": "Find the percentage-point difference between Tennis and Basketball in the chart, then multiply by ₹720,000,000.",
+      "beginner": "This is question #76 from official Junior Assistant (2021 Shift 2). The official correct answer is Option B."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q77",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "The bar graph shows the sales of cell phones (in thousands) from four branches of a company during two consecutive years 2018 and 2019. What\nis the average sales of all the branches (in thousands) for the year 2018?",
+    "options": [
+      {
+        "label": "A",
+        "text": "12"
+      },
+      {
+        "label": "B",
+        "text": "20"
+      },
+      {
+        "label": "C",
+        "text": "18"
+      },
+      {
+        "label": "D",
+        "text": "15"
+      }
+    ],
+    "correctOption": "D",
+    "explanation": {
+      "standard": "Read the 2018 bar value for each of the four branches, sum them and divide by four. The average is 15 thousand.",
+      "beginner": "This is question #77 from official Junior Assistant (2021 Shift 2). The official correct answer is Option D."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q78",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "The following line graph shows the annual percent profit earned by a company during the period 2010-2015. If the expenditures in 2010 and\n2015 are equal, then what is the ratio of the income in 2010 and 2015 respectively? [Profit percent = (Income - Expenditure) / Income × 100]",
+    "options": [
+      {
+        "label": "A",
+        "text": "5 : 4"
+      },
+      {
+        "label": "B",
+        "text": "3 : 1"
+      },
+      {
+        "label": "C",
+        "text": "1 : 3"
+      },
+      {
+        "label": "D",
+        "text": "4 : 5"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Use Profit% = (Income−Expenditure)/Income × 100, so Income = Expenditure/(1−Profit%). Since expenditures are equal, compare the denominators for 2010 and 2015.",
+      "beginner": "This is question #78 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q79",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "The following line graph shows the exports from three companies from the year 2005 to 2010. Average annual export during the given period for\ncompany B is what percent of the average annual exports for company C?",
+    "options": [
+      {
+        "label": "A",
+        "text": "96.63 percent"
+      },
+      {
+        "label": "B",
+        "text": "71.66 percent"
+      },
+      {
+        "label": "C",
+        "text": "74.16 percent"
+      },
+      {
+        "label": "D",
+        "text": "91.66 percent"
+      }
+    ],
+    "correctOption": "A",
+    "explanation": {
+      "standard": "Read all annual exports for B and C. Compare their sums or means (the number of years is equal): (sum B / sum C)×100 ≈ 96.63%.",
+      "beginner": "This is question #79 from official Junior Assistant (2021 Shift 2). The official correct answer is Option A."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dsssb_junior_assistant_25_aug_2021_shift_2_maths_reasoning_cbt_q80",
+    "subjectCode": "quant",
+    "topicCode": "arithmetic",
+    "questionText": "The graph shows the foreign exchange reserves of a company (in $ hundred crore) from 2001-2002 to 2010-2011. What is the ratio of the number\nof years, in which the foreign exchange reserves are above the average reserves, to those in which the reserves are below the average reserves?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2 : 3"
+      },
+      {
+        "label": "B",
+        "text": "4 : 5"
+      },
+      {
+        "label": "C",
+        "text": "1 : 1"
+      },
+      {
+        "label": "D",
+        "text": "3 : 2"
+      }
+    ],
+    "correctOption": "C",
+    "explanation": {
+      "standard": "Compute the mean reserve over the chart’s years, then count years strictly above and strictly below that mean. They are in a 1:1 ratio.",
+      "beginner": "This is question #80 from official Junior Assistant (2021 Shift 2). The official correct answer is Option C."
+    },
+    "difficulty": "medium",
+    "isVerified": true,
+    "isAiGenerated": false,
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "provenance": {
+      "examCode": "dsssb",
+      "examName": "DSSSB Junior Assistant 2021",
+      "year": 2021,
+      "shift": 2,
+      "tier": "Tier-1",
+      "examDate": "25 Aug 2021",
+      "sourceType": "Official Paper",
+      "documentReference": "DSSSB Junior Assistant 2021 | CBT Mathematics & Reasoning"
+    },
+    "status": "approved"
+  }
+]

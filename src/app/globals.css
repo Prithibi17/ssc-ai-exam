@@ -1,8 +1,20 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  color-scheme: light;
+  --background: #F5F8FC;
+  --foreground: #111B32;
+  --card-bg: #FFFFFF;
+  --sidebar-bg: #0F172A;
+  --sidebar-sec: #16233B;
+  --border-default: #E2E8F0;
+  --border-strong: #CBD5E1;
+  --primary-blue: #155DFC;
+  --primary-hover: #124BD4;
+  --selected-bg: #EFF6FF;
+  --selected-border: #60A5FA;
 }
 
 @theme inline {
@@ -12,15 +24,81 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  color-scheme: light;
+  background-color: #F5F8FC;
+  overscroll-behavior: none;
+  overscroll-behavior-y: none;
+  height: 100%;
+  width: 100%;
+  max-width: 100vw;
+  overflow-x: hidden;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: #F5F8FC;
+  color: #111B32;
+  font-family: var(--font-sans), Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior: none;
+  overscroll-behavior-y: none;
+  height: 100%;
+  width: 100%;
+  max-width: 100vw;
+  overflow-x: hidden;
 }
+
+/* Mobile-Friendly Utility Classes */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Design System Card Elevation Tokens */
+.shadow-card {
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.035);
+}
+
+.shadow-card-hover {
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.075);
+}
+
+.shadow-floating {
+  box-shadow: 0 16px 40px rgba(15, 23, 42, 0.12);
+}
+
+.shadow-modal {
+  box-shadow: 0 24px 64px rgba(15, 23, 42, 0.16);
+}
+
+/* Authentic TCS iON CBT Question Palette Polygonal Shapes */
+.tcs-shape-answered {
+  clip-path: polygon(25% 0%, 75% 0%, 100% 32%, 100% 100%, 0% 100%, 0% 32%);
+}
+
+.tcs-shape-not-answered {
+  clip-path: polygon(0% 0%, 100% 0%, 100% 68%, 75% 100%, 25% 100%, 0% 68%);
+}
+
+.tcs-shape-not-visited {
+  border-radius: 4px;
+}
+
+.tcs-shape-review {
+  border-radius: 9999px;
+}
+
+/* Official Portal blinking animation for new notices */
+@keyframes blink-notice {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.2; }
+}
+
+.animate-notice-blink {
+  animation: blink-notice 1.2s infinite ease-in-out;
+}
+
