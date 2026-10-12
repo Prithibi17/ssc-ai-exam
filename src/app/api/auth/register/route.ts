@@ -52,9 +52,9 @@ export async function POST(req: Request) {
           phone: 'owner123',
           fullName: 'System Owner & Super Admin',
           role: 'admin',
-          streakDays: 99,
-          totalQuestionsPracticed: 9999,
-          overallAccuracy: 100,
+          streakDays: 1,
+          totalQuestionsPracticed: 0,
+          overallAccuracy: 0,
           subscription: {
             isActive: true,
             planName: 'Owner Super Access (Lifetime)',

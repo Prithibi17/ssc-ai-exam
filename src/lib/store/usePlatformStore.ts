@@ -98,9 +98,16 @@ export function usePlatformStore() {
       const storedProfile = localStorage.getItem(STORAGE_KEYS.USER_PROFILE);
       if (storedProfile) {
         const parsed = JSON.parse(storedProfile);
+        const cleanStreak = parsed.streakDays === 99 ? 1 : (parsed.streakDays || 1);
+        const cleanQuestions = parsed.totalQuestionsPracticed === 9999 ? 0 : (parsed.totalQuestionsPracticed || 0);
+        const cleanAccuracy = parsed.overallAccuracy === 100 && parsed.id === 'admin_owner_01' && cleanQuestions === 0 ? 0 : (parsed.overallAccuracy || 0);
+
         setProfile({
           ...DEFAULT_PROFILE,
           ...parsed,
+          streakDays: cleanStreak,
+          totalQuestionsPracticed: cleanQuestions,
+          overallAccuracy: cleanAccuracy,
           subscription: parsed.subscription || { isActive: false },
           dailyTestsTaken: parsed.dailyTestsTaken || {},
         });
@@ -355,9 +362,11 @@ export function usePlatformStore() {
     summary?: any;
   }) => {
     const today = getTodayDateStr();
+    const countToAdd = testDetails?.summary?.totalQuestions || 25;
     updateProfileAndPersist((prev) => ({
       ...prev,
-      totalQuestionsPracticed: prev.totalQuestionsPracticed + 25,
+      totalQuestionsPracticed: (prev.totalQuestionsPracticed || 0) + countToAdd,
+      overallAccuracy: testDetails?.accuracy ?? prev.overallAccuracy,
       dailyTestsTaken: {
         ...prev.dailyTestsTaken,
         [today]: (prev.dailyTestsTaken?.[today] || 0) + 1,

@@ -31,9 +31,9 @@ export async function GET(req: Request) {
           fullName: 'System Owner & Super Admin',
           phone: 'owner123',
           role: 'admin',
-          streakDays: 99,
-          totalQuestionsPracticed: 9999,
-          overallAccuracy: 100,
+          streakDays: 1,
+          totalQuestionsPracticed: 0,
+          overallAccuracy: 0,
           subscription: {
             isActive: true,
             planName: 'Owner Super Access (Lifetime)',

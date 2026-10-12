@@ -40,14 +40,102 @@ export default function DashboardPage() {
   }, []);
 
   const targetExams = EXAMS_CATALOGUE.filter((e) => profile.targetExams.includes(e.id));
-  const weakTopicNames = Array.from(new Set(mistakes.filter((m) => !m.resolved).map((m) => m.topicName))).slice(0, 4);
+  const unresolvedMistakes = mistakes.filter((m) => !m.resolved);
+  const weakTopicNames = Array.from(new Set(unresolvedMistakes.map((m) => m.topicName))).slice(0, 4);
+
+  // REAL DATA COMPUTATIONS:
+  // 1. Total Practiced Questions
+  const totalPracticed =
+    pastAttempts.reduce((sum, a) => sum + (a.totalQuestions || 0), 0) ||
+    profile.totalQuestionsPracticed ||
+    0;
+
+  // 2. Real Accuracy
+  const totalAttempted = pastAttempts.reduce(
+    (sum, a) => sum + (a.attemptedQuestions || a.totalQuestions || 0),
+    0
+  );
+  const totalCorrect = pastAttempts.reduce((sum, a) => sum + (a.correctCount || 0), 0);
+  const realAccuracy =
+    totalAttempted > 0
+      ? ((totalCorrect / totalAttempted) * 100).toFixed(1)
+      : profile.overallAccuracy > 0
+      ? profile.overallAccuracy.toFixed(1)
+      : null;
+
+  // Accuracy Trend (comparing last 2 attempts)
+  let accuracyTrend: { label: string; positive: boolean } | null = null;
+  if (pastAttempts.length >= 2) {
+    const latest = pastAttempts[0].accuracyPercentage;
+    const previous = pastAttempts[1].accuracyPercentage;
+    const diff = Math.round(latest - previous);
+    if (diff > 0) accuracyTrend = { label: `↑ ${diff}%`, positive: true };
+    else if (diff < 0) accuracyTrend = { label: `↓ ${Math.abs(diff)}%`, positive: false };
+    else accuracyTrend = { label: `0%`, positive: true };
+  }
+
+  // 3. Real Average Time
+  const avgTimeSecs =
+    pastAttempts.length > 0
+      ? Math.round(
+          pastAttempts.reduce((sum, a) => sum + (a.totalTimeSpentSeconds || 0), 0) /
+            pastAttempts.length
+        )
+      : 0;
+  const avgTimeDisplay = avgTimeSecs > 0 ? `${(avgTimeSecs / 60).toFixed(1)}m` : '--';
+  const speedBadge = avgTimeSecs > 0 ? (avgTimeSecs <= 900 ? 'Fast' : 'Standard') : null;
+
+  // 4. Questions Practiced Today (Daily target: 30)
+  const todayStr = new Date().toISOString().split('T')[0];
+  const questionsToday = pastAttempts
+    .filter((a) => a.submittedAt?.startsWith(todayStr) || a.startedAt?.startsWith(todayStr))
+    .reduce((sum, a) => sum + (a.totalQuestions || 0), 0);
+  const dailyTarget = 30;
+
+  // 5. Last 7 Days Calendar Chart Data
+  const last7Days = Array.from({ length: 7 }, (_, i) => {
+    const d = new Date();
+    d.setDate(d.getDate() - (6 - i));
+    const dateStr = d.toISOString().split('T')[0];
+    const dayName = d.toLocaleDateString('en-US', { weekday: 'short' });
+    const attemptsOnDay = pastAttempts.filter(
+      (a) => a.submittedAt?.startsWith(dateStr) || a.startedAt?.startsWith(dateStr)
+    );
+    const questionsCount = attemptsOnDay.reduce((sum, a) => sum + (a.totalQuestions || 0), 0);
+    const isToday = i === 6;
+    return {
+      dateStr,
+      day: dayName,
+      count: questionsCount,
+      isToday,
+    };
+  });
+  const maxDayCount = Math.max(...last7Days.map((d) => d.count), 1);
+  const questionsLast7 = last7Days.reduce((sum, d) => sum + d.count, 0);
+
+  // Last 7 days accuracy
+  const attemptsLast7 = pastAttempts.filter((a) => {
+    const aDate = (a.submittedAt || a.startedAt || '').split('T')[0];
+    return last7Days.some((d) => d.dateStr === aDate);
+  });
+  const totalAtt7 = attemptsLast7.reduce(
+    (sum, a) => sum + (a.attemptedQuestions || a.totalQuestions || 0),
+    0
+  );
+  const correct7 = attemptsLast7.reduce((sum, a) => sum + (a.correctCount || 0), 0);
+  const accLast7 =
+    totalAtt7 > 0
+      ? `${((correct7 / totalAtt7) * 100).toFixed(1)}%`
+      : realAccuracy
+      ? `${realAccuracy}%`
+      : '0.0%';
 
   return (
     <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-6 space-y-6">
       {/* 1. Candidate Greeting & Himalayan Hero Banner */}
       <div className="relative overflow-hidden rounded-2xl border border-[#E2E8F0] bg-white shadow-card p-6 sm:p-7 flex flex-col md:flex-row items-start md:items-center justify-between gap-6 min-h-[160px]">
         {/* Background Mountain Artwork */}
-        <div 
+        <div
           className="absolute right-0 top-0 bottom-0 w-full md:w-3/5 bg-no-repeat bg-right bg-cover opacity-90 pointer-events-none"
           style={{ backgroundImage: `url('/illustrations/hero-mountain.jpg')` }}
         />
@@ -60,7 +148,7 @@ export default function DashboardPage() {
             Good Evening,
           </span>
           <h1 className="text-2xl sm:text-3xl font-extrabold text-[#111B32] tracking-tight flex items-center gap-2">
-            <span>{profile.fullName}</span>
+            <span>{profile.fullName || 'Aspirant'}</span>
             <span>👋</span>
           </h1>
           <p className="text-xs text-[#64748B] mt-1.5 leading-relaxed">
@@ -90,7 +178,7 @@ export default function DashboardPage() {
               </div>
               <div>
                 <span className="text-base sm:text-lg font-black text-[#111B32] block leading-tight">
-                  {profile.streakDays}
+                  {profile.streakDays || 1}
                 </span>
                 <span className="text-[10px] sm:text-[11px] font-medium text-[#64748B]">Days Active</span>
               </div>
@@ -103,7 +191,7 @@ export default function DashboardPage() {
               </div>
               <div>
                 <span className="text-base sm:text-lg font-black text-[#111B32] block leading-tight">
-                  18 / 30
+                  {questionsToday} / {dailyTarget}
                 </span>
                 <span className="text-[10px] sm:text-[11px] font-medium text-[#64748B]">Target</span>
               </div>
@@ -112,7 +200,7 @@ export default function DashboardPage() {
         </div>
       </div>
 
-      {/* 2. Four Metric Cards Row with Trend Visualizers */}
+      {/* 2. Four Metric Cards Row with Real Values */}
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-2.5 sm:gap-4">
         {/* Metric 1: Overall Accuracy */}
         <div className="rounded-2xl border border-[#E2E8F0] bg-white p-3.5 sm:p-5 shadow-card hover:border-[#CBD5E1] transition-all flex items-center justify-between">
@@ -122,14 +210,26 @@ export default function DashboardPage() {
             </div>
             <div>
               <span className="text-lg sm:text-2xl font-black text-[#111B32] block leading-tight">
-                76.9%
+                {realAccuracy !== null ? `${realAccuracy}%` : '0.0%'}
               </span>
               <span className="text-[10px] sm:text-xs font-medium text-[#64748B]">Accuracy</span>
             </div>
           </div>
-          <div className="hidden sm:flex items-center gap-0.5 text-xs font-bold text-[#059669] bg-[#ECFDF5] px-2 py-0.5 rounded-full">
-            <span>↑ 8%</span>
-          </div>
+          {accuracyTrend ? (
+            <div
+              className={`hidden sm:flex items-center gap-0.5 text-xs font-bold px-2 py-0.5 rounded-full ${
+                accuracyTrend.positive
+                  ? 'text-[#059669] bg-[#ECFDF5]'
+                  : 'text-[#E11D48] bg-[#FFF1F2]'
+              }`}
+            >
+              <span>{accuracyTrend.label}</span>
+            </div>
+          ) : (
+            <div className="hidden sm:block text-[11px] font-semibold text-[#94A3B8]">
+              {pastAttempts.length === 0 ? 'No tests yet' : 'Baseline'}
+            </div>
+          )}
         </div>
 
         {/* Metric 2: Questions Practiced */}
@@ -140,21 +240,37 @@ export default function DashboardPage() {
             </div>
             <div>
               <span className="text-lg sm:text-2xl font-black text-[#111B32] block leading-tight">
-                142
+                {totalPracticed}
               </span>
               <span className="text-[10px] sm:text-xs font-medium text-[#64748B]">Practiced</span>
             </div>
           </div>
           {/* Mini Sparkline Bars */}
           <div className="hidden sm:flex items-end gap-1 h-6">
-            <span className="w-1.5 h-3 bg-blue-200 rounded-xs" />
-            <span className="w-1.5 h-4 bg-blue-300 rounded-xs" />
-            <span className="w-1.5 h-6 bg-[#155DFC] rounded-xs" />
-            <span className="w-1.5 h-4 bg-blue-300 rounded-xs" />
+            <span
+              className={`w-1.5 rounded-xs ${
+                totalPracticed > 0 ? 'bg-blue-300 h-3' : 'bg-slate-200 h-1.5'
+              }`}
+            />
+            <span
+              className={`w-1.5 rounded-xs ${
+                totalPracticed > 20 ? 'bg-blue-400 h-4' : 'bg-slate-200 h-1.5'
+              }`}
+            />
+            <span
+              className={`w-1.5 rounded-xs ${
+                totalPracticed > 50 ? 'bg-[#155DFC] h-6' : 'bg-slate-200 h-1.5'
+              }`}
+            />
+            <span
+              className={`w-1.5 rounded-xs ${
+                totalPracticed > 10 ? 'bg-blue-300 h-3.5' : 'bg-slate-200 h-1.5'
+              }`}
+            />
           </div>
         </div>
 
-        {/* Metric 3: Avg. Time / 25 Qs */}
+        {/* Metric 3: Avg. Time */}
         <div className="rounded-2xl border border-[#E2E8F0] bg-white p-3.5 sm:p-5 shadow-card hover:border-[#CBD5E1] transition-all flex items-center justify-between">
           <div className="flex items-center gap-2.5 sm:gap-3.5">
             <div className="h-9 w-9 sm:h-11 sm:w-11 rounded-xl sm:rounded-2xl bg-[#F5F3FF] border border-purple-100 flex items-center justify-center text-[#7C3AED] shrink-0">
@@ -162,14 +278,20 @@ export default function DashboardPage() {
             </div>
             <div>
               <span className="text-lg sm:text-2xl font-black text-[#111B32] block leading-tight">
-                12.5m
+                {avgTimeDisplay}
               </span>
               <span className="text-[10px] sm:text-xs font-medium text-[#64748B]">Avg Time</span>
             </div>
           </div>
-          <div className="hidden sm:block text-xs font-bold text-[#7C3AED] bg-[#F5F3FF] px-2 py-0.5 rounded-full">
-            <span>Fast</span>
-          </div>
+          {speedBadge ? (
+            <div className="hidden sm:block text-xs font-bold text-[#7C3AED] bg-[#F5F3FF] px-2 py-0.5 rounded-full">
+              <span>{speedBadge}</span>
+            </div>
+          ) : (
+            <div className="hidden sm:block text-[11px] font-semibold text-[#94A3B8]">
+              --
+            </div>
+          )}
         </div>
 
         {/* Metric 4: Weak Topics */}
@@ -180,18 +302,18 @@ export default function DashboardPage() {
             </div>
             <div>
               <span className="text-lg sm:text-2xl font-black text-[#111B32] block leading-tight">
-                3
+                {weakTopicNames.length}
               </span>
               <span className="text-[10px] sm:text-xs font-medium text-[#64748B]">Weak Areas</span>
             </div>
           </div>
           <div className="hidden sm:flex items-center gap-0.5 text-xs font-bold text-[#E11D48] bg-[#FFF1F2] px-2 py-0.5 rounded-full">
-            <span>↑ 2</span>
+            <span>{weakTopicNames.length > 0 ? `${weakTopicNames.length} topics` : 'None'}</span>
           </div>
         </div>
       </div>
 
-      {/* 3. Start Practicing Section & Progress Graph Row */}
+      {/* 3. Start Practicing Section & Real Progress Graph Row */}
       <div className="space-y-3">
         <h2 className="text-sm font-bold text-[#111B32] uppercase tracking-wider">
           Start Practicing
@@ -239,7 +361,7 @@ export default function DashboardPage() {
                 </div>
                 <h3 className="font-bold text-[#111B32] text-sm">Custom Mock Configurator</h3>
                 <p className="text-[11px] text-[#64748B] mt-1.5 leading-relaxed">
-                  Choose subjects, topics, question count and time in-itas as per your plan.
+                  Choose subjects, topics, question count and time limits as per your plan.
                 </p>
               </div>
               <div className="mt-5">
@@ -279,65 +401,72 @@ export default function DashboardPage() {
             </div>
           </div>
 
-          {/* Right Progress Chart Card */}
+          {/* Right Progress Chart Card - REAL CALENDAR DATA */}
           <div className="lg:col-span-4 rounded-2xl border border-[#E2E8F0] bg-white p-5 shadow-card flex flex-col justify-between">
             <div>
               <div className="flex items-center justify-between pb-3 border-b border-[#E2E8F0]">
                 <h3 className="text-xs font-bold text-[#111B32]">Your Progress</h3>
-                <span className="text-[11px] font-semibold text-[#64748B] cursor-pointer">Last 7 Days ▾</span>
+                <span className="text-[11px] font-semibold text-[#64748B]">Last 7 Days</span>
               </div>
 
-              {/* Bar Chart Mockup */}
+              {/* Real Bar Chart */}
               <div className="pt-4 pb-2">
                 <div className="flex items-end justify-between gap-2 h-28 px-2">
-                  {[
-                    { day: 'Mon', h: '45%' },
-                    { day: 'Tue', h: '60%' },
-                    { day: 'Wed', h: '35%' },
-                    { day: 'Thu', h: '90%', active: true, count: '18 Qs' },
-                    { day: 'Fri', h: '50%' },
-                    { day: 'Sat', h: '70%' },
-                    { day: 'Sun', h: '40%' },
-                  ].map((bar, i) => (
-                    <div key={i} className="flex-1 flex flex-col items-center gap-1.5 h-full justify-end">
-                      {bar.active && (
-                        <span className="rounded bg-[#0F172A] px-1.5 py-0.5 text-[9px] font-bold text-white shadow-xs">
-                          {bar.count}
+                  {last7Days.map((bar, i) => {
+                    const heightPct =
+                      bar.count > 0 ? Math.max(14, Math.round((bar.count / maxDayCount) * 100)) : 4;
+                    return (
+                      <div key={i} className="flex-1 flex flex-col items-center gap-1.5 h-full justify-end">
+                        {bar.count > 0 ? (
+                          <span className="rounded bg-[#0F172A] px-1.5 py-0.5 text-[9px] font-bold text-white shadow-xs whitespace-nowrap">
+                            {bar.count} Qs
+                          </span>
+                        ) : null}
+                        <div
+                          style={{ height: `${heightPct}%` }}
+                          title={`${bar.day} (${bar.dateStr}): ${bar.count} questions`}
+                          className={`w-full max-w-[18px] rounded-t-md transition-all ${
+                            bar.count > 0
+                              ? bar.isToday
+                                ? 'bg-[#155DFC]'
+                                : 'bg-[#60A5FA]'
+                              : 'bg-slate-100 hover:bg-slate-200'
+                          }`}
+                        />
+                        <span
+                          className={`text-[10px] font-semibold ${
+                            bar.isToday ? 'text-[#155DFC] font-bold' : 'text-[#94A3B8]'
+                          }`}
+                        >
+                          {bar.day}
                         </span>
-                      )}
-                      <div
-                        style={{ height: bar.h }}
-                        className={`w-full max-w-[18px] rounded-t-md transition-all ${
-                          bar.active ? 'bg-[#155DFC]' : 'bg-[#EFF6FF] hover:bg-blue-200'
-                        }`}
-                      />
-                      <span className="text-[10px] font-semibold text-[#94A3B8]">{bar.day}</span>
-                    </div>
-                  ))}
+                      </div>
+                    );
+                  })}
                 </div>
               </div>
             </div>
 
-            {/* Bottom Chart Stats */}
+            {/* Bottom Real Chart Stats */}
             <div className="pt-3 border-t border-[#E2E8F0] grid grid-cols-3 text-center text-xs">
               <div>
-                <span className="font-extrabold text-[#111B32] block">142</span>
+                <span className="font-extrabold text-[#111B32] block">{questionsLast7}</span>
                 <span className="text-[10px] text-[#64748B]">Questions Practiced</span>
               </div>
               <div>
-                <span className="font-extrabold text-[#059669] block">76.9%</span>
+                <span className="font-extrabold text-[#059669] block">{accLast7}</span>
                 <span className="text-[10px] text-[#64748B]">Accuracy</span>
               </div>
               <div>
-                <span className="font-extrabold text-[#7C3AED] block">12.5 min</span>
-                <span className="text-[10px] text-[#64748B]">Avg. Time / 25 Qs</span>
+                <span className="font-extrabold text-[#7C3AED] block">{avgTimeDisplay}</span>
+                <span className="text-[10px] text-[#64748B]">Avg. Time / Test</span>
               </div>
             </div>
           </div>
         </div>
       </div>
 
-      {/* 4. Diagnostic Alert: Weak Topics Banner */}
+      {/* 4. Diagnostic Alert: Weak Topics */}
       <div className="rounded-2xl border border-[#E2E8F0] bg-white p-5 shadow-card space-y-3">
         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-[#E2E8F0] pb-2.5">
           <div className="flex items-center gap-2">
@@ -347,36 +476,48 @@ export default function DashboardPage() {
             </h2>
           </div>
           <Link href="/bookmarks" className="text-xs text-[#155DFC] font-semibold hover:underline">
-            Mistake Notebook ({mistakes.length}) →
+            Mistake Notebook ({unresolvedMistakes.length}) →
           </Link>
         </div>
 
         <p className="text-xs text-[#64748B]">
-          You incurred negative marks in the following topics across your recent mock test attempts:
+          Negative marks and errors recorded from your mock test attempts:
         </p>
 
-        <div className="flex flex-wrap items-center justify-between gap-3 pt-1">
-          <div className="flex flex-wrap items-center gap-2">
-            {['Profit, Loss & Discount', 'Time & Work', 'Ratio & Proportion', 'Simple Interest'].map((topic, i) => (
-              <span
-                key={i}
-                className="rounded-xl border border-rose-200 bg-[#FFF1F2] px-3 py-1 text-xs font-semibold text-[#E11D48]"
-              >
-                {topic}
-              </span>
-            ))}
+        {weakTopicNames.length === 0 ? (
+          <div className="py-3 px-4 rounded-xl bg-[#F0FDF4] border border-[#BBF7D0] text-xs text-[#166534] flex items-center justify-between">
+            <span>🎉 Excellent accuracy! No negative mark traps recorded in your recent tests.</span>
+            <Link
+              href="/mock-setup?mode=topic_practice"
+              className="text-xs font-bold text-[#155DFC] hover:underline"
+            >
+              Practice Topics →
+            </Link>
           </div>
+        ) : (
+          <div className="flex flex-wrap items-center justify-between gap-3 pt-1">
+            <div className="flex flex-wrap items-center gap-2">
+              {weakTopicNames.map((topic, i) => (
+                <span
+                  key={i}
+                  className="rounded-xl border border-rose-200 bg-[#FFF1F2] px-3 py-1 text-xs font-semibold text-[#E11D48]"
+                >
+                  {topic}
+                </span>
+              ))}
+            </div>
 
-          <Link
-            href="/mock-setup?mode=topic_practice"
-            className="rounded-xl bg-[#0F172A] px-5 py-2.5 text-xs font-bold text-white hover:bg-slate-800 shadow-xs transition-colors shrink-0"
-          >
-            Start 15-Question Revision Drill →
-          </Link>
-        </div>
+            <Link
+              href="/mock-setup?mode=topic_practice"
+              className="rounded-xl bg-[#0F172A] px-5 py-2.5 text-xs font-bold text-white hover:bg-slate-800 shadow-xs transition-colors shrink-0"
+            >
+              Start 15-Question Revision Drill →
+            </Link>
+          </div>
+        )}
       </div>
 
-      {/* 5. Bottom Three-Panel Grid: Enrolled Examinations, Recent Mock Tests, Quick Actions */}
+      {/* 5. Bottom Three-Panel Grid: Enrolled Examinations, Real Recent Mock Tests, Quick Actions */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
         {/* Panel 1: Enrolled Examinations */}
         <div className="rounded-2xl border border-[#E2E8F0] bg-white p-5 shadow-card flex flex-col justify-between">
@@ -389,38 +530,44 @@ export default function DashboardPage() {
             </div>
 
             <div className="space-y-2.5 pt-3">
-              {[
-                { name: 'SSC CGL (Combined Graduate Level)', tier: 'Tier-I: 100 Qs • 60m', active: true },
-                { name: 'SSC CHSL (10+2 Combined Higher Secondary Level)', tier: 'Tier-I: 100 Qs • 60m', active: false },
-                { name: 'SSC MTS & Havaldar (Multi-Tasking Staff)', tier: 'Tier-I: 90 Qs • 90m', active: false },
-              ].map((ex, i) => (
-                <div
-                  key={i}
-                  className={`rounded-xl border p-3 flex items-center justify-between transition-all ${
-                    ex.active
-                      ? 'border-[#60A5FA] bg-[#EFF6FF] shadow-2xs'
-                      : 'border-[#E2E8F0] hover:border-slate-300 bg-white'
-                  }`}
-                >
-                  <div className="flex items-center gap-3">
-                    <div className="h-8 w-8 rounded-lg bg-[#EFF6FF] text-[#155DFC] flex items-center justify-center shrink-0">
-                      <FileText className="h-4 w-4" />
+              {EXAMS_CATALOGUE.slice(0, 3).map((ex) => {
+                const isActive = profile.targetExams.includes(ex.id);
+                return (
+                  <div
+                    key={ex.id}
+                    onClick={() => toggleTargetExam(ex.id)}
+                    className={`cursor-pointer rounded-xl border p-3 flex items-center justify-between transition-all ${
+                      isActive
+                        ? 'border-[#60A5FA] bg-[#EFF6FF] shadow-2xs'
+                        : 'border-[#E2E8F0] hover:border-slate-300 bg-white'
+                    }`}
+                  >
+                    <div className="flex items-center gap-3">
+                      <div className="h-8 w-8 rounded-lg bg-[#EFF6FF] text-[#155DFC] flex items-center justify-center shrink-0">
+                        <FileText className="h-4 w-4" />
+                      </div>
+                      <div>
+                        <p className="text-xs font-bold text-[#111B32]">{ex.name}</p>
+                        <span className="text-[10px] text-[#64748B] font-medium block mt-0.5">
+                          {ex.conductingBody} • {ex.tiers.length} Tiers
+                        </span>
+                      </div>
                     </div>
-                    <div>
-                      <p className="text-xs font-bold text-[#111B32]">{ex.name}</p>
-                      <span className="text-[10px] text-[#64748B] font-medium block mt-0.5">{ex.tier}</span>
+                    <div
+                      className={`h-4 w-4 rounded-full border-2 flex items-center justify-center ${
+                        isActive ? 'border-[#155DFC] bg-[#155DFC]' : 'border-slate-300'
+                      }`}
+                    >
+                      {isActive && <span className="h-1.5 w-1.5 rounded-full bg-white" />}
                     </div>
                   </div>
-                  <div className={`h-4 w-4 rounded-full border-2 flex items-center justify-center ${ex.active ? 'border-[#155DFC] bg-[#155DFC]' : 'border-slate-300'}`}>
-                    {ex.active && <span className="h-1.5 w-1.5 rounded-full bg-white" />}
-                  </div>
-                </div>
-              ))}
+                );
+              })}
             </div>
           </div>
         </div>
 
-        {/* Panel 2: Recent Mock Tests */}
+        {/* Panel 2: Real Recent Mock Tests */}
         <div className="rounded-2xl border border-[#E2E8F0] bg-white p-5 shadow-card flex flex-col justify-between">
           <div>
             <div className="flex items-center justify-between pb-3 border-b border-[#E2E8F0]">
@@ -431,32 +578,58 @@ export default function DashboardPage() {
             </div>
 
             <div className="space-y-2.5 pt-3">
-              {[
-                { title: 'SSC CGL - Full Mock Test', meta: '10 Oct 2026 • 100 Qs • 60m', score: '72%' },
-                { title: 'Quantitative Aptitude - Topic Drill', meta: '8 Oct 2026 • 25 Qs • 30m', score: '64%' },
-                { title: 'English Comprehension - Practice', meta: '6 Oct 2026 • 25 Qs • 25m', score: '80%' },
-              ].map((test, i) => (
-                <div
-                  key={i}
-                  className="rounded-xl border border-[#E2E8F0] p-3 flex items-center justify-between hover:bg-[#F8FAFC] transition-colors"
-                >
-                  <div className="flex items-center gap-3">
-                    <div className="h-8 w-8 rounded-lg bg-slate-100 text-[#64748B] flex items-center justify-center shrink-0">
-                      <Calendar className="h-4 w-4" />
-                    </div>
-                    <div>
-                      <p className="text-xs font-bold text-[#111B32]">{test.title}</p>
-                      <span className="text-[10px] text-[#64748B] block mt-0.5">{test.meta}</span>
-                    </div>
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <span className="rounded-lg bg-[#ECFDF5] border border-emerald-200 px-2 py-0.5 text-xs font-bold text-[#059669]">
-                      {test.score}
-                    </span>
-                    <ChevronRight className="h-4 w-4 text-[#94A3B8]" />
-                  </div>
+              {pastAttempts.length === 0 ? (
+                <div className="text-center py-6 px-3 bg-[#F8FAFC] rounded-xl border border-dashed border-[#CBD5E1] space-y-2">
+                  <p className="text-xs font-semibold text-[#64748B]">No mock tests completed yet.</p>
+                  <p className="text-[11px] text-[#94A3B8]">
+                    Take your first CBT mock test to start tracking your performance.
+                  </p>
+                  <Link
+                    href="/mock-setup?mode=official_simulation"
+                    className="inline-block mt-2 px-3 py-1.5 rounded-lg bg-[#155DFC] text-white text-xs font-bold hover:bg-[#124BD4] transition-colors"
+                  >
+                    Start a Mock Test →
+                  </Link>
                 </div>
-              ))}
+              ) : (
+                pastAttempts.slice(0, 3).map((test, i) => {
+                  const dateFormatted = test.submittedAt
+                    ? new Date(test.submittedAt).toLocaleDateString('en-IN', {
+                        day: 'numeric',
+                        month: 'short',
+                        year: 'numeric',
+                      })
+                    : 'Recent';
+                  const timeMins = test.totalTimeSpentSeconds
+                    ? Math.round(test.totalTimeSpentSeconds / 60)
+                    : 0;
+                  return (
+                    <div
+                      key={test.attemptId || i}
+                      className="rounded-xl border border-[#E2E8F0] p-3 flex items-center justify-between hover:bg-[#F8FAFC] transition-colors"
+                    >
+                      <div className="flex items-center gap-3">
+                        <div className="h-8 w-8 rounded-lg bg-slate-100 text-[#64748B] flex items-center justify-center shrink-0">
+                          <Calendar className="h-4 w-4" />
+                        </div>
+                        <div>
+                          <p className="text-xs font-bold text-[#111B32]">{test.title || test.examName}</p>
+                          <span className="text-[10px] text-[#64748B] block mt-0.5">
+                            {dateFormatted} • {test.totalQuestions} Qs •{' '}
+                            {timeMins > 0 ? `${timeMins}m` : 'Completed'}
+                          </span>
+                        </div>
+                      </div>
+                      <div className="flex items-center gap-2">
+                        <span className="rounded-lg bg-[#ECFDF5] border border-emerald-200 px-2 py-0.5 text-xs font-bold text-[#059669]">
+                          {test.accuracyPercentage}%
+                        </span>
+                        <ChevronRight className="h-4 w-4 text-[#94A3B8]" />
+                      </div>
+                    </div>
+                  );
+                })
+              )}
             </div>
           </div>
         </div>
